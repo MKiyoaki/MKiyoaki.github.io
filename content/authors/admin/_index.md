@@ -93,10 +93,12 @@ social:
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    display:
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/MKiyoaki
@@ -114,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Yifei Shi is a student of computer science at the King's College London. His research interests include distributed robotics, mobile computing and programmable matter. 
+Yifei Shi is a student of computer science at the King's College London. His research interests include natural language processing, aritificial intelligence and multimodal computing. 
 {style="text-align: justify;"}
