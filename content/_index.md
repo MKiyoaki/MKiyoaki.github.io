@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -182,8 +183,8 @@ sections:
       text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: yifeishi.1224@icloud.com
-      phone: 0751 063 2380
+      email: yifeishi.1224@gmail.com
+      phone: +44 751 063 2380
 #      appointment_url: 'https://calendly.com'
 #      address:
 #        street: 450 Serra Mall

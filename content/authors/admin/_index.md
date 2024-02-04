@@ -114,6 +114,7 @@ social:
 highlight_name: true
 ---
 
-I am a student of computer science at the King's College London. 
-My research interests include artificial intelligence and multimodal computing, especially for sentiment analysis.
+I am currently a 2nd year student in BSc Computer Science at the King's College London. 
+
+My research interests include artificial intelligence and multimodal computing, and I'm expecting to explore the possibilities for AI to complete different tasks, particularly for sentiment analysis.
 {style="text-align: justify;"}
