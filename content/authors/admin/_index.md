@@ -25,7 +25,7 @@ organizations:
     url: https://www.kcl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multimodal computing, sentiment analysis and artificial intelligence.
+bio: My research interests include artificial intelligence, deep learning, multimodal computing and sentiment analysis.
 
 # Interests to show in About widget
 interests:
@@ -115,5 +115,5 @@ highlight_name: true
 ---
 
 I am a student of computer science at the King's College London. 
-My research interests include natural language processing, aritificial intelligence and multimodal computing.
+My research interests include artificial intelligence and multimodal computing, especially for sentiment analysis.
 {style="text-align: justify;"}

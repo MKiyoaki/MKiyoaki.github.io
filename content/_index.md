@@ -69,7 +69,7 @@ sections:
           location: London
           date_start: '2023-07-01'
           date_end: '2023-09-16'
-          description: 
+          description: Collaborated on the Robotic Manipulation research project as part of the King’s Undergraduate Research Fellowship (KURF). 
     design:
       columns: '2'
 #  - block: collection
