@@ -88,17 +88,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: false
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-    display:
-      header: false
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: false
+#  - icon: google-scholar # Alternatively, use `graduation-cap` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/MKiyoaki
@@ -116,5 +114,6 @@ social:
 highlight_name: true
 ---
 
-Yifei Shi is a student of computer science at the King's College London. His research interests include natural language processing, aritificial intelligence and multimodal computing. 
+I am a student of computer science at the King's College London. 
+My research interests include natural language processing, aritificial intelligence and multimodal computing.
 {style="text-align: justify;"}
