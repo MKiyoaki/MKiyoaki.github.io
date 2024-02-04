@@ -67,8 +67,8 @@ sections:
           company_url: 'https://www.kcl.ac.uk'
 #          company_logo: org-x
           location: London
-          date_start: '2023-07'
-          date_end: '2023-09'
+          date_start: '2023-07-01'
+          date_end: '2023-09-16'
           description: 
     design:
       columns: '2'
