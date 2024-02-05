@@ -31,7 +31,8 @@ bio: My research interests include artificial intelligence, deep learning, multi
 interests:
   - Artificial Intelligence
   - Multimodal Computing
-  - Sentiment Analysis
+  - Embodied Intelligence
+  - Robotics
 
 # Education to show in About widget
 education:
