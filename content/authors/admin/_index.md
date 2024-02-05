@@ -25,7 +25,7 @@ organizations:
     url: https://www.kcl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, deep learning, multimodal computing and sentiment analysis.
+bio: My research interests include artificial intelligence, deep learning, multimodal computing and embodied intelligence.
 
 # Interests to show in About widget
 interests:
