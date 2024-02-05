@@ -47,38 +47,38 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+#        percent: 80
         icon: python
         icon_pack: fab
       - name: Pytorch
         description: ''
-        percent: 100
+#        percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+#        percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#        icon_pack: fas
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera-retro
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -114,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a 2nd year student in BSc Computer Science at the King's College London. 
+I am currently a 2nd year student in B.Sc. Computer Science at the King's College London. 
 
-My research interests include artificial intelligence and multimodal computing, and I'm expecting to explore the possibilities for AI to complete different tasks, particularly for sentiment analysis.
+My research interests include artificial intelligence and multimodal computing for embodied intelligence.
 {style="text-align: justify;"}
