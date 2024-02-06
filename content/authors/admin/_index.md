@@ -25,14 +25,14 @@ organizations:
     url: https://www.kcl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, deep learning, multimodal computing and embodied intelligence.
+bio: My research interests include artificial intelligence, reinforcement learning, multimodal computing and embodied AI.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Multimodal Computing
-  - Embodied Intelligence
+  - Reinforcement Learning
   - Robotics
+  - Embodied AI
 
 # Education to show in About widget
 education:
@@ -43,24 +43,24 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-#        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Pytorch
-        description: ''
-#        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-#        percent: 40
-        icon: database
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+##        percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Pytorch
+#        description: ''
+##        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+##        percent: 40
+#        icon: database
+#        icon_pack: fas
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -115,7 +115,8 @@ social:
 highlight_name: true
 ---
 
-I am currently a 2nd year student in B.Sc. Computer Science at the King's College London. 
+I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. 
 
-My research interests include artificial intelligence and multimodal computing for embodied intelligence.
+My research interests include artificial intelligence and multimodal computing for embodied intelligence. As I approach the culmination of my undergraduate studies, I am enthusiastically pursuing a PhD position for Fall 2025.
+
 {style="text-align: justify;"}
