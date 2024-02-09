@@ -21,7 +21,7 @@ role: Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: King's College Lonodn
+  - name: King's College London
     url: https://www.kcl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
