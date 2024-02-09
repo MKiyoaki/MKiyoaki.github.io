@@ -25,13 +25,13 @@ organizations:
     url: https://www.kcl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, reinforcement learning, multimodal computing and embodied AI.
+bio: My research interests include artificial intelligence, robotics, robot learning and embodied AI.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Reinforcement Learning
   - Robotics
+  - Robot Learning
   - Embodied AI
 
 # Education to show in About widget
@@ -115,8 +115,8 @@ social:
 highlight_name: true
 ---
 
-I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. 
+I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. Previously I took participate in the King's Undergraduate Research Fellowship (KURF) with the researching on Robotics Manipulation. 
 
-My research interests include artificial intelligence and multimodal computing for embodied intelligence. As I approach the culmination of my undergraduate studies, I am enthusiastically pursuing a PhD position for Fall 2025.
+My research interests include artificial intelligence, robotics, robot learning and embodied AI. I am eagerly seeking opportunities for a summer research internship in 2024, with plans to pursue a Ph.D. position starting in Fall 2025.
 
 {style="text-align: justify;"}
