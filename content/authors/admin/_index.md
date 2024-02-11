@@ -107,6 +107,6 @@ highlight_name: true
 
 I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. Previously I took participate in the King's Undergraduate Research Fellowship (KURF) with the researching on Robotics Manipulation. 
 
-My research interests include artificial intelligence, robotics, robot learning and embodied AI. I am eagerly seeking opportunities for a summer research internship in 2024, with plans to pursue a Ph.D. position after graduation.
+My research interests include artificial intelligence, robotics, robot learning and embodied AI. I am eagerly seeking opportunities for a summer internship opportunity in 2024, with plans to pursue a Ph.D. position after graduation.
 
 {style="text-align: justify;"}
