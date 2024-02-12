@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Computer Science
+role: Undergraduate of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computer Science
+    - course: B.Sc in Computer Science
       institution: King's College London
       year: 2025
 
@@ -105,8 +105,8 @@ social:
 highlight_name: true
 ---
 
-I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. Previously I took participate in the King's Undergraduate Research Fellowship (KURF) with the researching on Robotics Manipulation. 
+Hello. My name is Yifei Shi (石 一飞), and I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. 
 
-My research interests include artificial intelligence, robotics, robot learning and embodied AI. I am eagerly seeking opportunities for a summer internship opportunity in 2024, with plans to pursue a Ph.D. position after graduation.
+My research interests include artificial intelligence, robotics, robot learning and embodied AI. I would like to pursue a Ph.D. position after graduation in 2025.
 
 {style="text-align: justify;"}
