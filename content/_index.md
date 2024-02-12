@@ -70,7 +70,9 @@ sections:
           location: London
           date_start: '2023-07-01'
           date_end: '2023-09-16'
-          description: Collaborated on the research project of "Robotic Manipulation of deformable objects underpinned by vision and tactile sensing", as a part of the King’s Undergraduate Research Fellowship (KURF). 
+          description: Under the supervision of King’s Undergraduate Research Fellowship (KURF) Program, Mainly focusing on
+            - Reinforcement Learning
+            - Robotics Manipulation
     design:
       columns: '2'
 #  - block: collection
