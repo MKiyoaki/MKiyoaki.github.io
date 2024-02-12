@@ -70,9 +70,11 @@ sections:
           location: London
           date_start: '2023-07-01'
           date_end: '2023-09-16'
-          description: Under the supervision of King’s Undergraduate Research Fellowship (KURF) Program, Mainly focusing on
-            - Reinforcement Learning
-            - Robotics Manipulation
+          description: |2-
+            Under the supervision of King’s Undergraduate Research Fellowship (KURF) Program, Mainly focusing on:
+          
+            * Reinforcement Learning
+            * Robotics Manipulation
     design:
       columns: '2'
 #  - block: collection
