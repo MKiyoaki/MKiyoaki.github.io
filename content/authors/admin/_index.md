@@ -31,7 +31,7 @@ bio: My research interests include artificial intelligence, robotics, robot lear
 interests:
   - Artificial Intelligence
   - Robotics
-  - Robot Learning
+  - Reinforcement Learning
   - Embodied AI
 
 # Education to show in About widget
@@ -105,8 +105,8 @@ social:
 highlight_name: true
 ---
 
-Hello. My name is Yifei Shi (石 一飞), and I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. 
+Hello. My name is Yifei Shi, and I am currently a 2nd year student in B.Sc. Computer Science at King's College London, UK. 
 
-My research interests include artificial intelligence, robotics, robot learning and embodied AI. I would like to pursue a Ph.D. position after graduation in 2025.
+My research interests include artificial intelligence, robotics, robot learning, robot perception, reinforcement learning and embodied AI. I would like to pursue a Ph.D. position after graduation in 2025.
 
 {style="text-align: justify;"}
