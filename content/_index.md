@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     id: experience
     content:
@@ -63,17 +55,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assisstant
+        - title: Research Assistant
           company: King's College London
           company_url: 'https://www.kcl.ac.uk'
 #          company_logo: org-x
-          location: London
+          location: London, UK
           date_start: '2023-07-01'
           date_end: '2023-09-16'
           description: |2-
             Under the supervision of King’s Undergraduate Research Fellowship (KURF) Program, Mainly focusing on:
           
             * Reinforcement Learning
+            * Deep Learning
             * Robotics Manipulation
     design:
       columns: '2'
