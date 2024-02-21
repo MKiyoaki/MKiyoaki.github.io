@@ -74,6 +74,7 @@ sections:
             Under the supervision of King’s Undergraduate Research Fellowship (KURF) Program, Mainly focusing on:
           
             * Reinforcement Learning
+            * Deep Learning
             * Robotics Manipulation
     design:
       columns: '2'
