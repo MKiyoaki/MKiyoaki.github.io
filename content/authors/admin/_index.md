@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 石一飞
+title: Yifei Shi
 
 # Name pronunciation (optional)
-name_pronunciation: Yifei Shi
+# name_pronunciation: Yifei Shi
 
 # Full name (for SEO)
 first_name: Yifei
@@ -30,7 +30,8 @@ bio: My research interests include artificial intelligence, robotics including R
 # Interests to show in About widget
 interests:
   - Robotics
-  - Reinforcement Learning
+  - Multimodal learning
+  - Explainable AI
   - Embodied AI
 
 # Education to show in About widget
@@ -104,8 +105,8 @@ social:
 highlight_name: true
 ---
 
-Hello. My name is Yifei Shi, and I am currently an undergraduate student in B.Sc. Computer Science at King's College London, UK. 
+Hello. My name is Yifei Shi, and I am currently an undergraduate student in BSc Computer Science at King's College London, UK. 
 
-My research interests include artificial intelligence, robotics, robot learning, robot perception, reinforcement learning and embodied AI. I would like to pursue a Ph.D. position after graduation in 2025.
+My research interests include Artificial Intelligence, Robotics, Multimodal learning, Explainable AI and Embodied AI. 
 
 {style="text-align: justify;"}

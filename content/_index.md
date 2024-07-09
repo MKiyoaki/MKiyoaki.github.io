@@ -55,19 +55,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
-          company: King's College London
-          company_url: 'https://www.kcl.ac.uk'
+        - title: Research Assistant, Google DeepMind Research Ready Programme
+          company: AFAR Lab, University of Cambridge
+          company_url: 'https://cambridge-afar.github.io'
+#          company_logo: org-x
+          location: Cambridge, UK
+          date_start: '2024-07-01'
+          date_end: '2024-09-01'
+          description: |2-
+            Under the TBC
+          
+            * TBC
+        - title: Research Assistant, King’s Undergraduate Research Fellowship
+          company: Centre for Robotics Research, King's College London
+          company_url: 'https://www.kcl.ac.uk/research/core'
 #          company_logo: org-x
           location: London, UK
           date_start: '2023-07-01'
-          date_end: '2023-09-16'
+          date_end: '2023-09-01'
           description: |2-
-            Under the supervision of King’s Undergraduate Research Fellowship (KURF) Program, Mainly focusing on:
+            Under the topic of robot visual-tactile perception, mainly focusing on:
           
-            * Reinforcement Learning
-            * Deep Learning
-            * Robotics Manipulation
+            * Deep Reinforcement Learning (DRL) for Agent models, within the environments from Gymnasium by OpenAI.  
+            * Evaluate the application of different algorithms and optimizer for specific given environment. 
+            * Explore optimizing techniques for DRL agents under sparse reward situation. 
     design:
       columns: '2'
 #  - block: collection
