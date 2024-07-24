@@ -55,7 +55,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant, Google DeepMind Research Ready Programme
+        - title: Research Assistant, Google DeepMind Research Ready
           company: AFAR Lab, University of Cambridge
           company_url: 'https://cambridge-afar.github.io'
 #          company_logo: org-x
@@ -63,9 +63,11 @@ sections:
           date_start: '2024-07-01'
           date_end: '2024-09-01'
           description: |2-
-            Under the TBC
-          
-            * TBC
+            Under the supervision of Dr Irmak Dogan and Prof Hatice Gunes, mainly focusing on:
+            
+            * Explainable AI (XAI) in the context of Human Robot Interaction. 
+            * Video based classification model training. 
+            
         - title: Research Assistant, King’s Undergraduate Research Fellowship
           company: Centre for Robotics Research, King's College London
           company_url: 'https://www.kcl.ac.uk/research/core'
