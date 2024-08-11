@@ -33,8 +33,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: '#8BB7AE' # '#1976d2'
+        gradient_start: '#A2BAA8' # '#004ba0'
         text_color_light: true
   - block: about.biography
     id: about
@@ -194,7 +194,7 @@ sections:
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yifeishi.1224@gmail.com
-      phone: +44 751 063 2380
+#      phone: +44 751 063 2380
 #      appointment_url: 'https://calendly.com'
 #      address:
 #        street: 450 Serra Mall
