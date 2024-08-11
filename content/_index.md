@@ -194,7 +194,7 @@ sections:
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yifeishi.1224@gmail.com
-#      phone: +44 751 063 2380
+#      phone: 0
 #      appointment_url: 'https://calendly.com'
 #      address:
 #        street: 450 Serra Mall
