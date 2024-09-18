@@ -104,8 +104,8 @@ social:
 highlight_name: true
 ---
 
-Hello. My name is Yifei Shi, and I am currently a final year undergraduate student in BSc Computer Science at King's College London, UK. 
+Hello. My name is Yifei Shi, and I am currently a final year undergraduate student in Computer Science at King's College London, UK. 
 
-My research interests include Artificial Intelligence, Robotics, Multimodal learning and Explainable AI. 
+I have a strong interest in researching on Artificial Intelligence related technologies. My research interests include, Robotics, Multimodal learning and Explainable AI. 
 
 {style="text-align: justify;"}
