@@ -25,14 +25,13 @@ organizations:
     url: https://www.kcl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, robotics including Robot Perception and Robot Learning, reinforcement learning, and embodied AI.
+bio: My research interests include artificial intelligence, robotics including Robot Perception and Robot Learning, Multimodal learning, Explainable AI and Embodied AI.
 
 # Interests to show in About widget
 interests:
   - Robotics
   - Multimodal learning
   - Explainable AI
-  - Embodied AI
 
 # Education to show in About widget
 education:
@@ -93,7 +92,7 @@ social:
     link: https://github.com/MKiyoaki
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yifei-shi-69aaa2231/
+    link: https://www.linkedin.com/in/yifei-shi-915b062a9/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -105,8 +104,8 @@ social:
 highlight_name: true
 ---
 
-Hello. My name is Yifei Shi, and I am currently an undergraduate student in BSc Computer Science at King's College London, UK. 
+Hello. My name is Yifei Shi, and I am currently a final year undergraduate student in BSc Computer Science at King's College London, UK. 
 
-My research interests include Artificial Intelligence, Robotics, Multimodal learning, Explainable AI and Embodied AI. 
+My research interests include Artificial Intelligence, Robotics, Multimodal learning and Explainable AI. 
 
 {style="text-align: justify;"}
