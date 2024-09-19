@@ -63,8 +63,8 @@ sections:
           date_start: '2024-07-01'
           date_end: '2024-09-01'
           description: |2-
-            Under the supervision of Dr Irmak Dogan and Prof Hatice Gunes, investigate the application of explainable AI for Human-Robot Interaction to detect human awkwardness basing on their body languages. Mainly focusing on:
-            
+            * Under the supervision of Dr Irmak Dogan and Prof Hatice Gunes.
+            * Investigate the application of explainable AI for Human-Robot Interaction to detect human awkwardness basing on their body languages. 
             * Addressing imbalanced problems for raw datasets by stratified sampling, with different oversampling and undersampling algorithms. 
             * Explainable AI (XAI) in the context of Human Robot Interaction. 
             * Video based classification model training basing on state-of-the-art CNN-based model implementation. 
@@ -78,8 +78,7 @@ sections:
           date_start: '2023-07-01'
           date_end: '2023-09-01'
           description: |2-
-            Investigate the topic of robot visual-tactile perception, mainly focusing on:
-          
+            * Investigate the topic of robot visual-tactile perception. 
             * Deep Reinforcement Learning (DRL) for Agent models, within the environments from Gymnasium by OpenAI.  
             * Evaluate the application of different algorithms and optimizer for specific given environment. 
             * Explore optimizing techniques for DRL agents under sparse reward situation. 

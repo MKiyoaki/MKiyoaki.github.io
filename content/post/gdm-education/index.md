@@ -1,7 +1,7 @@
 ---
 title: Poster presentation at Google DeepMind (GDM) Education Celebration
 date: '2024-09-16'
-summary: Representing the University of Cambridge to show the outcomes from research ready project. 
+summary: Present the outcomes from research ready internship at Cambridge. 
 ---
 
 
