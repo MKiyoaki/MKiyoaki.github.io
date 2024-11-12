@@ -104,7 +104,7 @@ social:
 highlight_name: true
 ---
 
-Hello. My name is Yifei Shi, and I am currently a final year undergraduate student in Computer Science at King's College London, UK. 
+Hello. My name is Yifei Shi, and I am currently a final year undergraduate student in Computer Science at King's College London, UK. Previously I joined Google DeepMind Research Ready internship in Cambridge during the summer, 2024.
 
 I have a strong interest in researching on Artificial Intelligence related technologies. My research interests include, Robotics, Multimodal learning and Explainable AI. 
 
