@@ -69,7 +69,19 @@ sections:
             * Explainable AI (XAI) in the context of Human Robot Interaction. 
             * Video based classification model training basing on state-of-the-art CNN-based model implementation. 
             * Integrate Grad-CAM and generate video sequences with visualized localization maps from Grad-CAM outputs. 
-            
+        
+        - title: Research Assistant
+          company: Centre for Robotics Research, King's College London
+          company_url: 'https://www.kcl.ac.uk/research/core'
+#          company_logo: org-x
+          location: London, UK
+          date_start: '2024-05-01'
+          date_end: '2023-07-01'
+          description: |2-
+            * Under the supervision of Dr Shan Luo. 
+            * Developed a framework for training classification models in visual and tactile modalities data.
+            * Implemented model pruning techniques and evaluated current state-of-the-art methods for tactile classifier, achieving a maximum acceleration ratio of 187.27.accelerate the model inference.
+
         - title: Research Assistant, King’s Undergraduate Research Fellowship
           company: Centre for Robotics Research, King's College London
           company_url: 'https://www.kcl.ac.uk/research/core'
