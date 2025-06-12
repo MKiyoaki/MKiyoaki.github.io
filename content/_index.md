@@ -19,14 +19,14 @@ sections:
 #        text: Download CV
 #        url: uploads/resume.pdf
     design:
-      css_class: dark
+#      css_class: dark
       background:
 #        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: wave.svg
           filters:
-            brightness: 0.1
+            brightness: 0.75
           size: cover
           position: center
           parallax: false
@@ -42,17 +42,17 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -102,7 +102,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
+  - block: markdown
     id: contact
     content:
       title: Contact
