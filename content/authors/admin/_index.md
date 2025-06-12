@@ -91,7 +91,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-07-01
-    date_end: 2023-09-1
+    date_end: 2023-09-01
     summary: |
       Supervisor: Dr. Zhenxi Cui & Dr. Shan Luo
 
