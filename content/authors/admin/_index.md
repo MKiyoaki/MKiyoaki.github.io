@@ -50,7 +50,7 @@ interests:
 
 education:
   - area: MPhil in Advanced Computer Science
-    institution: **University of Cambridge**, Cambridge, UK
+    institution: University of Cambridge, Cambridge, UK
     date_start: 2025-10-01
     date_end: 2026-07-30
 #    summary: |
@@ -59,13 +59,13 @@ education:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
   - area: BSc (Hons) in Computer Science
-    institution: **King's College London**, London, UK
+    institution: King's College London, London, UK
     date_start: 2022-09-30
     date_end: 2025-05-30
     summary: |
       Grade: class I (Expected) |
       Award:
-      - Association of King’s College
+      - Association of King's College
       - King’s Experience Research Award.
 work:
   - position: Research Intern
