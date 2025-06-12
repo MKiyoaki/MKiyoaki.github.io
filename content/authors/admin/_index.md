@@ -10,8 +10,8 @@ first_name: Yifei
 last_name: Shi
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -49,8 +49,8 @@ interests:
   - LLM formal reasoning
 
 education:
-  - area: MPhil Advanced Computer Science
-    institution: University of Cambridge, Cambridge, UK
+  - area: MPhil in Advanced Computer Science
+    institution: **University of Cambridge**, Cambridge, UK
     date_start: 2025-10-01
     date_end: 2026-07-30
 #    summary: |
@@ -58,27 +58,24 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: BSc (Hons) Computer Science
-    institution: King's College London
+  - area: BSc (Hons) in Computer Science
+    institution: **King's College London**, London, UK
     date_start: 2022-09-30
     date_end: 2025-05-30
     summary: |
-      Grade: class I with Hons (Expected) |
+      Grade: class I (Expected) |
       Award:
       - Association of King’s College
       - King’s Experience Research Award.
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Research Intern
+    company_name: Shanghai AI Lab
+    company_url: 'https://www.shlab.org.cn'
+    company_logo: ''
+    date_start: 2025-06-01
+    date_end: ''
+    summary: |2-
+      Supervisor: Dr. Jie Fu
 #  - position: Backend Software Engineer
 #    company_name: X
 #    company_url: ''
@@ -93,43 +90,46 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
     percent: 100
+
+contact:
+  - name: yifeishi [DOT] 1224 [AT] gmail [DOT] com
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,5 +166,7 @@ languages:
 ## About Me
 
 I am currently an intern research assistant at Shanghai AI Lab and an incoming MPhil student at the University of Cambridge. Previously I obtained my undergraduate at King's College London. I also joined Google DeepMind Research Ready in the summer of 2024.
+
 I am learning to research on AI related fields. My interests include, Robotics, Multimodal learning, LLM for formal reasoning, etc. I am particularly interested in developing transparent and trustworthy AI.
+
 I am actively looking for PhD opportunity for 2026 fall. 
