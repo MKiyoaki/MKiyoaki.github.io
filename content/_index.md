@@ -21,15 +21,15 @@ sections:
     design:
       css_class: dark
       background:
-        color: #2f2f2f
-#        image:
-#          # Add your image background to `assets/media/`.
-#          filename: stacked-peaks.svg
-#          filters:
-#            brightness: 1.0
-#          size: cover
-#          position: center
-#          parallax: false
+#        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: wave.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: 'Research Interests'
