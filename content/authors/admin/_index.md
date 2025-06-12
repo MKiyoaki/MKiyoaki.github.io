@@ -62,11 +62,11 @@ education:
     institution: King's College London, London, UK
     date_start: 2022-09-30
     date_end: 2025-05-30
-    summary: |
-      Grade: class I (Expected) |
-      Award:
+    summary: |2-
+      Grade: class I (Expected) 
+      Award: |
       - Association of King's College
-      - King’s Experience Research Award.
+      - King's Experience Research Award.
 work:
   - position: Research Intern
     company_name: Shanghai AI Lab, Shanghai, China
@@ -75,7 +75,7 @@ work:
     date_start: 2025-06-01
     date_end: ''
     summary: |2-
-      Supervisor: Dr. Jie Fu |
+      Supervisor: Dr. Jie Fu
       Project: LLM post-training for formal reasoning. 
   - position: Research Intern
     company_name: Google DeepMind & University of Cambridge, Cambridge, UK
@@ -84,7 +84,7 @@ work:
     date_start: 2024-07-01
     date_end: 2024-09-01
     summary: |2-
-      Supervisor: Dr. Fethiye Irmak Doğan & Prof. Hatice Gunes |
+      Supervisor: Dr. Fethiye Irmak Doğan & Prof. Hatice Gunes
       Project: Explainable analysis in detecting interaction rupture in human-robot interaction. |
   - position: Research Intern
     company_name: King's College London
