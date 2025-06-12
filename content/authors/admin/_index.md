@@ -63,8 +63,7 @@ education:
     date_start: 2022-09-30
     date_end: 2025-05-30
     summary: |
-      Grade: class I with Hons (Expected)
-      Dissertation: Unified
+      Grade: class I with Hons (Expected) |
       Award:
       - Association of King’s College
       - King’s Experience Research Award.
