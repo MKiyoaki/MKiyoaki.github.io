@@ -33,10 +33,10 @@
    * overridden in the .dark selector below for dark mode.
    */
   background:
-    radial-gradient(circle at 20% 20%, rgb(var(--color-primary-100)), transparent 25%),
-    radial-gradient(circle at 80% 30%, rgb(var(--color-primary-200)), transparent 25%),
-    radial-gradient(circle at 60% 80%, rgb(var(--color-primary-300)), transparent 25%),
-    radial-gradient(circle at 30% 70%, rgb(var(--color-primary-50)), transparent 30%);
+    radial-gradient(circle at 20% 20%, rgb(var(--color-primary-200)), transparent 25%),
+    radial-gradient(circle at 80% 30%, rgb(var(--color-primary-300)), transparent 25%),
+    radial-gradient(circle at 60% 80%, rgb(var(--color-primary-400)), transparent 25%),
+    radial-gradient(circle at 30% 70%, rgb(var(--color-primary-100)), transparent 30%);
 }
 
 /*
