@@ -17,7 +17,7 @@ last_name: Shi
 superuser: true
 
 # Role/position/tagline
-role: Incoming MPhil Student
+role: Incoming MPhil Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
