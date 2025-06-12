@@ -18,18 +18,20 @@ sections:
 #      button:
 #        text: Download CV
 #        url: uploads/resume.pdf
-    design:
+#    design:
 #      css_class: dark
-      background:
-        color: 2f2f2f
-        image:
-          # Add your image background to `assets/media/`.
+#      background:
+#        color: black
+#        image:
+#          # Add your image background to `assets/media/`.
 #          filename: wave.svg
-          filters:
-            brightness: 0.75
-          size: cover
-          position: center
-          parallax: false
+#          filters:
+#            brightness: 0.75
+#          size: cover
+#          position: center
+#          parallax: false
+    design:
+      css_class: 'hb-aurora-background'
   - block: markdown
     content:
       title: 'Research Interests'
