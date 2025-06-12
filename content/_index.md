@@ -19,14 +19,14 @@ sections:
 #        text: Download CV
 #        url: uploads/resume.pdf
     design:
-#      css_class: dark
+      css_class: dark
       background:
 #        color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: wave.svg
+#          filename: wave.svg
           filters:
-            brightness: 0.75
+            brightness: 0.9
           size: cover
           position: center
           parallax: false
@@ -106,5 +106,6 @@ sections:
     id: contact
     content:
       title: Contact
-      username: admin
+      text: |-
+        yifeishi [DOT] 1224 [AT] gmail [DOT] com
 ---

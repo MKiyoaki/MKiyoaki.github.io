@@ -135,9 +135,6 @@ languages:
   - name: Chinese
     percent: 100
 
-contact:
-  - name: yifeishi [DOT] 1224 [AT] gmail [DOT] com
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
