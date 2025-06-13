@@ -1,76 +1,20 @@
-.hb-aurora-background {
-  position: relative;
+#waves-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
   overflow: hidden;
-  /* Ensure content within the section is visible above the background */
-  z-index: 0;
-}
-
-/*
- * 2. The pseudo-element that creates the animated gradient.
- * It's positioned absolutely to fill the parent container and sits
- * behind the actual content (using z-index: -1).
- */
-.hb-aurora-background::before {
-  content: '';
-  position: absolute;
-  z-index: -1; /* Place behind the section's content */
-
-  /* Make it much larger than the container to allow for smooth movement */
-  width: 250%;
-  height: 250%;
-
-  /* Center the oversized element */
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-  /* The animation definition */
-  animation: moveGradient 20s ease-in-out infinite alternate;
-
   /*
-   * 3. Gradient Definition using your theme's color variables.
-   * We define the colors for light mode here. These will be
-   * overridden in the .dark selector below for dark mode.
-   */
-  background:
-    radial-gradient(circle at 20% 20%, rgb(var(--color-primary-200)), transparent 25%),
-    radial-gradient(circle at 80% 30%, rgb(var(--color-primary-300)), transparent 25%),
-    radial-gradient(circle at 60% 80%, rgb(var(--color-primary-400)), transparent 25%),
-    radial-gradient(circle at 30% 70%, rgb(var(--color-primary-100)), transparent 30%);
+    你可以在这里设置背景颜色，
+    或者在下面的JS配置中设置，建议在JS中设置。
+    background-color: #f0f8ff;
+  */
 }
 
-/*
- * 4. Dark Mode color overrides.
- * When the .dark class is active on the body, these styles will
- * apply, swapping the light colors for the dark ones from your theme.
- */
-.dark .hb-aurora-background::before {
-  background:
-    radial-gradient(circle at 20% 20%, rgb(var(--color-primary-900)), transparent 30%),
-    radial-gradient(circle at 80% 30%, rgb(var(--color-primary-800)), transparent 30%),
-    radial-gradient(circle at 60% 80%, rgb(var(--color-primary-700)), transparent 25%),
-    radial-gradient(circle at 30% 70%, rgb(var(--color-primary-600)), transparent 30%);
-}
-
-
-/*
- * 5. The animation keyframes.
- * This controls how the background pseudo-element moves and rotates over time.
- */
-@keyframes moveGradient {
-  0% {
-    transform: translate(-50%, -50%) rotate(0deg);
-  }
-  25% {
-    transform: translate(-40%, -55%) rotate(90deg);
-  }
-  50% {
-    transform: translate(-60%, -40%) rotate(180deg);
-  }
-  75% {
-    transform: translate(-55%, -60%) rotate(270deg);
-  }
-  100% {
-    transform: translate(-50%, -50%) rotate(360deg);
-  }
+.waves-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
 }

@@ -31,7 +31,7 @@ sections:
 #          position: center
 #          parallax: false
     design:
-      css_class: 'hb-aurora-background'
+      css_class: 'waves-background'
   - block: markdown
     content:
       title: 'Research Interests'
