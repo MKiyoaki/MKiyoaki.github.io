@@ -14,12 +14,12 @@
   z-index: -1;
   overflow: hidden;
 
-  background-color: rgb(var(--color-primary-300), 0.3);
+  background-color: rgba(var(--color-primary-300), 0.3);
   --waves-line-color: transparent;
 }
 
 .dark .waves-container-local {
-  background-color: rgb(var(--color-primary-600), 0.3);
+  background-color: rgba(var(--color-primary-600), 0.3);
   --waves-line-color: transparent;
 }
 
