@@ -40,12 +40,12 @@
   z-index: -2;
   overflow: hidden;
   background-color: rgb(242, 242, 246); /* rgb(var(--color-primary-300)); */
-  --waves-line-color: rgba(28, 28, 34, 0.75);
+  --waves-line-color: rgba(var(--color-primary-500), 0.5);
 }
 
 .dark .waves-container-local {
   background-color: rgb(28, 28, 34); /* rgb(var(--color-primary-600)); */
-  --waves-line-color: rgba(242, 242, 246, 0.75);
+  --waves-line-color: rgba(var(--color-primary-500), 0.5);
 }
 
 .waves-canvas-local {
