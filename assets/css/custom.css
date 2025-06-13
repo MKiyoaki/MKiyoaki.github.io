@@ -15,11 +15,11 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  background-color: rgba(254, 254, 254, 0.5);
+  background-color: rgba(252, 252, 252, 0.6);
 }
 
 .dark .waves-background::before {
-  background-color: rgba(28, 28, 34, 0.5);
+  background-color: rgba(28, 28, 34, 0.6);
 }
 
 /* 这是波浪动画的容器，它现在是所有层级的最底层
@@ -33,12 +33,12 @@
   z-index: -2;
   overflow: hidden;
   background-color: rgb(var(--color-primary-300));
-  --waves-line-color: transparent;
+  --waves-line-color: rgb(252, 252, 252);
 }
 
 .dark .waves-container-local {
   background-color: rgb(var(--color-primary-600));
-  --waves-line-color: transparent;
+  --waves-line-color: rgb(28, 28, 34);
 }
 
 .waves-canvas-local {
