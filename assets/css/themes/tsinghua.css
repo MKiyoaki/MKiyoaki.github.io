@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: TSINGHUA */
+:root {
+  --color-primary-50: 251 244 255;
+  --color-primary-100: 247 232 255;
+  --color-primary-200: 238 209 253;
+  --color-primary-300: 228 173 250;
+  --color-primary-400: 213 124 246;
+  --color-primary-500: 191 74 235;
+  --color-primary-600: 165 42 207;
+  --color-primary-700: 139 31 172;
+  --color-primary-800: 116 28 140;
+  --color-primary-900: 91 26 107;
+  --color-primary-950: 63 6 76;
+}

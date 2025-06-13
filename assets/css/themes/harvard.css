@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: HARVARD */
+:root {
+  --color-primary-50: 253 244 243;
+  --color-primary-100: 251 233 232;
+  --color-primary-200: 246 214 213;
+  --color-primary-300: 238 181 179;
+  --color-primary-400: 228 138 136;
+  --color-primary-500: 214 93 94;
+  --color-primary-600: 193 61 69;
+  --color-primary-700: 151 43 52;
+  --color-primary-800: 136 41 52;
+  --color-primary-900: 117 38 49;
+  --color-primary-950: 64 17 22;
+}

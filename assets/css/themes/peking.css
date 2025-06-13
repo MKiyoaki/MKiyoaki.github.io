@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: PEKING */
+:root {
+  --color-primary-50: 255 242 241;
+  --color-primary-100: 255 226 224;
+  --color-primary-200: 255 201 198;
+  --color-primary-300: 255 164 159;
+  --color-primary-400: 255 111 103;
+  --color-primary-500: 251 66 56;
+  --color-primary-600: 233 36 25;
+  --color-primary-700: 196 27 17;
+  --color-primary-800: 162 26 18;
+  --color-primary-900: 135 28 22;
+  --color-primary-950: 73 10 6;
+}

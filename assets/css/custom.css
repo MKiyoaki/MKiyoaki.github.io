@@ -15,7 +15,7 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  background-color: rgba(242, 242, 246, 0.75);
+  background-color: rgba(242, 242, 244, 0.75);
 }
 
 .dark .waves-background::before {
@@ -48,35 +48,3 @@
   height: 100%;
 }
 
-
-/*
-  ==========================================
-  Aurora Background
-  ==========================================
-*/
-.aurora-background {
-  position: relative;
-  z-index: 0;
-  overflow: hidden;
-  background-color: rgba(242, 242, 246, 1);
-}
-
-.dark .aurora-background {
-  background-color: rgba(28, 28, 34, 1);
-}
-
-.aurora-background .aurora-container {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-}
-
-.aurora-background .aurora-container canvas {
-  width: 100%;
-  height: 100%;
-  display: block;
-  background-color: transparent !important;
-
-}

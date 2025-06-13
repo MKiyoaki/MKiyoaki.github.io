@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: OXFORD */
+:root {
+  --color-primary-50: 236 249 255;
+  --color-primary-100: 213 240 255;
+  --color-primary-200: 180 230 255;
+  --color-primary-300: 129 216 255;
+  --color-primary-400: 70 192 255;
+  --color-primary-500: 27 159 255;
+  --color-primary-600: 3 126 255;
+  --color-primary-700: 0 103 248;
+  --color-primary-800: 5 82 200;
+  --color-primary-900: 11 72 157;
+  --color-primary-950: 9 32 68;
+}

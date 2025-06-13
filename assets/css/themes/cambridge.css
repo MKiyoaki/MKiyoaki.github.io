@@ -1,14 +1,14 @@
 /* Hugo Blox color theme: CAMBRIDGE */
 :root {
-  --color-primary-50: 245 248 246;
-  --color-primary-100: 221 234 226;
-  --color-primary-200: 187 212 198;
-  --color-primary-300: 133 176 154;
-  --color-primary-400: 105 152 129;
-  --color-primary-500: 79 125 104;
-  --color-primary-600: 62 99 83;
-  --color-primary-700: 52 81 69;
-  --color-primary-800: 45 66 58;
-  --color-primary-900: 40 57 50;
-  --color-primary-950: 20 31 27;
+  --color-primary-50: 244 249 248;
+  --color-primary-100: 218 237 232;
+  --color-primary-200: 182 217 209;
+  --color-primary-300: 126 185 174;
+  --color-primary-400: 96 161 151;
+  --color-primary-500: 70 134 125;
+  --color-primary-600: 54 107 100;
+  --color-primary-700: 47 86 82;
+  --color-primary-800: 41 70 67;
+  --color-primary-900: 37 60 57;
+  --color-primary-950: 17 34 33;
 }

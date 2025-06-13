@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: CALTECH */
+:root {
+  --color-primary-50: 254 245 238;
+  --color-primary-100: 252 233 216;
+  --color-primary-200: 248 208 176;
+  --color-primary-300: 244 174 125;
+  --color-primary-400: 237 119 56;
+  --color-primary-500: 234 98 37;
+  --color-primary-600: 219 73 27;
+  --color-primary-700: 182 54 24;
+  --color-primary-800: 145 44 27;
+  --color-primary-900: 117 39 25;
+  --color-primary-950: 63 17 11;
+}
