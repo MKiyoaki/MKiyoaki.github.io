@@ -24,7 +24,7 @@ sections:
 #        color: black
 #        image:
 #          # Add your image background to `assets/media/`.
-#          filename: wave.svg
+#          filename: ocean.svg
 #          filters:
 #            brightness: 0.75
 #          size: cover

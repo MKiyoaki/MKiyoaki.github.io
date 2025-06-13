@@ -22,16 +22,16 @@
     const computedStyle = getComputedStyle(container);
     const lineColorFromCSS = computedStyle.getPropertyValue('--waves-line-color').trim();
     const config = {
-        lineColor: lineColorFromCSS || 'rgba(0,0,0,0.2)',
+        lineColor: lineColorFromCSS,
         waveSpeedX: 0.0125,
         waveSpeedY: 0.005,
-        waveAmpX: 16,
-        waveAmpY: 8,
+        waveAmpX: 32,
+        waveAmpY: 16,
         xGap: 10,
         yGap: 32,
         friction: 0.925,
-        tension: 0.005,
-        maxCursorMove: 50,
+        tension: 0.01,
+        maxCursorMove: 100,
     };
     const ctx = canvas.getContext('2d');
     let bounding = container.getBoundingClientRect();
