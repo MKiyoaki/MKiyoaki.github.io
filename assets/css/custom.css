@@ -1,6 +1,9 @@
+/* waves background */
 .waves-background {
   position: relative;
   z-index: 0;
+  /* 确保内容不会溢出到其他部分 */
+  overflow: hidden;
 }
 
 .waves-container-local {
