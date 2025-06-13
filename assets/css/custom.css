@@ -1,7 +1,7 @@
 /* assets/scss/custom.scss */
 
 /* 为应用波浪背景的区块设置定位参考 */
-.has-waves-background {
+.waves-background {
   position: relative; /* 关键：让内部绝对定位的元素以此为基准 */
   z-index: 0;
 }
