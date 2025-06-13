@@ -4,7 +4,6 @@
      * 通过 Hugo Blox 的 body-end hook 加载。
      */
     document.addEventListener('DOMContentLoaded', () => {
-      // 选择器匹配你在 landing.md 中设置的 css_class
       const waveSections = document.querySelectorAll('.waves-background');
 
       if (waveSections.length === 0) {
@@ -38,13 +37,13 @@
         lineColor: lineColorFromCSS || 'rgba(0,0,0,0.2)',
         waveSpeedX: 0.0125,
         waveSpeedY: 0.005,
-        waveAmpX: 32,
-        waveAmpY: 16,
+        waveAmpX: 16,
+        waveAmpY: 8,
         xGap: 10,
         yGap: 32,
         friction: 0.925,
         tension: 0.005,
-        maxCursorMove: 100,
+        maxCursorMove: 50,
       };
 
       const ctx = canvas.getContext('2d');

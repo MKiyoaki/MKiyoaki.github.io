@@ -2,7 +2,6 @@
 .waves-background {
   position: relative;
   z-index: 0;
-  /* 确保内容不会溢出到其他部分 */
   overflow: hidden;
 }
 
@@ -15,13 +14,13 @@
   z-index: -1;
   overflow: hidden;
 
-  background-color: rgb(var(--color-primary-300));
-  --waves-line-color: rgba(var(--color-primary-700), 0.4);
+  background-color: rgb(var(--color-primary-300), 0.3);
+  --waves-line-color: transparent;
 }
 
 .dark .waves-container-local {
-  background-color: rgb(var(--color-primary-600));
-  --waves-line-color: rgba(var(--color-primary-200), 0.4);
+  background-color: rgb(var(--color-primary-600), 0.3);
+  --waves-line-color: transparent;
 }
 
 .waves-canvas-local {
