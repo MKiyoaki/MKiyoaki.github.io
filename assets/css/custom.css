@@ -1,19 +1,26 @@
-#waves-background {
-  position: fixed;
+/* assets/scss/custom.scss */
+
+/* 为应用波浪背景的区块设置定位参考 */
+.has-waves-background {
+  position: relative; /* 关键：让内部绝对定位的元素以此为基准 */
+  z-index: 0;
+}
+
+/* JS创建的背景容器样式 */
+.waves-container-local {
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: -1;
+  z-index: -1; /* 保证在区块内容（文字、头像）的后面 */
   overflow: hidden;
-  /*
-    你可以在这里设置背景颜色，
-    或者在下面的JS配置中设置，建议在JS中设置。
-    background-color: #f0f8ff;
-  */
+  /* 背景颜色将由 JS 动态设置 */
+  background-color: var(--waves-bg-color);
 }
 
-.waves-canvas {
+/* 画布样式 */
+.waves-canvas-local {
   display: block;
   width: 100%;
   height: 100%;
