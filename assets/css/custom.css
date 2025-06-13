@@ -24,11 +24,11 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  background-color: rgba(246, 246, 250, 0.9);
+  background-color: rgba(248, 248, 250, 0.925);
 }
 
 .dark .waves-background::before {
-  background-color: rgba(24, 24, 30, 0.9);
+  background-color: rgba(28, 28, 34, 0.925);
 }
 
 .waves-container-local {
@@ -39,12 +39,12 @@
   height: 100%;
   z-index: -2;
   overflow: hidden;
-  background-color: rgb(246, 246, 250); /* rgb(var(--color-primary-300)); */
+  background-color: rgb(248, 248, 250); /* rgb(var(--color-primary-300)); */
   --waves-line-color: rgb(var(--color-primary-500));
 }
 
 .dark .waves-container-local {
-  background-color: rgb(24, 24, 30); /* rgb(var(--color-primary-600)); */
+  background-color: rgb(28, 28, 34); /* rgb(var(--color-primary-600)); */
   --waves-line-color: rgb(var(--color-primary-500));
 }
 
