@@ -37,9 +37,9 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       text: |-
-        I'm currently a research intern in the Moonshot team at Shanghai AI Lab. I am studying how to involve formal languages into LLM reasoning process to reduce the hallucination and create safe and trustworthy AI agents. 
+        I am currently a research intern at Shanghai AI Lab. I am studying how to introduce formal languages into LLM reasoning process to reduce the hallucination and create safe and trustworthy AI agents. 
 
-        I apply a range of qualitative and quantitative methods, especially with reinforcement learning. 
+        I apply a range of qualitative and quantitative methods, especially the technologies about reinforcement learning. 
         
         Please reach out to collaborate:)
     design:
