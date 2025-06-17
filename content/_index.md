@@ -32,18 +32,18 @@ sections:
 #          parallax: false
     design:
       css_class: 'waves-background'
-#  - block: markdown
-#    content:
-#      title: 'Research Interests'
-#      subtitle: ''
-#      text: |-
-#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-#
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-#        
-#        Please reach out to collaborate 😃
-#    design:
-#      columns: '1'
+  - block: markdown
+    content:
+      title: 'Research Interests'
+      subtitle: ''
+      text: |-
+        I'm currently a research intern in the Moonshot team at Shanghai AI Lab. I am studying how to involve formal languages into LLM reasoning process to reduce the hallucination and create safe and trustworthy AI agents. 
+
+        I apply a range of qualitative and quantitative methods, especially with reinforcement learning. 
+        
+        Please reach out to collaborate:)
+    design:
+      columns: '1'
 #  - block: collection
 #    id: papers
 #    content:
