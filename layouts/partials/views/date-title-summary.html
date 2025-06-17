@@ -3,9 +3,7 @@
 {{ $summary := $item.Params.summary | default $item.Params.description | default $item.Summary }}
 {{ $summary =  $summary | page.RenderString }}
 
-<div class="mt-16 sm:mt-20 w-fit">
-  <div class="flex max-w-3xl flex-col space-y-16">
-<article class="md:grid md:grid-cols-4 md:items-baseline">
+<article class="md:grid md:grid-cols-4 md:items-baseline first:pt-8 pt-16 border-t border-zinc-200 dark:border-zinc-700">
   <div class="md:col-span-3 {{ if ne $item.Params.linkable false }}group{{ end }} relative flex flex-col items-start">
 
     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
@@ -41,6 +39,3 @@
     datetime="{{ time.Format "2006-01-02" $item.Date }}">{{ time.Format (site.Params.locale.date_format | default ":date_long") $item.Date }}
   </time>
 </article>
-
-    </div>
-</div>
