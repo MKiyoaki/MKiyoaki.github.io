@@ -1,6 +1,6 @@
 ---
-title: Start my internship at Shanghai AI Lab
-summary: Glad to share that I will join Shanghai AI Lab as a research intern, conducting studies about LLM reasoning with formal languages.
+title: Starting my internship at Shanghai AI Lab
+summary: I am glad to share that I will join Shanghai AI Lab as a research intern, conducting studies about LLM reasoning with formal languages.
 date: 2025-06-03
 authors:
   - admin

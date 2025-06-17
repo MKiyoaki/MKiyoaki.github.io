@@ -1,6 +1,6 @@
 ---
 title: Attending the Google DeepMind Alumni Networking Session
-summary: Presenting my research and connecting with the GDM alumni community.
+summary: I am very pleased to attend the event, visit Google DeepMind office, presenting my research and connecting with the GDM alumni community.
 date: 2024-09-16
 authors:
   - admin
