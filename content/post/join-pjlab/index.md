@@ -1,8 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: Start my internship at Shanghai AI Lab
+summary: Glad to share that I will join Shanghai AI Lab as a research intern, conducting studies about LLM reasoning with formal languages.
 date: 2025-06-03
-    
 authors:
   - admin
   - Ted
