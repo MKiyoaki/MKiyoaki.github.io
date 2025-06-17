@@ -2,8 +2,12 @@
 {{ $page := .page }}
 {{ $summary := $item.Params.summary | default $item.Params.description | default $item.Summary }}
 {{ $summary =  $summary | page.RenderString }}
+<div style="border: 2px solid red; padding: 10px; margin: 20px 0; background: #fff; color: #000; font-size: 14px;">
+  <h3 style="font-weight: bold; color: red;">DEBUGGING INFO:</h3>
+  <p style="margin: 0;"><strong>This page is being rendered by the layout file located at:</strong> layouts/{{ .page.Kind }}/{{ .page.Type }}.html OR, more likely, <strong>layouts/_default/{{ .page.Kind }}.html</strong></p>
+</div>
 
-<article class="md:grid md:grid-cols-4 md:items-baseline" style="padding-top: 6rem; padding-bottom: 6rem">
+<article class="md:grid md:grid-cols-4 md:items-baseline">
   <div class="md:col-span-3 {{ if ne $item.Params.linkable false }}group{{ end }} relative flex flex-col items-start">
 
     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
