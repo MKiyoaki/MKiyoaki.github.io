@@ -3,7 +3,7 @@
 {{ $summary := $item.Params.summary | default $item.Params.description | default $item.Summary }}
 {{ $summary =  $summary | page.RenderString }}
 
-<article class="md:grid md:grid-cols-4 md:items-baseline" style="padding-top: 4rem; border-top: 1px solid #e5e7eb;">
+<article class="md:grid md:grid-cols-4 md:items-baseline" style="padding-top: 4rem; border-top: 1px solid transparent;">
   <div class="md:col-span-3 {{ if ne $item.Params.linkable false }}group{{ end }} relative flex flex-col items-start">
 
     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
