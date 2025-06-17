@@ -46,7 +46,7 @@ profiles:
 interests:
   - Robotics
   - Multimodal learning
-  - LLM formal reasoning
+  - LLM reasoning with formal languages
 
 education:
   - area: MPhil in Advanced Computer Science
