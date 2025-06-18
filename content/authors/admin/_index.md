@@ -114,6 +114,10 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Haskell
+        description: ''
+        percent: 40
+        icon: circle-stack
       - name: Prolog
         description: ''
         percent: 40
@@ -126,10 +130,6 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: TensorFlow
-        description: ''
-        percent: 80
-        icon: camera
       - name: Git
         description: ''
         percent: 60
