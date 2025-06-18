@@ -96,42 +96,64 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Scala
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+      - name: C++
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Prolog
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Technical
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: PyTorch
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: TensorFlow
         description: ''
         percent: 80
         icon: camera
+      - name: Git
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: LaTeX
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Docker
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: HPC for AI training
+        description: ''
+        percent: 60
+        icon: person-simple-walk
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 100
+    description: Native
+  - name: English
+    description: Professional
+  - name: French
+    description: Beginner
 
 # Awards.
 #   Add/remove as many awards below as you like.
