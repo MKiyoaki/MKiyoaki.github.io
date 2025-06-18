@@ -46,7 +46,7 @@ profiles:
 interests:
   - Robotics
   - Multimodal learning
-  - LLM reasoning with formal languages
+  - LLM reasoning
 
 education:
   - area: MPhil in Advanced Computer Science
@@ -111,10 +111,6 @@ skills:
         percent: 40
         icon: circle-stack
       - name: C++
-        description: ''
-        percent: 40
-        icon: circle-stack
-      - name: Haskell
         description: ''
         percent: 40
         icon: circle-stack
