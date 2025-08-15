@@ -286,6 +286,7 @@ section.block>details[open] {
 
 nav#toc {
   margin-left: 1em;
+  max-width: 600px;
 }
 
 nav#toc h1 {
