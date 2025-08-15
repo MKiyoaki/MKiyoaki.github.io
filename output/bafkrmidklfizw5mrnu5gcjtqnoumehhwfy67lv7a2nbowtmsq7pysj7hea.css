@@ -1,0 +1,54 @@
+/* education-block.css */
+
+.education-block {
+    display: grid;
+    /* 定义网格布局，两列，左侧宽度自适应，右侧内容靠右对齐 */
+    grid-template-columns: 1fr auto;
+    gap: 5px 10px; /* 行间距和列间距 */
+    align-items: start; /* 顶部对齐网格项 */
+    font-family: sans-serif; /* 可以根据喜好调整字体 */
+    margin-bottom: 20px; /* 每个教育块下方留白 */
+}
+
+.education-block .school-name {
+    font-weight: bold;
+    grid-column: 1 / 2; /* 位于第一列 */
+    text-align: left;
+}
+
+.education-block .dates {
+    font-weight: bold;
+    grid-column: 2 / 3; /* 位于第二列 */
+    text-align: right;
+}
+
+.education-block .degree {
+    font-weight: normal;
+    grid-column: 1 / 2; /* 位于第一列 */
+    text-align: left;
+    margin-top: -5px; /* 调整与上方学校名称的距离 */
+}
+
+.education-block .location {
+    font-weight: normal;
+    grid-column: 2 / 3; /* 位于第二列 */
+    text-align: right;
+    margin-top: -5px; /* 调整与上方日期的距离 */
+}
+
+.education-block .details {
+    grid-column: 1 / -1; /* 跨越所有列 */
+    margin-top: 10px; /* 与上方信息的距离 */
+}
+
+.education-block .details p,
+.education-block .details ul {
+    margin: 0; /* 移除默认的段落和列表外边距 */
+    padding: 0; /* 移除默认的列表内边距 */
+}
+
+.education-block .details ul li {
+    list-style-type: disc; /* 列表项样式，可以根据需要更改 */
+    margin-left: 20px; /* 列表项缩进 */
+    margin-bottom: 5px; /* 列表项之间的间距 */
+}
