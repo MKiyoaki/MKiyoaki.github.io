@@ -1,0 +1,13 @@
+\title{Curriculum Vitæ}
+\author{kiyoaki}
+\date{2025-08-04}
+
+\def\experience[content]{
+    \scope{
+        \put\transclude/numbered{false}
+        \transclude{\content}
+    }
+}
+
+\experience{education}
+\experience{research}

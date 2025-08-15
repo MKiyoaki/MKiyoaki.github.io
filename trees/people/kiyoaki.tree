@@ -1,0 +1,24 @@
+\title{Yifei Shi}
+\taxon{Person}
+\meta{institution}{[University of Cambridge](ucam)}
+\meta{orcid}{0009-0008-1488-187X}
+\meta{position}{MPhil Student}
+\meta{external}{https://mkiyoaki.github.io}
+
+\p{I am a MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam).
+I am a Research Intern in AI safety and LLM Post-training in [Shanghai AI Lab](shailab).
+I obtained my undergraduate degree of \em{Computer Science} at [King's College London](kcl).
+I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
+}
+
+\p{My primary research interest is centered around \strong{Reinforcement Learning} and \strong{Neuron-Symbolic} methods,
+aiming for verifiable and trustworthy AI in reasoning and decision making tasks. }
+
+\p{Furthermore, I am interested in applying these advanced technologies to real-world scenarios,
+especially in developing reliable \strong{Embodied AI and Robotic} systems. }
+
+\p{This website is built by the [Forester](https://www.forester-notes.org/index/index.xml) tool.
+You may navigate this site by pressing \code{Ctrl + K}. }
+
+\transclude{news}
+\transclude{contact}

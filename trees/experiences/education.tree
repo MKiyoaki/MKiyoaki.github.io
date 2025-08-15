@@ -1,0 +1,13 @@
+\title{Education}
+\taxon{Experience}
+
+\def\experience[content]{
+    \scope{
+        \put\transclude/metadata{true}
+        \put\transclude/numbered{false}
+        \transclude{\content}
+    }
+}
+
+\experience{edu02}
+\experience{edu01}
