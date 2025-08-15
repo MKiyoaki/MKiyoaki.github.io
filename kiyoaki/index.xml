@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://www.my-great-forest.net/kiyoaki/</fr:uri>
+    <fr:display-uri>kiyoaki</fr:display-uri>
+    <fr:route>/kiyoaki/</fr:route>
+    <fr:title text="Yifei Shi">Yifei Shi</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="institution">
+      <fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>
+    </fr:meta>
+    <fr:meta name="orcid">0009-0008-1488-187X</fr:meta>
+    <fr:meta name="position">MPhil Student</fr:meta>
+    <fr:meta name="external">https://mkiyoaki.github.io</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>I am a MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>.
+I am a Research Intern in AI safety and LLM Post-training in <fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://www.my-great-forest.net/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>.
+I obtained my undergraduate degree of <html:em>Computer Science</html:em> at <fr:link href="/kcl/" title="King's College London" uri="https://www.my-great-forest.net/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
+I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
+</html:p>
+    <html:p>My primary research interest is centered around <html:strong>Reinforcement Learning</html:strong> and <html:strong>Neuron-Symbolic</html:strong> methods,
+aiming for verifiable and trustworthy AI in reasoning and decision making tasks. </html:p>
+    <html:p>Furthermore, I am interested in applying these advanced technologies to real-world scenarios,
+especially in developing reliable <html:strong>Embodied AI and Robotic</html:strong> systems. </html:p>
+    <html:p>This website is built by the <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link> tool.
+You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:uri>https://www.my-great-forest.net/news/</fr:uri>
+        <fr:display-uri>news</fr:display-uri>
+        <fr:route>/news/</fr:route>
+        <fr:title text="News">News</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:uri>https://www.my-great-forest.net/contact/</fr:uri>
+        <fr:display-uri>contact</fr:display-uri>
+        <fr:route>/contact/</fr:route>
+        <fr:title text="Contact">Contact</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://www.my-great-forest.net/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. Additionally,
+you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/" type="external">Linkedin</fr:link>. </html:p>
+        <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
+        <html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://www.my-great-forest.net/index/</fr:uri>
+            <fr:display-uri>index</fr:display-uri>
+            <fr:route>/index/</fr:route>
+            <fr:title text="My website">My website</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+    
+    
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">MPhil Student</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>I am a MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>.
+I am a Research Intern in AI safety and LLM Post-training in <fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://www.my-great-forest.net/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>.
+I obtained my undergraduate degree of <html:em>Computer Science</html:em> at <fr:link href="/kcl/" title="King's College London" uri="https://www.my-great-forest.net/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
+I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
+</html:p><html:p>My primary research interest is centered around <html:strong>Reinforcement Learning</html:strong> and <html:strong>Neuron-Symbolic</html:strong> methods,
+aiming for verifiable and trustworthy AI in reasoning and decision making tasks. </html:p><html:p>Furthermore, I am interested in applying these advanced technologies to real-world scenarios,
+especially in developing reliable <html:strong>Embodied AI and Robotic</html:strong> systems. </html:p><html:p>This website is built by the <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link> tool.
+You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p><fr:tree show-metadata="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter /></fr:tree><fr:tree show-metadata="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://www.my-great-forest.net/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. Additionally,
+you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/" type="external">Linkedin</fr:link>. </html:p><html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p><html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree>
+</fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://www.my-great-forest.net/kcl/</fr:uri>
+            <fr:display-uri>kcl</fr:display-uri>
+            <fr:route>/kcl/</fr:route>
+            <fr:title text="King's College London">King's College London</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:meta name="position">London, UK</fr:meta>
+            <fr:meta name="external">https://www.kcl.ac.uk</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://www.my-great-forest.net/shailab/</fr:uri>
+            <fr:display-uri>shailab</fr:display-uri>
+            <fr:route>/shailab/</fr:route>
+            <fr:title text="Shanghai AI Lab">Shanghai AI Lab</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:meta name="position">Shanghai, China</fr:meta>
+            <fr:meta name="external">https://www.shlab.org.cn</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://www.my-great-forest.net/ucam/</fr:uri>
+            <fr:display-uri>ucam</fr:display-uri>
+            <fr:route>/ucam/</fr:route>
+            <fr:title text="University of Cambridge">University of Cambridge</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:meta name="position">Cambridge, UK</fr:meta>
+            <fr:meta name="external">https://www.cam.ac.uk</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
