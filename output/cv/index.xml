@@ -100,8 +100,7 @@ Gymnasium simulations for robotic manipulation. </html:p></fr:mainmatter></fr:tr
             <fr:title text="Contact">Contact</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. Additionally,
-you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/" type="external">Linkedin</fr:link>. </html:p>
+            <html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. </html:p>
             <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
             <html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p>
           </fr:mainmatter>

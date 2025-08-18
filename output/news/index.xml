@@ -29,77 +29,48 @@
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
-            <fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri>
-            <fr:display-uri>kiyoaki</fr:display-uri>
-            <fr:route>/kiyoaki/</fr:route>
-            <fr:title text="Yifei Shi">Yifei Shi</fr:title>
-            <fr:taxon>Person</fr:taxon>
-            <fr:meta name="institution">
-              <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>
-            </fr:meta>
-            <fr:meta name="orcid">0009-0008-1488-187X</fr:meta>
-            <fr:meta name="position">MPhil Student</fr:meta>
-            <fr:meta name="external">https://mkiyoaki.github.io</fr:meta>
+            <fr:uri>https://mkiyoaki.github.io/index/</fr:uri>
+            <fr:display-uri>index</fr:display-uri>
+            <fr:route>/index/</fr:route>
+            <fr:title text="Kiyoaki's website">Kiyoaki's website</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link> and a
+    
+    
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">MPhil Student</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link> and a
 Research Intern in <fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>, focusing on AI safety and LLM post-training.
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
-</html:p>
-            <html:p>My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
+</html:p><html:p>My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
 To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods and Reinforcement Learning.
 I am particularly passionate about applying these techniques in real-world scenarios, including building
-safe and reliable <html:strong>Embodied AI and Robotic</html:strong> systems.</html:p>
-            <html:p>As part of a collaboration with researchers from the
+safe and reliable <html:strong>Embodied AI and Robotic</html:strong> systems.</html:p><html:p>As part of a collaboration with researchers from the
 <fr:link href="/smicdt/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smicdt/" display-uri="smicdt" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
-I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p>
-            <html:p>This website is built by the <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link> tool.
-You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors />
-                <fr:uri>https://mkiyoaki.github.io/news/</fr:uri>
-                <fr:display-uri>news</fr:display-uri>
-                <fr:route>/news/</fr:route>
-                <fr:title text="News">News</fr:title>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
-    <html:li>Sep, 2025: Participate the Google DeepMind Education Event and present my poster there. </html:li></html:ul>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors />
-                <fr:uri>https://mkiyoaki.github.io/contact/</fr:uri>
-                <fr:display-uri>contact</fr:display-uri>
-                <fr:route>/contact/</fr:route>
-                <fr:title text="Contact">Contact</fr:title>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. Additionally,
-you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/" type="external">Linkedin</fr:link>. </html:p>
-                <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
-                <html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors />
-                <fr:uri>https://mkiyoaki.github.io/misc/</fr:uri>
-                <fr:display-uri>misc</fr:display-uri>
-                <fr:route>/misc/</fr:route>
-                <fr:title text="Misc. ">Misc. </fr:title>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>Less professionally, I am an avid reader of modern fiction.
+I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p><html:p>This website is built by the <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link> tool.
+You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p></fr:mainmatter></fr:tree>
+
+    
+        
+        
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participate the Google DeepMind Education Event and present my poster there. </html:li></html:ul></fr:mainmatter></fr:tree>
+    
+
+    
+        
+        
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. </html:p><html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p><html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p></fr:mainmatter></fr:tree>
+    
+
+    
+        
+        
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/misc/</fr:uri><fr:display-uri>misc</fr:display-uri><fr:route>/misc/</fr:route><fr:title text="Misc. ">Misc. </fr:title></fr:frontmatter><fr:mainmatter><html:p>Less professionally, I am an avid reader of modern fiction.
 My handle, Kiyoaki, is a tribute to the protagonist of one of my favourite books, <html:em>Spring Snow</html:em> by
 Yukio Mishima (三島 由紀夫).
-</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-          </fr:mainmatter>
+</html:p></fr:mainmatter></fr:tree>
+    
+</fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
     </fr:tree>

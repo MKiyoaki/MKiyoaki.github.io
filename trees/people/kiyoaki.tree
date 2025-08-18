@@ -23,6 +23,3 @@ I am also exploring the application of explainable AI (XAI) in real-world medica
 \p{This website is built by the [Forester](https://www.forester-notes.org/index/index.xml) tool.
 You may navigate this site by pressing \code{Ctrl + K}. }
 
-\transclude{news}
-\transclude{contact}
-\transclude{misc}

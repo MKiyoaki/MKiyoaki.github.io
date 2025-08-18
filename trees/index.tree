@@ -1,7 +1,19 @@
-\title{My website}
+\title{Kiyoaki's website}
 
 \scope{
     \put\transclude/metadata{true}
     \put\transclude/numbered{false}
     \transclude{kiyoaki}
 }
+
+\def\section[content]{
+    \scope{
+        \put\transclude/metadata{false}
+        \put\transclude/numbered{false}
+        \transclude{\content}
+    }
+}
+
+\section{news}
+\section{contact}
+\section{misc}
