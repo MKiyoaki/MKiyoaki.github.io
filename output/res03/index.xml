@@ -13,7 +13,7 @@
     <fr:meta name="position">Jun 2025 - Sep 2025</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Supervised by Dr. Jie Fu, researching on the self-play post-training schemes for verifiable
+    <html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
 Large Language Models (LLMs) with formal language. </html:p>
   </fr:mainmatter>
   <fr:backmatter>
@@ -43,7 +43,7 @@ Large Language Models (LLMs) with formal language. </html:p>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Jie Fu, researching on the self-play post-training schemes for verifiable
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
 Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
     
 
@@ -70,7 +70,21 @@ Gymnasium simulations for robotic manipulation. </html:p></fr:mainmatter></fr:tr
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/news/</fr:uri>
+            <fr:display-uri>news</fr:display-uri>
+            <fr:route>/news/</fr:route>
+            <fr:title text="News">News</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participate the Google DeepMind Education Event and present my poster there. </html:li></html:ul>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

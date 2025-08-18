@@ -101,7 +101,10 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
                 <fr:route>/news/</fr:route>
                 <fr:title text="News">News</fr:title>
               </fr:frontmatter>
-              <fr:mainmatter />
+              <fr:mainmatter>
+                <html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participate the Google DeepMind Education Event and present my poster there. </html:li></html:ul>
+              </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
@@ -116,6 +119,21 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
 you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/" type="external">Linkedin</fr:link>. </html:p>
                 <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
                 <html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://mkiyoaki.github.io/misc/</fr:uri>
+                <fr:display-uri>misc</fr:display-uri>
+                <fr:route>/misc/</fr:route>
+                <fr:title text="Misc. ">Misc. </fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Less professionally, I am an avid reader of modern fiction.
+My handle, Kiyoaki, is a tribute to the protagonist of one of my favourite books, <html:em>Spring Snow</html:em> by
+Yukio Mishima (三島 由紀夫).
+</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>

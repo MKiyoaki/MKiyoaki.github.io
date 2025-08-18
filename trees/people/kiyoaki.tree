@@ -25,3 +25,4 @@ You may navigate this site by pressing \code{Ctrl + K}. }
 
 \transclude{news}
 \transclude{contact}
+\transclude{misc}

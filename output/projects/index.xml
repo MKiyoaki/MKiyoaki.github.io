@@ -6,7 +6,7 @@
     <fr:uri>https://mkiyoaki.github.io/projects/</fr:uri>
     <fr:display-uri>projects</fr:display-uri>
     <fr:route>/projects/</fr:route>
-    <fr:title text="Publications">Publications</fr:title>
+    <fr:title text="Projects">Projects</fr:title>
   </fr:frontmatter>
   <fr:mainmatter />
   <fr:backmatter>

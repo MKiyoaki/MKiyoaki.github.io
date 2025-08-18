@@ -8,7 +8,10 @@
     <fr:route>/news/</fr:route>
     <fr:title text="News">News</fr:title>
   </fr:frontmatter>
-  <fr:mainmatter />
+  <fr:mainmatter>
+    <html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participate the Google DeepMind Education Event and present my poster there. </html:li></html:ul>
+  </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
@@ -61,7 +64,10 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
                 <fr:route>/news/</fr:route>
                 <fr:title text="News">News</fr:title>
               </fr:frontmatter>
-              <fr:mainmatter />
+              <fr:mainmatter>
+                <html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participate the Google DeepMind Education Event and present my poster there. </html:li></html:ul>
+              </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
@@ -76,6 +82,21 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
 you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/" type="external">Linkedin</fr:link>. </html:p>
                 <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
                 <html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://mkiyoaki.github.io/misc/</fr:uri>
+                <fr:display-uri>misc</fr:display-uri>
+                <fr:route>/misc/</fr:route>
+                <fr:title text="Misc. ">Misc. </fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Less professionally, I am an avid reader of modern fiction.
+My handle, Kiyoaki, is a tribute to the protagonist of one of my favourite books, <html:em>Spring Snow</html:em> by
+Yukio Mishima (三島 由紀夫).
+</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -94,7 +115,25 @@ you may find my <fr:link href="https://www.linkedin.com/in/yifei-shi-915b062a9/"
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/res03/</fr:uri>
+            <fr:display-uri>res03</fr:display-uri>
+            <fr:route>/res03/</fr:route>
+            <fr:title text="Research Assistant">Research Assistant</fr:title>
+            <fr:meta name="institution">
+              <fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>
+            </fr:meta>
+            <fr:meta name="position">Jun 2025 - Sep 2025</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
+Large Language Models (LLMs) with formal language. </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
