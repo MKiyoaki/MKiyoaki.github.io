@@ -3,12 +3,12 @@
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
     <fr:authors />
-    <fr:uri>https://www.my-great-forest.net/edu02/</fr:uri>
+    <fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri>
     <fr:display-uri>edu02</fr:display-uri>
     <fr:route>/edu02/</fr:route>
     <fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title>
     <fr:meta name="institution">
-      <fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>
+      <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>
     </fr:meta>
     <fr:meta name="position">Oct 2025 - Jun 2026</fr:meta>
   </fr:frontmatter>
@@ -30,7 +30,7 @@
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
-            <fr:uri>https://www.my-great-forest.net/education/</fr:uri>
+            <fr:uri>https://mkiyoaki.github.io/education/</fr:uri>
             <fr:display-uri>education</fr:display-uri>
             <fr:route>/education/</fr:route>
             <fr:title text="Education">Education</fr:title>
@@ -40,13 +40,13 @@
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Jun 2026</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Jun 2026</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
     
 
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://www.my-great-forest.net/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
     
 </fr:mainmatter>
         </fr:tree>
@@ -68,7 +68,7 @@
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
-            <fr:uri>https://www.my-great-forest.net/ucam/</fr:uri>
+            <fr:uri>https://mkiyoaki.github.io/ucam/</fr:uri>
             <fr:display-uri>ucam</fr:display-uri>
             <fr:route>/ucam/</fr:route>
             <fr:title text="University of Cambridge">University of Cambridge</fr:title>

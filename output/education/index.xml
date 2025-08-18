@@ -3,7 +3,7 @@
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
     <fr:authors />
-    <fr:uri>https://www.my-great-forest.net/education/</fr:uri>
+    <fr:uri>https://mkiyoaki.github.io/education/</fr:uri>
     <fr:display-uri>education</fr:display-uri>
     <fr:route>/education/</fr:route>
     <fr:title text="Education">Education</fr:title>
@@ -13,13 +13,13 @@
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Jun 2026</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Jun 2026</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
     
 
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://www.my-great-forest.net/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
     
 </fr:mainmatter>
   <fr:backmatter>
@@ -40,7 +40,7 @@
           <fr:frontmatter>
             <fr:authors>
               <fr:author>
-                <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://www.my-great-forest.net/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
+                <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
               </fr:author>
             </fr:authors>
             <fr:date>
@@ -48,7 +48,7 @@
               <fr:month>8</fr:month>
               <fr:day>4</fr:day>
             </fr:date>
-            <fr:uri>https://www.my-great-forest.net/cv/</fr:uri>
+            <fr:uri>https://mkiyoaki.github.io/cv/</fr:uri>
             <fr:display-uri>cv</fr:display-uri>
             <fr:route>/cv/</fr:route>
             <fr:title text="Curriculum Vitæ">Curriculum Vitæ</fr:title>
@@ -56,35 +56,35 @@
           <fr:mainmatter>
     
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/education/</fr:uri><fr:display-uri>education</fr:display-uri><fr:route>/education/</fr:route><fr:title text="Education">Education</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/education/</fr:uri><fr:display-uri>education</fr:display-uri><fr:route>/education/</fr:route><fr:title text="Education">Education</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Jun 2026</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Jun 2026</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
     
 
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://www.my-great-forest.net/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
     
 </fr:mainmatter></fr:tree>
     
 
     
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://www.my-great-forest.net/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Jie Fu, researching on the self-play post-training schemes for verifiable
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Jie Fu, researching on the self-play post-training schemes for verifiable
 Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
     
 
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="/ucam/" title="University of Cambridge" uri="https://www.my-great-forest.net/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Fethiye Irmak Doğan &amp; Prof. Hatice Gunes, investigated
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Fethiye Irmak Doğan &amp; Prof. Hatice Gunes, investigated
 robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through videos.
 </html:p></fr:mainmatter></fr:tree>
     
@@ -92,7 +92,7 @@ robot detection capability of human awkwardness during Human-Robot Interaction (
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://www.my-great-forest.net/res01/</fr:uri><fr:display-uri>res01</fr:display-uri><fr:route>/res01/</fr:route><fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title><fr:meta name="institution">Robot Perception Lab, <fr:link href="/kcl/" title="King's College London" uri="https://www.my-great-forest.net/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jul 2023 - Sep 2023</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Zhenxi Cui &amp; Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res01/</fr:uri><fr:display-uri>res01</fr:display-uri><fr:route>/res01/</fr:route><fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title><fr:meta name="institution">Robot Perception Lab, <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jul 2023 - Sep 2023</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Zhenxi Cui &amp; Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in
 Gymnasium simulations for robotic manipulation. </html:p></fr:mainmatter></fr:tree>
     
 </fr:mainmatter></fr:tree>
