@@ -67,6 +67,24 @@ Gymnasium simulations for robotic manipulation. </html:p>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/resug/</fr:uri>
+            <fr:display-uri>resug</fr:display-uri>
+            <fr:route>/resug/</fr:route>
+            <fr:title text="Undergraduate Dissertation">Undergraduate Dissertation</fr:title>
+            <fr:meta name="institution">
+              <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>
+            </fr:meta>
+            <fr:meta name="position">Jan 2025 - Apr 2025</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Supervised by Dr. Milad Kazemi, developed a unified Multi-Agent Reinforcement Learning (MARL) pipeline to
+implement and evaluate a game theory-inspired reward transfer algorithm (MOCA) for mitigating social dilemmas.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
             <fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri>
             <fr:display-uri>kiyoaki</fr:display-uri>
             <fr:route>/kiyoaki/</fr:route>
