@@ -6,7 +6,7 @@
 \meta{external}{https://mkiyoaki.github.io}
 
 \p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam) and a
-Research Intern in [Shanghai AI Lab](shailab), focusing on AI safety and LLM post-training.
+Research Intern in [Shanghai AI Lab](shailab), focusing on AI reasoning and LLM post-training.
 I obtained my undergraduate degree of \em{Computer Science} from [King's College London](kcl).
 I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
 }
@@ -20,6 +20,6 @@ safe and reliable \strong{Embodied AI and Robotic} systems.}
 [Smart Medical Imaging CDT at King's College London & Imperial College London](smicdt),
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.}
 
-\p{This website is built by the [Forester](https://www.forester-notes.org/index/index.xml) tool.
+\p{This website is built by [Forester](https://www.forester-notes.org/index/index.xml).
 You may navigate this site by pressing \code{Ctrl + K}. }
 
