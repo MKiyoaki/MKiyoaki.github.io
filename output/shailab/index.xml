@@ -72,9 +72,10 @@ I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p>
             <html:p>My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
-To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods and Reinforcement Learning.
+To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, <html:strong>Deep Reinforcement Learning</html:strong> and the
+<html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
-safe and reliable <html:strong>Embodied AI and Robotic</html:strong> systems.</html:p>
+safe and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p>
             <html:p>As part of a collaboration with researchers from the
 <fr:link href="/smicdt/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smicdt/" display-uri="smicdt" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p>

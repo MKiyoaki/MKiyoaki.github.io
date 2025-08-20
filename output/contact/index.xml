@@ -43,9 +43,10 @@ Research Intern in <fr:link href="/shailab/" title="Shanghai AI Lab" uri="https:
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p><html:p>My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
-To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods and Reinforcement Learning.
+To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, <html:strong>Deep Reinforcement Learning</html:strong> and the
+<html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
-safe and reliable <html:strong>Embodied AI and Robotic</html:strong> systems.</html:p><html:p>As part of a collaboration with researchers from the
+safe and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p><html:p>As part of a collaboration with researchers from the
 <fr:link href="/smicdt/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smicdt/" display-uri="smicdt" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p><html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
 You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p></fr:mainmatter></fr:tree>
@@ -53,8 +54,8 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
     
         
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:ul><html:li>Jun, 2025: Start <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
-    <html:li>Sep, 2025: Participate the <fr:link href="/res02/" title="Research Assistant | Google DeepMind Research Ready" uri="https://mkiyoaki.github.io/res02/" display-uri="res02" type="local">Google DeepMind Education Event and present my poster there</fr:link>. </html:li></html:ul></fr:mainmatter></fr:tree>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:ul><html:li>Jun, 2025: Starting <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participation on the <fr:link href="/res02/" title="Research Assistant | Google DeepMind Research Ready" uri="https://mkiyoaki.github.io/res02/" display-uri="res02" type="local">Google DeepMind Education Event with poster presentation</fr:link>. </html:li></html:ul></fr:mainmatter></fr:tree>
     
 
     

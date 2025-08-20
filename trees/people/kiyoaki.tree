@@ -12,9 +12,10 @@ I am also an alumni of [Google DeepMind Education Programme](https://deepmind.go
 }
 
 \p{My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
-To this end, I specialize in \strong{Neuro-Symbolic} methods and Reinforcement Learning.
+To this end, I specialize in \strong{Neuro-Symbolic} methods, \strong{Deep Reinforcement Learning} and the
+\strong{Post-training} technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
-safe and reliable \strong{Embodied AI and Robotic} systems.}
+safe and reliable \strong{Embodied AI/Robotic} systems.}
 
 \p{As part of a collaboration with researchers from the
 [Smart Medical Imaging CDT at King's College London & Imperial College London](smicdt),
