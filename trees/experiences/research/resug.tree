@@ -1,8 +1,7 @@
-\title{Undergraduate Dissertation}
+\title{Undergraduate Individual Project}
 \meta{institution}{[King's College London](kcl)}
 \meta{position}{Jan 2025 - Apr 2025}
 
-\p{Supervised by Dr. Milad Kazemi, developed a unified Multi-Agent Reinforcement Learning (MARL) pipeline to
-implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
+\p{Supervised by Dr. Milad Kazemi, self-purposed to develop a unified Multi-Agent Reinforcement Learning (MARL) framework
+to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 }
-

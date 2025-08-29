@@ -84,8 +84,8 @@ Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Dissertation">Undergraduate Dissertation</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, developed a unified Multi-Agent Reinforcement Learning (MARL) pipeline to
-implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, self-purposed to develop a unified Multi-Agent Reinforcement Learning (MARL) framework
+to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p></fr:mainmatter></fr:tree>
     
 
@@ -93,7 +93,8 @@ implement and evaluate a game theory-inspired reward transfer algorithm for miti
         
         
         <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Fethiye Irmak Doğan &amp; Prof. Hatice Gunes, investigated
-robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through videos.
+robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through
+raw video datasets.
 </html:p></fr:mainmatter></fr:tree>
     
 

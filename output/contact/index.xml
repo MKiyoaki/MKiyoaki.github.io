@@ -9,9 +9,9 @@
     <fr:title text="Contact">Contact</fr:title>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. </html:p>
-    <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
+    <html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. </html:p>
     <html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p>
+    <html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -47,7 +47,7 @@ To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, 
 <html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
 safe and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p><html:p>As part of a collaboration with researchers from the
-<fr:link href="/smicdt/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smicdt/" display-uri="smicdt" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
+<fr:link href="/smi/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smi/" display-uri="smi" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p><html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
 You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p></fr:mainmatter></fr:tree>
 
@@ -61,7 +61,7 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
     
         
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">curriculum vitæ</fr:link>. </html:p><html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p><html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p></fr:mainmatter></fr:tree>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. </html:p><html:p>Personal email: <html:code>yifeishi DOT 1224 AT gmail DOT com</html:code>. </html:p><html:p>Academic email: <html:code>ys690 AT cam DOT ac DOT uk</html:code></html:p></fr:mainmatter></fr:tree>
     
 
     
@@ -137,8 +137,8 @@ Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Dissertation">Undergraduate Dissertation</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, developed a unified Multi-Agent Reinforcement Learning (MARL) pipeline to
-implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, self-purposed to develop a unified Multi-Agent Reinforcement Learning (MARL) framework
+to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p></fr:mainmatter></fr:tree>
     
 
@@ -146,7 +146,8 @@ implement and evaluate a game theory-inspired reward transfer algorithm for miti
         
         
         <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Fethiye Irmak Doğan &amp; Prof. Hatice Gunes, investigated
-robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through videos.
+robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through
+raw video datasets.
 </html:p></fr:mainmatter></fr:tree>
     
 

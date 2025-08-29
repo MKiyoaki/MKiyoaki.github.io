@@ -70,15 +70,15 @@ Gymnasium simulations for robotic manipulation. </html:p>
             <fr:uri>https://mkiyoaki.github.io/resug/</fr:uri>
             <fr:display-uri>resug</fr:display-uri>
             <fr:route>/resug/</fr:route>
-            <fr:title text="Undergraduate Dissertation">Undergraduate Dissertation</fr:title>
+            <fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title>
             <fr:meta name="institution">
               <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>
             </fr:meta>
             <fr:meta name="position">Jan 2025 - Apr 2025</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Supervised by Dr. Milad Kazemi, developed a unified Multi-Agent Reinforcement Learning (MARL) pipeline to
-implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
+            <html:p>Supervised by Dr. Milad Kazemi, self-purposed to develop a unified Multi-Agent Reinforcement Learning (MARL) framework
+to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p>
           </fr:mainmatter>
         </fr:tree>
@@ -109,7 +109,7 @@ To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, 
 I am particularly passionate about applying these techniques in real-world scenarios, including building
 safe and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p>
             <html:p>As part of a collaboration with researchers from the
-<fr:link href="/smicdt/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smicdt/" display-uri="smicdt" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
+<fr:link href="/smi/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smi/" display-uri="smi" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p>
             <html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
 You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p>
