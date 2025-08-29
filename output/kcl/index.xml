@@ -77,7 +77,7 @@ Gymnasium simulations for robotic manipulation. </html:p>
             <fr:meta name="position">Jan 2025 - Apr 2025</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Supervised by Dr. Milad Kazemi, self-purposed to develop a unified Multi-Agent Reinforcement Learning (MARL) framework
+            <html:p>Supervised by Dr. Milad Kazemi, purposed and developed a unified Multi-Agent Reinforcement Learning (MARL) framework
 to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p>
           </fr:mainmatter>

@@ -50,7 +50,7 @@ Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, self-purposed to develop a unified Multi-Agent Reinforcement Learning (MARL) framework
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, purposed and developed a unified Multi-Agent Reinforcement Learning (MARL) framework
 to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p></fr:mainmatter></fr:tree>
     
