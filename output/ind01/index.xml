@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri>
+    <fr:display-uri>ind01</fr:display-uri>
+    <fr:route>/ind01/</fr:route>
+    <fr:title text="Research Assistant">Research Assistant</fr:title>
+    <fr:meta name="institution">
+      <fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>
+    </fr:meta>
+    <fr:meta name="position">Jun 2025 - Sep 2025</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
+Large Language Models (LLMs) with formal language. </html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/professional/</fr:uri>
+            <fr:display-uri>professional</fr:display-uri>
+            <fr:route>/professional/</fr:route>
+            <fr:title text="Professional">Professional</fr:title>
+            <fr:taxon>Experience</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+    
+        
+        
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
+Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
+    
+</fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/news/</fr:uri>
+            <fr:display-uri>news</fr:display-uri>
+            <fr:route>/news/</fr:route>
+            <fr:title text="News">News</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:ul><html:li>Jun, 2025: Starting <fr:link href="/ind01/" title="Research Assistant" uri="https://mkiyoaki.github.io/ind01/" display-uri="ind01" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+    <html:li>Sep, 2025: Participation on the <fr:link href="/res02/" title="Research Assistant | Google DeepMind Research Ready" uri="https://mkiyoaki.github.io/res02/" display-uri="res02" type="local">Google DeepMind Education Event with poster presentation</fr:link>. </html:li></html:ul>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/shailab/</fr:uri>
+            <fr:display-uri>shailab</fr:display-uri>
+            <fr:route>/shailab/</fr:route>
+            <fr:title text="Shanghai Artificial Intelligence Laboratory">Shanghai Artificial Intelligence Laboratory</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:meta name="position">Shanghai, China</fr:meta>
+            <fr:meta name="external">https://www.shlab.org.cn</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
