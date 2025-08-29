@@ -37,14 +37,19 @@
 
     
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/professional/</fr:uri><fr:display-uri>professional</fr:display-uri><fr:route>/professional/</fr:route><fr:title text="Professional">Professional</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
 Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
     
+</fr:mainmatter></fr:tree>
+    
 
+    
+        
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
     
         
         

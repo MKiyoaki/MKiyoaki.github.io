@@ -39,7 +39,7 @@
     
     
     <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">MPhil Student</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link> and a
-Research Intern in <fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>, focusing on AI reasoning and LLM post-training.
+Research Intern in <fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>, focusing on AI reasoning and LLM post-training.
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p><html:p>My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
@@ -47,14 +47,14 @@ To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, 
 <html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
 safe and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p><html:p>As part of a collaboration with researchers from the
-<fr:link href="/smi/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smi/" display-uri="smi" type="local">Smart Medical Imaging CDT at King's College London &amp; Imperial College London</fr:link>,
+<fr:link href="/smi/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smi/" display-uri="smi" type="local">Smart Medical Imaging CDT</fr:link> at <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link> &amp; <fr:link href="/ic/" title="Imperial College London" uri="https://mkiyoaki.github.io/ic/" display-uri="ic" type="local">Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p><html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
 You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p></fr:mainmatter></fr:tree>
 
     
         
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:ul><html:li>Jun, 2025: Starting <fr:link href="/res03/" title="Research Assistant" uri="https://mkiyoaki.github.io/res03/" display-uri="res03" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:ul><html:li>Jun, 2025: Starting <fr:link href="/ind01/" title="Research Assistant" uri="https://mkiyoaki.github.io/ind01/" display-uri="ind01" type="local">my internship at Shanghai AI Lab</fr:link>. </html:li>
     <html:li>Sep, 2025: Participation on the <fr:link href="/res02/" title="Research Assistant | Google DeepMind Research Ready" uri="https://mkiyoaki.github.io/res02/" display-uri="res02" type="local">Google DeepMind Education Event with poster presentation</fr:link>. </html:li></html:ul></fr:mainmatter></fr:tree>
     
 
@@ -126,14 +126,19 @@ Yukio Mishima (三島 由紀夫).
 
     
         
-        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/professional/</fr:uri><fr:display-uri>professional</fr:display-uri><fr:route>/professional/</fr:route><fr:title text="Professional">Professional</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
 Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
     
+</fr:mainmatter></fr:tree>
+    
 
+    
+        
+        <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
     
         
         

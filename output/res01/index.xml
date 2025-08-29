@@ -41,13 +41,6 @@ Gymnasium simulations for robotic manipulation. </html:p>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai AI Lab" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
-Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
-    
-
-    
-        
-        
         <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, purposed and developed a unified Multi-Agent Reinforcement Learning (MARL) framework
 to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p></fr:mainmatter></fr:tree>

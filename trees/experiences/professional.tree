@@ -1,4 +1,13 @@
 \title{Professional}
 \taxon{Experience}
 
+\def\experience[content]{
+    \scope{
+        \put\transclude/metadata{true}
+        \put\transclude/numbered{false}
+        \transclude{\content}
+    }
+}
+
+\experience{ind01}
 
