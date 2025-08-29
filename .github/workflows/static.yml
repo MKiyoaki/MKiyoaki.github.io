@@ -28,17 +28,17 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Setup OCaml
-        uses: ocaml/setup-ocaml@v2
-        with:
-          # 使用一个稳定且较新的 OCaml 版本
-          ocaml-compiler: '4.14.x'
-
-      - name: Install Forester
-        run: opam install forester
-
-      - name: Build project
-        run: forester build forest.toml
+#      - name: Setup OCaml
+#        uses: ocaml/setup-ocaml@v2
+#        with:
+#          # 使用一个稳定且较新的 OCaml 版本
+#          ocaml-compiler: '4.14.x'
+#
+#      - name: Install Forester
+#        run: opam install forester
+#
+#      - name: Build project
+#        run: forester build forest.toml
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
