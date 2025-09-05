@@ -50,7 +50,7 @@
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link> and a
-Research Intern in <fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link>, focusing on AI reasoning and LLM post-training.
+Research Intern in <fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLM post-training.
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p>
@@ -58,7 +58,7 @@ I am also an alumni of <fr:link href="https://deepmind.google/about/education/" 
 To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, <html:strong>Deep Reinforcement Learning</html:strong> and the
 <html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
-safe and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p>
+autonomous, effective and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p>
             <html:p>As part of a collaboration with researchers from the
 <fr:link href="/smi/" title="EPSRC CDT in Smart Medical Imaging" uri="https://mkiyoaki.github.io/smi/" display-uri="smi" type="local">Smart Medical Imaging CDT</fr:link> at <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link> &amp; <fr:link href="/ic/" title="Imperial College London" uri="https://mkiyoaki.github.io/ic/" display-uri="ic" type="local">Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical diagnostics.</html:p>
