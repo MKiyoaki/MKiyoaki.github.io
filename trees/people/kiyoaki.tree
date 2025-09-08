@@ -5,14 +5,14 @@
 \meta{position}{MPhil Student}
 \meta{external}{https://mkiyoaki.github.io}
 
-\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam). My interests
-are centered around Machine Learning and Artificial Intelligence technologies. Currently I am also a Research Intern at
+\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam). Currently I am also a Research Intern at
 [Shanghai AI Laboratory](shailab), focusing on AI reasoning and LLM post-training.
 I obtained my undergraduate degree of \em{Computer Science} from [King's College London](kcl).
 I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
 }
 
-\p{My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
+\p{My interests
+are centered around Machine Learning and Artificial Intelligence technologies. My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
 To this end, I specialize in \strong{Neuro-Symbolic} methods, \strong{Deep Reinforcement Learning} and the
 \strong{Post-training} technologies of Large Language Models (LLMs).
 I am particularly passionate about applying these techniques in real-world scenarios, including building
