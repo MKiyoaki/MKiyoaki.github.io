@@ -5,18 +5,19 @@
 \meta{position}{MPhil Student}
 \meta{external}{https://mkiyoaki.github.io}
 
-\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam). Currently I am also a Research Intern at
-[Shanghai AI Laboratory](shailab), focusing on AI reasoning and LLM post-training.
+\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam), studying
+with
+Previously I was also a Research Intern at
+[Shanghai AI Laboratory](shailab), focusing on AI reasoning and LLM post-training with formal languages.
 I obtained my undergraduate degree of \em{Computer Science} from [King's College London](kcl).
 I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
 }
 
-\p{My interests
-are centered around Machine Learning and Artificial Intelligence technologies. My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
-To this end, I specialize in \strong{Neuro-Symbolic} methods, \strong{Deep Reinforcement Learning} and the
-\strong{Post-training} technologies of Large Language Models (LLMs).
-I am particularly passionate about applying these techniques in real-world scenarios, including building
-autonomous, effective and reliable \strong{Embodied AI/Robotic} systems.}
+\p{My interests lie at the intersection of \strong{Mechanistic Interpretability} and \strong{Causal Inference}.
+My primary research goal is to open the black box of Large Language Models (LLMs) to build verifiable and trustworthy AI.
+To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
+aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
+}
 
 \p{As part of a collaboration with researchers from [King's College London](kcl) & [Imperial College London](ic),
 I am also exploring the application of explainable AI (XAI) in real-world medical imaging diagnostics.}

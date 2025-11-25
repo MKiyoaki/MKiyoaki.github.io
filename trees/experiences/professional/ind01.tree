@@ -2,5 +2,7 @@
 \meta{institution}{[Shanghai AI Lab](shailab)}
 \meta{position}{Jun 2025 - Sep 2025}
 
-\p{Supervised by [Dr. Jie Fu](https://bigaidream.github.io), researching on the self-play post-training schemes for verifiable
-Large Language Models (LLMs) with formal language. }
+\p{Supervised by D[Dr. Jie Fu](https://bigaidream.github.io).
+Developing reinforcement-learning algorithms that leverage latent knowledge to prevent models from exploiting verification loopholes and
+enhance the mechanism interpretability with shortcut learning with formal language reasoning task.
+}
