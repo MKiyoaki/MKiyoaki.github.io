@@ -13,8 +13,10 @@
     <fr:meta name="position">Jun 2025 - Sep 2025</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
-Large Language Models (LLMs) with formal language. </html:p>
+    <html:p>Supervised by D<fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>.
+Developing reinforcement learning algorithms that leverage latent knowledge to mitigate verification loopholes
+and shortcut learning in formal reasoning, grounded in mechanistic interpretability.
+</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -43,8 +45,10 @@ Large Language Models (LLMs) with formal language. </html:p>
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>, researching on the self-play post-training schemes for verifiable
-Large Language Models (LLMs) with formal language. </html:p></fr:mainmatter></fr:tree>
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Lab</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by D<fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>.
+Developing reinforcement learning algorithms that leverage latent knowledge to mitigate verification loopholes
+and shortcut learning in formal reasoning, grounded in mechanistic interpretability.
+</html:p></fr:mainmatter></fr:tree>
     
 </fr:mainmatter>
         </fr:tree>

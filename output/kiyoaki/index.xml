@@ -16,17 +16,18 @@
     <fr:meta name="external">https://mkiyoaki.github.io</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>. Currently I am also a Research Intern at
-<fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLM post-training.
+    <html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>, studying
+with
+Previously I was also a Research Intern at
+<fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLM post-training with formal languages.
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p>
-    <html:p>My interests
-are centered around Machine Learning and Artificial Intelligence technologies. My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
-To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, <html:strong>Deep Reinforcement Learning</html:strong> and the
-<html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
-I am particularly passionate about applying these techniques in real-world scenarios, including building
-autonomous, effective and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p>
+    <html:p>My interests lie at the intersection of <html:strong>Mechanistic Interpretability</html:strong> and <html:strong>Causal Inference</html:strong>.
+My primary research goal is to open the black box of Large Language Models (LLMs) to build verifiable and trustworthy AI.
+To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
+aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
+</html:p>
     <html:p>As part of a collaboration with researchers from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link> &amp; <fr:link href="/ic/" title="Imperial College London" uri="https://mkiyoaki.github.io/ic/" display-uri="ic" type="local">Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical imaging diagnostics.</html:p>
     <html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
@@ -57,16 +58,17 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
           <fr:mainmatter>
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">MPhil Student</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>. Currently I am also a Research Intern at
-<fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLM post-training.
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">MPhil Student</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>, studying
+with
+Previously I was also a Research Intern at
+<fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLM post-training with formal languages.
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
-</html:p><html:p>My interests
-are centered around Machine Learning and Artificial Intelligence technologies. My primary research goal is to develop verifiable and trustworthy AI for complex reasoning and decision-making.
-To this end, I specialize in <html:strong>Neuro-Symbolic</html:strong> methods, <html:strong>Deep Reinforcement Learning</html:strong> and the
-<html:strong>Post-training</html:strong> technologies of Large Language Models (LLMs).
-I am particularly passionate about applying these techniques in real-world scenarios, including building
-autonomous, effective and reliable <html:strong>Embodied AI/Robotic</html:strong> systems.</html:p><html:p>As part of a collaboration with researchers from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link> &amp; <fr:link href="/ic/" title="Imperial College London" uri="https://mkiyoaki.github.io/ic/" display-uri="ic" type="local">Imperial College London</fr:link>,
+</html:p><html:p>My interests lie at the intersection of <html:strong>Mechanistic Interpretability</html:strong> and <html:strong>Causal Inference</html:strong>.
+My primary research goal is to open the black box of Large Language Models (LLMs) to build verifiable and trustworthy AI.
+To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
+aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
+</html:p><html:p>As part of a collaboration with researchers from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link> &amp; <fr:link href="/ic/" title="Imperial College London" uri="https://mkiyoaki.github.io/ic/" display-uri="ic" type="local">Imperial College London</fr:link>,
 I am also exploring the application of explainable AI (XAI) in real-world medical imaging diagnostics.</html:p><html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
 You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p></fr:mainmatter></fr:tree>
 
