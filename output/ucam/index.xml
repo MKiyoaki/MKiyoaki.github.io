@@ -36,6 +36,25 @@
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/respg/</fr:uri>
+            <fr:display-uri>respg</fr:display-uri>
+            <fr:route>/respg/</fr:route>
+            <fr:title text="MPhil Individual Project">MPhil Individual Project</fr:title>
+            <fr:meta name="institution">
+              <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>
+            </fr:meta>
+            <fr:meta name="position">Nov 2025 - Present</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Supervised by Prof. Andreas Vlachos, studying on the limitation of LLMs in mathematics
+error step detection tasks (compared to encoder models) with casual inference based diagnoses,
+developing intervention algorithms to fix with it.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
             <fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri>
             <fr:display-uri>edu02</fr:display-uri>
             <fr:route>/edu02/</fr:route>
@@ -80,15 +99,15 @@ raw video datasets.
             <fr:meta name="external">https://mkiyoaki.github.io</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>, studying
-with
+            <html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>,
+studying with the meta-reasoning limitations and solutions for Large Language Models (LLMs).
 Previously I was also a Research Intern at
-<fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLM post-training with formal languages.
+<fr:link href="/shailab/" title="Shanghai Artificial Intelligence Laboratory" uri="https://mkiyoaki.github.io/shailab/" display-uri="shailab" type="local">Shanghai AI Laboratory</fr:link>, focusing on AI reasoning and LLMs post-training with formal languages.
 I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>.
 I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p>
             <html:p>My interests lie at the intersection of <html:strong>Mechanistic Interpretability</html:strong> and <html:strong>Causal Inference</html:strong>.
-My primary research goal is to open the black box of Large Language Models (LLMs) to build verifiable and trustworthy AI.
+My primary research goal is to open the black box of LLMs to build verifiable and trustworthy AI.
 To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
 aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
 </html:p>

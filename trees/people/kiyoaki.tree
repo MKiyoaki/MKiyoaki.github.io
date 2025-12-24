@@ -5,16 +5,16 @@
 \meta{position}{MPhil Student}
 \meta{external}{https://mkiyoaki.github.io}
 
-\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam), studying
-with
+\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam),
+studying with the meta-reasoning limitations and solutions for Large Language Models (LLMs).
 Previously I was also a Research Intern at
-[Shanghai AI Laboratory](shailab), focusing on AI reasoning and LLM post-training with formal languages.
+[Shanghai AI Laboratory](shailab), focusing on AI reasoning and LLMs post-training with formal languages.
 I obtained my undergraduate degree of \em{Computer Science} from [King's College London](kcl).
 I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
 }
 
 \p{My interests lie at the intersection of \strong{Mechanistic Interpretability} and \strong{Causal Inference}.
-My primary research goal is to open the black box of Large Language Models (LLMs) to build verifiable and trustworthy AI.
+My primary research goal is to open the black box of LLMs to build verifiable and trustworthy AI.
 To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
 aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
 }

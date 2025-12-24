@@ -3,16 +3,20 @@
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
     <fr:authors />
-    <fr:uri>https://mkiyoaki.github.io/res01/</fr:uri>
-    <fr:display-uri>res01</fr:display-uri>
-    <fr:route>/res01/</fr:route>
-    <fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title>
-    <fr:meta name="institution">Robot Perception Lab, <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta>
-    <fr:meta name="position">Jul 2023 - Sep 2023</fr:meta>
+    <fr:uri>https://mkiyoaki.github.io/respg/</fr:uri>
+    <fr:display-uri>respg</fr:display-uri>
+    <fr:route>/respg/</fr:route>
+    <fr:title text="MPhil Individual Project">MPhil Individual Project</fr:title>
+    <fr:meta name="institution">
+      <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link>
+    </fr:meta>
+    <fr:meta name="position">Nov 2025 - Present</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Supervisor: Dr. Zhenxi Cui &amp; Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in
-Gymnasium simulations for robotic manipulation. </html:p>
+    <html:p>Supervised by Prof. Andreas Vlachos, studying on the limitation of LLMs in mathematics
+error step detection tasks (compared to encoder models) with casual inference based diagnoses,
+developing intervention algorithms to fix with it.
+</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -90,13 +94,13 @@ Gymnasium simulations for robotic manipulation. </html:p></fr:mainmatter></fr:tr
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
-            <fr:uri>https://mkiyoaki.github.io/kcl/</fr:uri>
-            <fr:display-uri>kcl</fr:display-uri>
-            <fr:route>/kcl/</fr:route>
-            <fr:title text="King's College London">King's College London</fr:title>
+            <fr:uri>https://mkiyoaki.github.io/ucam/</fr:uri>
+            <fr:display-uri>ucam</fr:display-uri>
+            <fr:route>/ucam/</fr:route>
+            <fr:title text="University of Cambridge">University of Cambridge</fr:title>
             <fr:taxon>Institution</fr:taxon>
-            <fr:meta name="position">London, UK</fr:meta>
-            <fr:meta name="external">https://www.kcl.ac.uk</fr:meta>
+            <fr:meta name="position">Cambridge, UK</fr:meta>
+            <fr:meta name="external">https://www.cam.ac.uk</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter />
         </fr:tree>
