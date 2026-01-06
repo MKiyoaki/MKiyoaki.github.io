@@ -44,7 +44,7 @@ to implement and evaluate a game theory-inspired reward transfer algorithm for m
     
         
         
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/respg/</fr:uri><fr:display-uri>respg</fr:display-uri><fr:route>/respg/</fr:route><fr:title text="MPhil Individual Project">MPhil Individual Project</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Nov 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Prof. Andreas Vlachos, studying on the limitation of LLMs in mathematics
+        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/respg/</fr:uri><fr:display-uri>respg</fr:display-uri><fr:route>/respg/</fr:route><fr:title text="MPhil Individual Project">MPhil Individual Project</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Nov 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://andreasvlachos.github.io/" type="external">Prof. Andreas Vlachos</fr:link>, studying on the limitation of LLMs in mathematics
 error step detection tasks (compared to encoder models) with casual inference based diagnoses,
 developing intervention algorithms to fix with it.
 </html:p></fr:mainmatter></fr:tree>

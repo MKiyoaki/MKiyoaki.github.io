@@ -46,7 +46,7 @@
             <fr:meta name="position">Jun 2025 - Sep 2025</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Supervised by D<fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>.
+            <html:p>Supervised by <fr:link href="https://bigaidream.github.io/" type="external">Dr. Jie Fu</fr:link>.
 Developing reinforcement learning algorithms that leverage latent knowledge to mitigate verification loopholes
 and shortcut learning in formal reasoning, grounded in mechanistic interpretability.
 </html:p>

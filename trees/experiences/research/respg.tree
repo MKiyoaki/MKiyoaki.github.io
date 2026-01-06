@@ -2,7 +2,7 @@
 \meta{institution}{[University of Cambridge](ucam)}
 \meta{position}{Nov 2025 - Present}
 
-\p{Supervised by Prof. Andreas Vlachos, studying on the limitation of LLMs in mathematics
+\p{Supervised by [Prof. Andreas Vlachos](https://andreasvlachos.github.io/), studying on the limitation of LLMs in mathematics
 error step detection tasks (compared to encoder models) with casual inference based diagnoses,
 developing intervention algorithms to fix with it.
 }
