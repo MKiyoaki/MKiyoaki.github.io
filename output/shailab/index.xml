@@ -80,8 +80,6 @@ My primary research goal is to open the black box of LLMs to build verifiable an
 To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
 aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
 </html:p>
-            <html:p>As part of a collaboration with researchers from <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link> &amp; <fr:link href="/ic/" title="Imperial College London" uri="https://mkiyoaki.github.io/ic/" display-uri="ic" type="local">Imperial College London</fr:link>,
-I am also exploring the application of explainable AI (XAI) in real-world medical imaging diagnostics.</html:p>
             <html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
 You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p>
           </fr:mainmatter>

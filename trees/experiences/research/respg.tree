@@ -2,7 +2,5 @@
 \meta{institution}{[University of Cambridge](ucam)}
 \meta{position}{Nov 2025 - Present}
 
-\p{Supervised by [Prof. Andreas Vlachos](https://andreasvlachos.github.io/), studying on the limitation of LLMs in mathematics
-error step detection tasks (compared to encoder models) with casual inference based diagnoses,
-developing intervention algorithms to fix with it.
+\p{Supervised by [Prof. Andreas Vlachos](https://andreasvlachos.github.io/), studying whether step-level mathematical verification is better modelled as discriminative inference than generation. The project compares encoder-based verifiers with decoder-based LLMs, analyses their verification representations, and tests intervention methods for reducing shortcut-driven failures.
 }
