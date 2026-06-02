@@ -1,5 +1,6 @@
 \title{Research Assistant}
-\meta{institution}{[Shanghai AI Lab](shailab)}
+\import{macros}
+\meta{institution}{\shailab}
 \meta{position}{Jun 2025 - Sep 2025}
 
 \p{Supervised by [Dr. Jie Fu](https://bigaidream.github.io).

@@ -8,7 +8,7 @@
     <fr:route>/edu01/</fr:route>
     <fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title>
     <fr:meta name="institution">
-      <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>
+      <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link>
     </fr:meta>
     <fr:meta name="position">Sep 2022 - May 2025</fr:meta>
   </fr:frontmatter>
@@ -39,17 +39,17 @@
             <fr:taxon>Experience</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
+  
     
-        
-        
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Current</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
     
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Current</fr:meta></fr:frontmatter><fr:mainmatter /></fr:tree>
+  
 
+  
     
-        
-        
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
     
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - May 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Class I (3.9/4.0)</html:p></fr:mainmatter></fr:tree>
+  
 </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
@@ -66,21 +66,7 @@
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://mkiyoaki.github.io/kcl/</fr:uri>
-            <fr:display-uri>kcl</fr:display-uri>
-            <fr:route>/kcl/</fr:route>
-            <fr:title text="King's College London">King's College London</fr:title>
-            <fr:taxon>Institution</fr:taxon>
-            <fr:meta name="position">London, UK</fr:meta>
-            <fr:meta name="external">https://www.kcl.ac.uk</fr:meta>
-          </fr:frontmatter>
-          <fr:mainmatter />
-        </fr:tree>
-      </fr:mainmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

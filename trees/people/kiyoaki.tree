@@ -1,22 +1,22 @@
 \title{Yifei Shi}
 \taxon{Person}
-\meta{institution}{[University of Cambridge](ucam)}
+\import{macros}
+\meta{institution}{\ucam}
 \meta{orcid}{0009-0008-1488-187X}
 \meta{position}{MPhil Student}
 \meta{external}{https://mkiyoaki.github.io}
 
-\p{I am an MPhil student in \em{Advanced Computer Science} at the [University of Cambridge](ucam),
+\p{I am an MPhil student in \em{Advanced Computer Science} at the \ucam,
 studying with the meta-reasoning limitations and solutions for Large Language Models (LLMs).
 Previously I was also a Research Intern at
-[Shanghai AI Laboratory](shailab), focusing on AI reasoning and LLMs post-training with formal languages.
-I obtained my undergraduate degree of \em{Computer Science} from [King's College London](kcl).
+\shailab, focusing on AI reasoning and LLMs post-training with formal languages.
+I obtained my undergraduate degree of \em{Computer Science} from \kcl.
 I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
 }
 
-\p{My interests lie at the intersection of \strong{Mechanistic Interpretability} and \strong{Causal Inference}.
-My primary research goal is to open the black box of LLMs to build verifiable and trustworthy AI.
-To this end, I specialize in developing counterfactual diagnosis methods and reinforcement-learning based post-training algorithms,
-aiming to both dissect the internal mechanisms and enhance the robust reasoning capabilities of AI models.
+\p{My research interests focus on \strong{Mechanistic Interpretability} and \strong{Mathematical Reasoning} in Large Language Models.
+I aim to build trustworthy AI by dissecting the internal mechanisms of models and aligning their reasoning paths.
+Currently, my work focuses on step-level mathematical verification—comparing encoder-based verifiers with generative LLMs—and leveraging reinforcement learning to mitigate shortcut-driven failures and verification loopholes in formal tasks.
 }
 
 \p{This website is built by [Forester](https://www.forester-notes.org/index/index.xml).

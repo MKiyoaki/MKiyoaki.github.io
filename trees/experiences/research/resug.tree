@@ -1,5 +1,6 @@
 \title{Undergraduate Individual Project}
-\meta{institution}{[King's College London](kcl)}
+\import{macros}
+\meta{institution}{\kcl}
 \meta{position}{Jan 2025 - Apr 2025}
 
 \p{Supervised by Dr. Milad Kazemi, proposed and improved a unified Multi-Agent Reinforcement Learning (MARL) framework

@@ -1,5 +1,6 @@
 \title{Research Assistant | King’s Undergraduate Research Fellowship}
-\meta{institution}{Robot Perception Lab, [King's College London](kcl)}
+\import{macros}
+\meta{institution}{Robot Perception Lab, \kcl}
 \meta{position}{Jul 2023 - Sep 2023}
 
 \p{Supervisor: Dr. Zhenxi Cui & Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in

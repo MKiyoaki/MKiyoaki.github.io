@@ -1,6 +1,20 @@
 \title{Contact}
 
+\xmlns:html{http://www.w3.org/1999/xhtml}
+
 \p{You may find more details about my experience from [Curriculum Vitæ](cv). }
 
-\p{Personal email: \code{yifeishi DOT 1224 AT gmail DOT com}. }
-\p{Academic email: \code{ys690 AT cam DOT ac DOT uk}}
+\<html:table>{
+  \<html:tr>{
+    \<html:th>{Channel}
+    \<html:th>{Details}
+  }
+  \<html:tr>{
+    \<html:td>{Academic Email}
+    \<html:td>{\code{ys690 AT cam DOT ac DOT uk}}
+  }
+  \<html:tr>{
+    \<html:td>{Personal Email}
+    \<html:td>{\code{yifeishi DOT 1224 AT gmail DOT com}}
+  }
+}

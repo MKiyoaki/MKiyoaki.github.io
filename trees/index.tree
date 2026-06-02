@@ -1,4 +1,5 @@
 \title{Kiyoaki's website}
+\import{macros}
 
 \scope{
     \put\transclude/metadata{true}
@@ -6,14 +7,7 @@
     \transclude{kiyoaki}
 }
 
-\def\section[content]{
-    \scope{
-        \put\transclude/metadata{false}
-        \put\transclude/numbered{false}
-        \transclude{\content}
-    }
-}
-
 \section{news}
+\section{publications}
 \section{contact}
 \section{misc}

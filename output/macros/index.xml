@@ -3,13 +3,10 @@
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
     <fr:authors />
-    <fr:uri>https://mkiyoaki.github.io/kcl/</fr:uri>
-    <fr:display-uri>kcl</fr:display-uri>
-    <fr:route>/kcl/</fr:route>
-    <fr:title text="King's College London">King's College London</fr:title>
-    <fr:taxon>Institution</fr:taxon>
-    <fr:meta name="position">London, UK</fr:meta>
-    <fr:meta name="external">https://www.kcl.ac.uk</fr:meta>
+    <fr:uri>https://mkiyoaki.github.io/macros/</fr:uri>
+    <fr:display-uri>macros</fr:display-uri>
+    <fr:route>/macros/</fr:route>
+    <fr:title text="Global Macros">Global Macros</fr:title>
   </fr:frontmatter>
   <fr:mainmatter />
   <fr:backmatter>

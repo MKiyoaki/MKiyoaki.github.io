@@ -1,0 +1,22 @@
+\title{Global Macros}
+
+\def\ucam{[University of Cambridge](https://www.cam.ac.uk)}
+\def\kcl{[King's College London](https://www.kcl.ac.uk)}
+\def\shailab{[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)}
+\def\ic{[Imperial College London](https://www.imperial.ac.uk)}
+
+\def\experience[content]{
+  \scope{
+    \put\transclude/metadata{true}
+    \put\transclude/numbered{false}
+    \transclude{\content}
+  }
+}
+
+\def\section[content]{
+  \scope{
+    \put\transclude/metadata{false}
+    \put\transclude/numbered{false}
+    \transclude{\content}
+  }
+}

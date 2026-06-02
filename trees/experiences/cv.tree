@@ -1,14 +1,9 @@
 \title{Curriculum Vitæ}
 \author{kiyoaki}
 \date{2026-06-01}
+\import{macros}
 
-\def\experience[content]{
-    \scope{
-        \put\transclude/numbered{false}
-        \transclude{\content}
-    }
-}
-
-\experience{education}
-\experience{professional}
-\experience{research}
+\section{education}
+\section{professional}
+\section{research}
+\section{skills}

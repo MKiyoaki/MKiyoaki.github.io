@@ -8,7 +8,7 @@
     <fr:route>/resug/</fr:route>
     <fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title>
     <fr:meta name="institution">
-      <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link>
+      <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link>
     </fr:meta>
     <fr:meta name="position">Jan 2025 - Apr 2025</fr:meta>
   </fr:frontmatter>
@@ -41,36 +41,36 @@ to implement and evaluate a game theory-inspired reward transfer algorithm for m
             <fr:taxon>Experience</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
+  
     
-        
-        
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/respg/</fr:uri><fr:display-uri>respg</fr:display-uri><fr:route>/respg/</fr:route><fr:title text="MPhil Individual Project">MPhil Individual Project</fr:title><fr:meta name="institution"><fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Nov 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://andreasvlachos.github.io/" type="external">Prof. Andreas Vlachos</fr:link>, studying whether step-level mathematical verification is better modelled as discriminative inference than generation. The project compares encoder-based verifiers with decoder-based LLMs, analyses their verification representations, and tests intervention methods for reducing shortcut-driven failures.
+    
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/respg/</fr:uri><fr:display-uri>respg</fr:display-uri><fr:route>/respg/</fr:route><fr:title text="MPhil Individual Project">MPhil Individual Project</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Nov 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by <fr:link href="https://andreasvlachos.github.io/" type="external">Prof. Andreas Vlachos</fr:link>, studying whether step-level mathematical verification is better modelled as discriminative inference than generation. The project compares encoder-based verifiers with decoder-based LLMs, analyses their verification representations, and tests intervention methods for reducing shortcut-driven failures.
 </html:p></fr:mainmatter></fr:tree>
-    
+  
 
+  
     
-        
-        
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, proposed and improved a unified Multi-Agent Reinforcement Learning (MARL) framework
+    
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/resug/</fr:uri><fr:display-uri>resug</fr:display-uri><fr:route>/resug/</fr:route><fr:title text="Undergraduate Individual Project">Undergraduate Individual Project</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Jan 2025 - Apr 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Milad Kazemi, proposed and improved a unified Multi-Agent Reinforcement Learning (MARL) framework
 to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
 </html:p></fr:mainmatter></fr:tree>
-    
+  
 
+  
     
-        
-        
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="/ucam/" title="University of Cambridge" uri="https://mkiyoaki.github.io/ucam/" display-uri="ucam" type="local">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Fethiye Irmak Doğan &amp; Prof. Hatice Gunes, investigated
+    
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Dr. Fethiye Irmak Doğan &amp; Prof. Hatice Gunes, investigated
 robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through
 raw video datasets.
 </html:p></fr:mainmatter></fr:tree>
-    
+  
 
+  
     
-        
-        
-        <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res01/</fr:uri><fr:display-uri>res01</fr:display-uri><fr:route>/res01/</fr:route><fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title><fr:meta name="institution">Robot Perception Lab, <fr:link href="/kcl/" title="King's College London" uri="https://mkiyoaki.github.io/kcl/" display-uri="kcl" type="local">King's College London</fr:link></fr:meta><fr:meta name="position">Jul 2023 - Sep 2023</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Zhenxi Cui &amp; Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in
+    
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res01/</fr:uri><fr:display-uri>res01</fr:display-uri><fr:route>/res01/</fr:route><fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title><fr:meta name="institution">Robot Perception Lab, <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Jul 2023 - Sep 2023</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Zhenxi Cui &amp; Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in
 Gymnasium simulations for robotic manipulation. </html:p></fr:mainmatter></fr:tree>
-    
+  
 </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
@@ -87,21 +87,7 @@ Gymnasium simulations for robotic manipulation. </html:p></fr:mainmatter></fr:tr
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://mkiyoaki.github.io/kcl/</fr:uri>
-            <fr:display-uri>kcl</fr:display-uri>
-            <fr:route>/kcl/</fr:route>
-            <fr:title text="King's College London">King's College London</fr:title>
-            <fr:taxon>Institution</fr:taxon>
-            <fr:meta name="position">London, UK</fr:meta>
-            <fr:meta name="external">https://www.kcl.ac.uk</fr:meta>
-          </fr:frontmatter>
-          <fr:mainmatter />
-        </fr:tree>
-      </fr:mainmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

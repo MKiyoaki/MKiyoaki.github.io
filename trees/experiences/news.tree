@@ -1,6 +1,18 @@
 \title{News}
 
-\ul{
-    \li{Jun, 2025: Starting [my internship at Shanghai AI Lab](ind01). }
-    \li{Sep, 2025: Participation on the [Google DeepMind Education Event with poster presentation](res02). }
+\xmlns:html{http://www.w3.org/1999/xhtml}
+
+\<html:table>{
+  \<html:tr>{
+    \<html:th>{Date}
+    \<html:th>{Event}
+  }
+  \<html:tr>{
+    \<html:td>[style]{white-space:nowrap}{Jun, 2025}
+    \<html:td>{Starting [my internship at Shanghai AI Lab](ind01).}
+  }
+  \<html:tr>{
+    \<html:td>[style]{white-space:nowrap}{Sep, 2025}
+    \<html:td>{Participation on the [Google DeepMind Education Event with poster presentation](res02).}
+  }
 }

@@ -1,0 +1,26 @@
+\title{Skills}
+
+\xmlns:html{http://www.w3.org/1999/xhtml}
+
+\<html:table>{
+  \<html:tr>{
+    \<html:th>{Category}
+    \<html:th>{Skills & Tools}
+  }
+  \<html:tr>{
+    \<html:td>{\strong{Programming}}
+    \<html:td>{Python, Java, JavaScript, Scala, C++, Haskell, Prolog}
+  }
+  \<html:tr>{
+    \<html:td>{\strong{Technical Tools}}
+    \<html:td>{Claude Code, Linux, Git, LaTeX, PyTorch, Docker, HPC}
+  }
+  \<html:tr>{
+    \<html:td>{\strong{Machine Learning}}
+    \<html:td>{RL, XAI, AI Alignment, LLM Post-training}
+  }
+  \<html:tr>{
+    \<html:td>{\strong{Languages}}
+    \<html:td>{Mandarin (Native), English (Professional), French (Beginner)}
+  }
+}
