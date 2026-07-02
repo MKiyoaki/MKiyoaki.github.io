@@ -49,17 +49,17 @@
           <fr:mainmatter>
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">MPhil Student</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>I am an MPhil student in <html:em>Advanced Computer Science</html:em> at the <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>,
-studying with the meta-reasoning limitations and solutions for Large Language Models (LLMs).
-Previously I was also a Research Intern at
-<fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link>, focusing on AI reasoning and LLMs post-training with formal languages.
-I obtained my undergraduate degree of <html:em>Computer Science</html:em> from <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link>.
-I am also an alumni of <fr:link href="https://deepmind.google/about/education/" type="external">Google DeepMind Education Programme</fr:link>.
-</html:p><html:p>My research interests focus on <html:strong>Mechanistic Interpretability</html:strong> and <html:strong>Mathematical Reasoning</html:strong> in Large Language Models.
-I aim to build trustworthy AI by dissecting the internal mechanisms of models and aligning their reasoning paths.
-Currently, my work focuses on step-level mathematical verification—comparing encoder-based verifiers with generative LLMs—and leveraging reinforcement learning to mitigate shortcut-driven failures and verification loopholes in formal tasks.
-</html:p><html:p>This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
-You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/kiyoaki/</fr:uri><fr:display-uri>kiyoaki</fr:display-uri><fr:route>/kiyoaki/</fr:route><fr:title text="Yifei Shi">Yifei Shi</fr:title><fr:taxon>Person</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="orcid">0009-0008-1488-187X</fr:meta><fr:meta name="position">Research Assistant</fr:meta><fr:meta name="external">https://mkiyoaki.github.io</fr:meta></fr:frontmatter><fr:mainmatter><html:p>
+    I am an MPhil student in <html:em>Advanced Computer Science</html:em> and a Research Assistant at <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>, where my research investigates how architecture and verification paradigm influence the performance of large language models on step-wise reasoning verification.
+    Prior to the MPhil, I was a Research Assistant at <fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link>, contributing to post training methods that connect LLM reasoning with formal languages in pursuit of more transparent and verifiable AI systems.
+    I completed my undergraduate degree in <html:em>Computer Science</html:em> at <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link>, graduating with First Class Honours, and I remain part of the Google DeepMind Education Programme cohort.
+</html:p><html:p>
+    My research interests lie in <html:strong>Natural Language Processing</html:strong> and the <html:strong>post training of Large Language Models</html:strong>, with particular attention to how these models are trained and evaluated when judging the validity of their own reasoning.
+    I aim to contribute to verification methods that allow the judgments produced by language models to be trusted, with particular interest in settings where such judgments inform decisions that affect people directly.
+</html:p><html:p>
+    This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
+    You may navigate this site by pressing <html:code>Ctrl + K</html:code>. 
+</html:p></fr:mainmatter></fr:tree>
 
   
     
@@ -87,7 +87,7 @@ You may navigate this site by pressing <html:code>Ctrl + K</html:code>. </html:p
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year><fr:month>6</fr:month><fr:day>2</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/error-localisation/</fr:uri><fr:display-uri>error-localisation</fr:display-uri><fr:route>/error-localisation/</fr:route><fr:title text="Verification is Not Generation: Encoder versus Decoder Models in Mathematical Error Localisation">Verification is Not Generation: Encoder versus Decoder Models in Mathematical Error Localisation</fr:title><fr:taxon>Preprint</fr:taxon><fr:meta name="venue">MPhil Thesis / Working Paper</fr:meta><fr:meta name="institution">University of Cambridge</fr:meta></fr:frontmatter><fr:mainmatter><html:p><html:strong>Yifei Shi</html:strong>, Michalis Korakakis, Rami Aly, Eric Chamoun, Andreas Vlachos.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year><fr:month>6</fr:month><fr:day>2</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/error-localisation/</fr:uri><fr:display-uri>error-localisation</fr:display-uri><fr:route>/error-localisation/</fr:route><fr:title text="Step-wise verification: don’t generate, classify!">Step-wise verification: don’t generate, classify!</fr:title><fr:taxon>Preprint</fr:taxon><fr:meta name="venue">MPhil Thesis / Working Paper</fr:meta><fr:meta name="institution">University of Cambridge</fr:meta></fr:frontmatter><fr:mainmatter><html:p><html:strong>Yifei Shi</html:strong>, Michalis Korakakis, Rami Aly, Eric Chamoun, Andreas Vlachos.</html:p></fr:mainmatter></fr:tree>
   
 </fr:mainmatter></fr:tree>
   

@@ -3,22 +3,23 @@
 \import{macros}
 \meta{institution}{\ucam}
 \meta{orcid}{0009-0008-1488-187X}
-\meta{position}{MPhil Student}
+\meta{position}{Research Assistant}
 \meta{external}{https://mkiyoaki.github.io}
 
-\p{I am an MPhil student in \em{Advanced Computer Science} at the \ucam,
-studying with the meta-reasoning limitations and solutions for Large Language Models (LLMs).
-Previously I was also a Research Intern at
-\shailab, focusing on AI reasoning and LLMs post-training with formal languages.
-I obtained my undergraduate degree of \em{Computer Science} from \kcl.
-I am also an alumni of [Google DeepMind Education Programme](https://deepmind.google/about/education/).
+\p{
+    I am an MPhil student in \em{Advanced Computer Science} and a Research Assistant at \ucam, where my research investigates how architecture and verification paradigm influence the performance of large language models on step-wise reasoning verification.
+    Prior to the MPhil, I was a Research Assistant at \shailab, contributing to post training methods that connect LLM reasoning with formal languages in pursuit of more transparent and verifiable AI systems.
+    I completed my undergraduate degree in \em{Computer Science} at \kcl, graduating with First Class Honours, and I remain part of the Google DeepMind Education Programme cohort.
 }
 
-\p{My research interests focus on \strong{Mechanistic Interpretability} and \strong{Mathematical Reasoning} in Large Language Models.
-I aim to build trustworthy AI by dissecting the internal mechanisms of models and aligning their reasoning paths.
-Currently, my work focuses on step-level mathematical verification—comparing encoder-based verifiers with generative LLMs—and leveraging reinforcement learning to mitigate shortcut-driven failures and verification loopholes in formal tasks.
+
+\p{
+    My research interests lie in \strong{Natural Language Processing} and the \strong{post training of Large Language Models}, with particular attention to how these models are trained and evaluated when judging the validity of their own reasoning.
+    I aim to contribute to verification methods that allow the judgments produced by language models to be trusted, with particular interest in settings where such judgments inform decisions that affect people directly.
 }
 
-\p{This website is built by [Forester](https://www.forester-notes.org/index/index.xml).
-You may navigate this site by pressing \code{Ctrl + K}. }
+\p{
+    This website is built by [Forester](https://www.forester-notes.org/index/index.xml).
+    You may navigate this site by pressing \code{Ctrl + K}. 
+}
 
