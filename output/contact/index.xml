@@ -9,18 +9,17 @@
     <fr:title text="Contact">Contact</fr:title>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p>
     <html:table>
   <html:tr>
     <html:th>Channel</html:th>
     <html:th>Details</html:th>
   </html:tr>
   <html:tr>
-    <html:td>Academic Email</html:td>
+    <html:td>Academic, volatile</html:td>
     <html:td><html:code>ys690 AT cam DOT ac DOT uk</html:code></html:td>
   </html:tr>
   <html:tr>
-    <html:td>Personal Email</html:td>
+    <html:td>Personal</html:td>
     <html:td><html:code>yifeishi DOT 1224 AT gmail DOT com</html:code></html:td>
   </html:tr>
 </html:table>
@@ -83,17 +82,23 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p><html:table>
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/details/</fr:uri><fr:display-uri>details</fr:display-uri><fr:route>/details/</fr:route><fr:title text="Details">Details</fr:title></fr:frontmatter><fr:mainmatter><html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p></fr:mainmatter></fr:tree>
+  
+
+  
+    
+    
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:table>
   <html:tr>
     <html:th>Channel</html:th>
     <html:th>Details</html:th>
   </html:tr>
   <html:tr>
-    <html:td>Academic Email</html:td>
+    <html:td>Academic, volatile</html:td>
     <html:td><html:code>ys690 AT cam DOT ac DOT uk</html:code></html:td>
   </html:tr>
   <html:tr>
-    <html:td>Personal Email</html:td>
+    <html:td>Personal</html:td>
     <html:td><html:code>yifeishi DOT 1224 AT gmail DOT com</html:code></html:td>
   </html:tr>
 </html:table></fr:mainmatter></fr:tree>
@@ -123,182 +128,7 @@ Yukio Mishima (三島 由紀夫).
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors>
-              <fr:author>
-                <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
-              </fr:author>
-            </fr:authors>
-            <fr:date>
-              <fr:year>2026</fr:year>
-              <fr:month>8</fr:month>
-              <fr:day>7</fr:day>
-            </fr:date>
-            <fr:uri>https://mkiyoaki.github.io/cv/</fr:uri>
-            <fr:display-uri>cv</fr:display-uri>
-            <fr:route>/cv/</fr:route>
-            <fr:title text="Kiyoaki's website &gt; Curriculum Vitæ"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Curriculum Vitæ</fr:title>
-          </fr:frontmatter>
-          <fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/education/</fr:uri><fr:display-uri>education</fr:display-uri><fr:route>/education/</fr:route><fr:title text="Education">Education</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Distinction</html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: First Class Honours</html:p></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/professional/</fr:uri><fr:display-uri>professional</fr:display-uri><fr:route>/professional/</fr:route><fr:title text="Professional">Professional</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Jie Fu</html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
-  <html:li><html:strong>RL Post-training</html:strong>: Scaled post-training algorithms on tens-of-GPUs clusters, leveraging and extending the VeRL framework to resolve long-context credit assignment from formal verifiers and mitigate reward hacking in RLVR.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. Andreas Vlachos</html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanism interpretability methods to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">AFAR Lab, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervised by Prof. Hatice Gunes (Sponsored by Google DeepMind).</html:p><html:ul><html:li><html:strong>Explainable AI</html:strong>: Built a SlowFast-based pipeline with Grad-CAM analysis for awkwardness detection in human-robot interactions based on raw videos, boosting accuracy by 11.3%.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res01/</fr:uri><fr:display-uri>res01</fr:display-uri><fr:route>/res01/</fr:route><fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title><fr:meta name="institution">Robot Perception Lab, <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Jul 2023 - Sep 2023</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Zhenxi Cui &amp; Dr. Shan Luo</html:p><html:ul><html:li><html:strong>Robotic RL</html:strong>: Investigated Reinforcement Learning (RL) agents in Gymnasium simulations for robotic manipulation.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/skills/</fr:uri><fr:display-uri>skills</fr:display-uri><fr:route>/skills/</fr:route><fr:title text="Skills">Skills</fr:title></fr:frontmatter><fr:mainmatter><html:table>
-  <html:tr>
-    <html:th>Category</html:th>
-    <html:th>Skills &amp; Tools</html:th>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>Programming</html:strong></html:td>
-    <html:td>Python, C++, Java, Scala, Haskell, Prolog, SQL</html:td>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>ML &amp; LLM</html:strong></html:td>
-    <html:td>PyTorch, Transformers, LLaMA-Factory, VeRL, vLLM, lm-evaluation-harness</html:td>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>Technical</html:strong></html:td>
-    <html:td>FSDP, Ray, HPC, Linux, Slurm, Git</html:td>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>Languages</html:strong></html:td>
-    <html:td>Mandarin (Native), English (Professional), French (Beginner)</html:td>
-  </html:tr>
-</html:table></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter>
-        </fr:tree>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors>
-              <fr:author>
-                <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
-              </fr:author>
-            </fr:authors>
-            <fr:date>
-              <fr:year>2026</fr:year>
-              <fr:month>8</fr:month>
-              <fr:day>7</fr:day>
-            </fr:date>
-            <fr:uri>https://mkiyoaki.github.io/proj/</fr:uri>
-            <fr:display-uri>proj</fr:display-uri>
-            <fr:route>/proj/</fr:route>
-            <fr:title text="Kiyoaki's website &gt; Projects &amp; Publications"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Projects &amp; Publications</fr:title>
-          </fr:frontmatter>
-          <fr:mainmatter><html:p>A collection of my research projects, course theses, and academic publications in LLM post-training and mechanistic interpretability.</html:p>
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/projects/</fr:uri><fr:display-uri>projects</fr:display-uri><fr:route>/projects/</fr:route><fr:title text="Selected Projects">Selected Projects</fr:title></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/ai-reasoning-verification/</fr:uri><fr:display-uri>ai-reasoning-verification</fr:display-uri><fr:route>/ai-reasoning-verification/</fr:route><fr:title text="AI Reasoning Verification: Stepwise Verification via NLI">AI Reasoning Verification: Stepwise Verification via NLI</fr:title><fr:taxon>Thesis</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Supervisor: Prof. Andreas Vlachos</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Reframed stepwise reasoning verification as local NLI; showed that discriminative supervision consistently outperforms generative verdict training across both encoder and decoder LMs. (Supported by the Alan Turing Institute).</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri><fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri><fr:route>/l101-sft-rl-mechanisms/</fr:route><fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title><fr:taxon>Course Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta><fr:meta name="position">Supervisors: Prof. Andreas Vlachos &amp; Dr. Pushkar Mishra</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. Demonstrated that outcome-based RL restores syntactic compliance (98.2%) while latent causal rules remain internally encoded (66% probe accuracy) despite generative execution failure.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l193-sparse-feature-circuits/</fr:uri><fr:display-uri>l193-sparse-feature-circuits</fr:display-uri><fr:route>/l193-sparse-feature-circuits/</fr:route><fr:title text="Sparse Feature Circuits in Sycophantic Behaviour">Sparse Feature Circuits in Sycophantic Behaviour</fr:title><fr:taxon>Course Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L193)</fr:meta><fr:meta name="position">Supervisors: Prof. Mateja Jamnik, Mateo Espinosa Zarlenga &amp; Dr. Zohreh Shams</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Applied <fr:link href="https://arxiv.org/abs/2403.19647" type="external">Sparse Feature Circuits (SFC) and SHIFT framework</fr:link> with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. Showed that targeted ablation of <fr:tex display="inline"><![CDATA[10^2 - 10^3]]></fr:tex> sparse features reduces sycophancy rates from 85.2% to 45.2% with minimal capability degradation.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2025</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/marl-social-dilemmas/</fr:uri><fr:display-uri>marl-social-dilemmas</fr:display-uri><fr:route>/marl-social-dilemmas/</fr:route><fr:title text="Multi-Agent RL: Algorithm Design for Social Dilemmas">Multi-Agent RL: Algorithm Design for Social Dilemmas</fr:title><fr:taxon>Thesis</fr:taxon><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Supervisor: Dr. Milad Kazemi</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/publications/</fr:uri><fr:display-uri>publications</fr:display-uri><fr:route>/publications/</fr:route><fr:title text="Publications">Publications</fr:title></fr:frontmatter><fr:mainmatter><html:p>A list of my publications, manuscripts, and preprints.</html:p>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/error-localisation/</fr:uri><fr:display-uri>error-localisation</fr:display-uri><fr:route>/error-localisation/</fr:route><fr:title text="Stepwise Reasoning Verification: Don’t Generate, Classify!">Stepwise Reasoning Verification: Don’t Generate, Classify!</fr:title><fr:taxon>Manuscript</fr:taxon><fr:meta name="venue">Manuscript</fr:meta></fr:frontmatter><fr:mainmatter><html:p><html:strong>Yifei Shi</html:strong>, Michail Korakakis, Rami Aly, Eric Chamoun, Andreas Vlachos.</html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/beyond-gene-reconstruction/</fr:uri><fr:display-uri>beyond-gene-reconstruction</fr:display-uri><fr:route>/beyond-gene-reconstruction/</fr:route><fr:title text="Beyond Gene Reconstruction: Learning Cell Representations through Complementary Transcriptomic Views">Beyond Gene Reconstruction: Learning Cell Representations through Complementary Transcriptomic Views</fr:title><fr:taxon>Preprint</fr:taxon><fr:meta name="venue">Preprint</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Jiaqi Xiong, Yuntao Hu, Yu Zheng, <html:strong>Yifei Shi</html:strong>, Xinyue Guo, Jiaxin Qi.</html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2025</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/postmenstrual-age-prediction/</fr:uri><fr:display-uri>postmenstrual-age-prediction</fr:display-uri><fr:route>/postmenstrual-age-prediction/</fr:route><fr:title text="Accurate and Interpretable Postmenstrual Age Prediction via Multimodal Large Language Model">Accurate and Interpretable Postmenstrual Age Prediction via Multimodal Large Language Model</fr:title><fr:taxon>Workshop Paper</fr:taxon><fr:meta name="venue">NeurIPS GenAI4Health Workshop</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Qifan Chen, Jin Cui, Cindy Duan, Yushuo Han, <html:strong>Yifei Shi</html:strong>.</html:p></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-</fr:mainmatter>
-        </fr:tree>
-      </fr:mainmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

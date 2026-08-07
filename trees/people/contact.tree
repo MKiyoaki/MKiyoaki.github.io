@@ -2,19 +2,17 @@
 
 \xmlns:html{http://www.w3.org/1999/xhtml}
 
-\p{For a detailed overview of my academic background and research roles, please refer to my [Curriculum Vitæ](cv). You may also explore my selected research projects and papers under [Projects & Publications](proj).}
-
 \<html:table>{
   \<html:tr>{
     \<html:th>{Channel}
     \<html:th>{Details}
   }
   \<html:tr>{
-    \<html:td>{Academic Email}
+    \<html:td>{Academic, volatile}
     \<html:td>{\code{ys690 AT cam DOT ac DOT uk}}
   }
   \<html:tr>{
-    \<html:td>{Personal Email}
+    \<html:td>{Personal}
     \<html:td>{\code{yifeishi DOT 1224 AT gmail DOT com}}
   }
 }

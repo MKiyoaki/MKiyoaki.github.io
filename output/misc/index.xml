@@ -72,17 +72,23 @@ Yukio Mishima (三島 由紀夫).
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p><html:table>
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/details/</fr:uri><fr:display-uri>details</fr:display-uri><fr:route>/details/</fr:route><fr:title text="Details">Details</fr:title></fr:frontmatter><fr:mainmatter><html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p></fr:mainmatter></fr:tree>
+  
+
+  
+    
+    
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:table>
   <html:tr>
     <html:th>Channel</html:th>
     <html:th>Details</html:th>
   </html:tr>
   <html:tr>
-    <html:td>Academic Email</html:td>
+    <html:td>Academic, volatile</html:td>
     <html:td><html:code>ys690 AT cam DOT ac DOT uk</html:code></html:td>
   </html:tr>
   <html:tr>
-    <html:td>Personal Email</html:td>
+    <html:td>Personal</html:td>
     <html:td><html:code>yifeishi DOT 1224 AT gmail DOT com</html:code></html:td>
   </html:tr>
 </html:table></fr:mainmatter></fr:tree>
