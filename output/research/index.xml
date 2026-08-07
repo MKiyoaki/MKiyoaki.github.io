@@ -57,7 +57,7 @@
             <fr:uri>https://mkiyoaki.github.io/cv/</fr:uri>
             <fr:display-uri>cv</fr:display-uri>
             <fr:route>/cv/</fr:route>
-            <fr:title text="Curriculum Vitæ">Curriculum Vitæ</fr:title>
+            <fr:title text="Kiyoaki's website &gt; Curriculum Vitæ"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Curriculum Vitæ</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
   

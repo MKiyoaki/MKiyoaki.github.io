@@ -78,7 +78,7 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p><html:table>
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.</html:p><html:table>
   <html:tr>
     <html:th>Channel</html:th>
     <html:th>Details</html:th>
