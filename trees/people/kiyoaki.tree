@@ -7,9 +7,12 @@
 \meta{external}{https://mkiyoaki.github.io}
 
 \p{
-    I am an MPhil student in \em{Advanced Computer Science} and a Research Assistant at \ucam, where I work on reasoning verification and verifier-guided post-training for large language models. 
+    I am an MPhil student in \em{Advanced Computer Science} and a Research Assistant at the \ucam, where I work on reasoning verification and verifier-guided post-training for large language models. 
     My current research studies how verification objectives and model architectures affect both verification performance and the representations learned by language models.
-    Prior to Cambridge, I was a Research Assistant at \shailab, where I worked on reinforcement-learning methods that connect LLM reasoning with formal verification. I completed my undergraduate degree in \em{Computer Science} at \kcl with First Class Honours and remain part of the Google DeepMind Education Programme cohort.
+}
+
+\p{
+    Prior to Cambridge, I was a Research Assistant at \shailab, where I worked on reinforcement-learning methods that connect LLM reasoning with formal verification. I completed my undergraduate degree in \em{Computer Science} at \kcl with First Class Honours and an alumni of the Google DeepMind Education Programme cohort.
 }
 
 
