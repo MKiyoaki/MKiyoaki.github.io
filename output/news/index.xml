@@ -136,11 +136,11 @@
             <fr:display-uri>res02</fr:display-uri>
             <fr:route>/res02/</fr:route>
             <fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title>
-            <fr:meta name="institution">AFAR Lab, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta>
+            <fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta>
             <fr:meta name="position">Jul 2024 - Sep 2024</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Supervised by Prof. Hatice Gunes (Sponsored by Google DeepMind).</html:p>
+            <html:p>Supervisor: Prof. Hatice Gunes (Sponsored by Google DeepMind).</html:p>
             <html:ul>
               <html:li><html:strong>Explainable AI</html:strong>: Built a SlowFast-based pipeline with Grad-CAM analysis for awkwardness detection in human-robot interactions based on raw videos, boosting accuracy by 11.3%.</html:li>
             </html:ul>

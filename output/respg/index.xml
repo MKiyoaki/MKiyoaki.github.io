@@ -7,9 +7,7 @@
     <fr:display-uri>respg</fr:display-uri>
     <fr:route>/respg/</fr:route>
     <fr:title text="MPhil Thesis">MPhil Thesis</fr:title>
-    <fr:meta name="institution">
-      <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>
-    </fr:meta>
+    <fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta>
     <fr:meta name="position">Nov 2025 - Present</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>

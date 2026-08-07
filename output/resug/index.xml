@@ -7,9 +7,7 @@
     <fr:display-uri>resug</fr:display-uri>
     <fr:route>/resug/</fr:route>
     <fr:title text="BSc Thesis">BSc Thesis</fr:title>
-    <fr:meta name="institution">
-      <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link>
-    </fr:meta>
+    <fr:meta name="institution">Dep. Informatics, <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta>
     <fr:meta name="position">Jan 2025 - Apr 2025</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
