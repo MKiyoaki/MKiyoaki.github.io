@@ -1,0 +1,7 @@
+\title{Representation vs. Execution: SFT and RL under Distribution Shift}
+\import{macros}
+\meta{institution}{Cambridge MPhil Project (L101)}
+\meta{position}{Supervisors: Prof. Andreas Vlachos & Dr. Pushkar Mishra}
+\date{2026}
+
+\p{Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. Demonstrated that outcome-based RL restores syntactic compliance (98.2\%) while latent causal rules remain internally encoded (66\% probe accuracy) despite generative execution failure.}

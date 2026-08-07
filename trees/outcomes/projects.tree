@@ -1,1 +1,7 @@
-\title{Projects}
+\title{Selected Projects}
+\import{macros}
+
+\experience{ai-reasoning-verification}
+\experience{l101-sft-rl-mechanisms}
+\experience{l193-sparse-feature-circuits}
+\experience{marl-social-dilemmas}

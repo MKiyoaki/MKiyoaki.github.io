@@ -1,0 +1,7 @@
+\title{Multi-Agent RL: Algorithm Design for Social Dilemmas}
+\import{macros}
+\meta{institution}{BSc Thesis | \kcl}
+\meta{position}{Supervisor: Dr. Milad Kazemi}
+\date{2025}
+
+\p{Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.}

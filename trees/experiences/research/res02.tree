@@ -3,8 +3,8 @@
 \meta{institution}{AFAR Lab, \ucam}
 \meta{position}{Jul 2024 - Sep 2024}
 
-\p{Supervised by Dr. Fethiye Irmak Doğan & Prof. Hatice Gunes, investigated
-robot detection capability of human awkwardness during Human-Robot Interaction (HRI) through
-raw video datasets.
-}
+\p{Supervised by Prof. Hatice Gunes (Sponsored by Google DeepMind).}
 
+\ul{
+  \li{\strong{Explainable AI}: Built a SlowFast-based pipeline with Grad-CAM analysis for awkwardness detection in human-robot interactions based on raw videos, boosting accuracy by 11.3\%.}
+}

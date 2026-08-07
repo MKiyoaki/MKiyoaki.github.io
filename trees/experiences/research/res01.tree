@@ -3,5 +3,8 @@
 \meta{institution}{Robot Perception Lab, \kcl}
 \meta{position}{Jul 2023 - Sep 2023}
 
-\p{Supervisor: Dr. Zhenxi Cui & Dr. Shan Luo, investigating Reinforcement Learning (RL) agents in
-Gymnasium simulations for robotic manipulation. }
+\p{Supervisor: Dr. Zhenxi Cui & Dr. Shan Luo}
+
+\ul{
+  \li{\strong{Robotic RL}: Investigated Reinforcement Learning (RL) agents in Gymnasium simulations for robotic manipulation.}
+}

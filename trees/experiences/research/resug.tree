@@ -1,8 +1,10 @@
-\title{Undergraduate Individual Project}
+\title{BSc Thesis}
 \import{macros}
 \meta{institution}{\kcl}
 \meta{position}{Jan 2025 - Apr 2025}
 
-\p{Supervised by Dr. Milad Kazemi, proposed and improved a unified Multi-Agent Reinforcement Learning (MARL) framework
-to implement and evaluate a game theory-inspired reward transfer algorithm for mitigating social dilemmas.
+\p{Supervisor: Dr. Milad Kazemi}
+
+\ul{
+  \li{\strong{Multi-Agent RL}: Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.}
 }

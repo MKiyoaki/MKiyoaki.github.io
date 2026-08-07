@@ -9,15 +9,15 @@
   }
   \<html:tr>{
     \<html:td>{\strong{Programming}}
-    \<html:td>{Python, Java, JavaScript, Scala, C++, Haskell, Prolog}
+    \<html:td>{Python, C++, Java, Scala, Haskell, Prolog, SQL}
   }
   \<html:tr>{
-    \<html:td>{\strong{Technical Tools}}
-    \<html:td>{Claude Code, Linux, Git, LaTeX, PyTorch, Docker, HPC}
+    \<html:td>{\strong{ML & LLM}}
+    \<html:td>{PyTorch, Transformers, LLaMA-Factory, VeRL, vLLM, lm-evaluation-harness}
   }
   \<html:tr>{
-    \<html:td>{\strong{Machine Learning}}
-    \<html:td>{RL, XAI, AI Alignment, LLM Post-training}
+    \<html:td>{\strong{Technical}}
+    \<html:td>{FSDP, Ray, HPC, Linux, Slurm, Git}
   }
   \<html:tr>{
     \<html:td>{\strong{Languages}}

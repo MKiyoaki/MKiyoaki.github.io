@@ -3,7 +3,9 @@
 \meta{institution}{\shailab}
 \meta{position}{Jun 2025 - Sep 2025}
 
-\p{Supervised by [Dr. Jie Fu](https://bigaidream.github.io).
-Developing reinforcement learning algorithms that leverage latent knowledge to mitigate verification loopholes
-and shortcut learning in formal reasoning, grounded in mechanistic interpretability.
+\p{Supervisor: Dr. Jie Fu}
+
+\ul{
+  \li{\strong{Code LLM}: Extended GRPO to enhance LLM code generation capabilities with Dafny.}
+  \li{\strong{RL Post-training}: Scaled post-training algorithms on tens-of-GPUs clusters, leveraging and extending the VeRL framework to resolve long-context credit assignment from formal verifiers and mitigate reward hacking in RLVR.}
 }

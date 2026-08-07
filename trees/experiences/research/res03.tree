@@ -1,0 +1,10 @@
+\title{Research Assistant}
+\import{macros}
+\meta{institution}{\ucam}
+\meta{position}{Aug 2026 - Present}
+
+\p{Supervisor: Prof. Andreas Vlachos}
+
+\ul{
+  \li{\strong{LLM Reasoning}: Researching post-training and RL algorithms with mechanism interpretability methods to enable trustworthy and verifiable reasoning in LLMs.}
+}

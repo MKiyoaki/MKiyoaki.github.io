@@ -1,7 +1,10 @@
-\title{MPhil Individual Project}
+\title{MPhil Thesis}
 \import{macros}
 \meta{institution}{\ucam}
 \meta{position}{Nov 2025 - Present}
 
-\p{Supervised by [Prof. Andreas Vlachos](https://andreasvlachos.github.io/), studying whether step-level mathematical verification is better modelled as discriminative inference than generation. The project compares encoder-based verifiers with decoder-based LLMs, analyses their verification representations, and tests intervention methods for reducing shortcut-driven failures.
+\p{Supervisor: Prof. Andreas Vlachos}
+
+\ul{
+  \li{\strong{Reasoning Verification}: Formulated NLI-based reformulations for stepwise reasoning verification, demonstrating that discriminative SFT paradigms significantly outperform generative training.}
 }
