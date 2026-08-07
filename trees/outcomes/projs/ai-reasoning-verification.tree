@@ -4,4 +4,6 @@
 \meta{position}{Supervisor: Prof. Andreas Vlachos}
 \date{2026}
 
-\p{Formulated NLI-based reformulations for stepwise verification, demonstrating that discriminative SFT significantly outperforms generative training (Supported by the Alan Turing Institute).}
+\ul{
+  \li{Reframed stepwise reasoning verification as local NLI; showed that discriminative supervision consistently outperforms generative verdict training across both encoder and decoder LMs. (Supported by the Alan Turing Institute).}
+}

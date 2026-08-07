@@ -4,4 +4,6 @@
 \meta{position}{Supervisor: Dr. Milad Kazemi}
 \date{2025}
 
-\p{Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.}
+\ul{
+  \li{Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.}
+}

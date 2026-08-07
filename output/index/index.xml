@@ -68,36 +68,6 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/projects/</fr:uri><fr:display-uri>projects</fr:display-uri><fr:route>/projects/</fr:route><fr:title text="Selected Projects">Selected Projects</fr:title></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/ai-reasoning-verification/</fr:uri><fr:display-uri>ai-reasoning-verification</fr:display-uri><fr:route>/ai-reasoning-verification/</fr:route><fr:title text="AI Reasoning Verification: Stepwise Verification via NLI">AI Reasoning Verification: Stepwise Verification via NLI</fr:title><fr:meta name="institution">MPhil Thesis | <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Supervisor: Prof. Andreas Vlachos</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Formulated NLI-based reformulations for stepwise verification, demonstrating that discriminative SFT significantly outperforms generative training (Supported by the Alan Turing Institute).</html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri><fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri><fr:route>/l101-sft-rl-mechanisms/</fr:route><fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title><fr:meta name="institution">Cambridge MPhil Project (L101)</fr:meta><fr:meta name="position">Supervisors: Prof. Andreas Vlachos &amp; Dr. Pushkar Mishra</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. Demonstrated that outcome-based RL restores syntactic compliance (98.2%) while latent causal rules remain internally encoded (66% probe accuracy) despite generative execution failure.</html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l193-sparse-feature-circuits/</fr:uri><fr:display-uri>l193-sparse-feature-circuits</fr:display-uri><fr:route>/l193-sparse-feature-circuits/</fr:route><fr:title text="Sparse Feature Circuits in Sycophantic Behaviour">Sparse Feature Circuits in Sycophantic Behaviour</fr:title><fr:meta name="institution">Cambridge MPhil Project (L193)</fr:meta><fr:meta name="position">Supervisors: Prof. Mateja Jamnik, Mateo Espinosa Zarlenga &amp; Dr. Zohreh Shams</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Applied Sparse Feature Circuits (SFC) and SHIFT framework with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. Showed that targeted ablation of $10^2 - 10^3$ sparse features reduces sycophancy rates from 85.2% to 45.2% with minimal capability degradation.</html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2025</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/marl-social-dilemmas/</fr:uri><fr:display-uri>marl-social-dilemmas</fr:display-uri><fr:route>/marl-social-dilemmas/</fr:route><fr:title text="Multi-Agent RL: Algorithm Design for Social Dilemmas">Multi-Agent RL: Algorithm Design for Social Dilemmas</fr:title><fr:meta name="institution">BSc Thesis | <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Supervisor: Dr. Milad Kazemi</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.</html:p></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
     <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:p>You may find more details about my experience from <fr:link href="/cv/" title="Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. </html:p><html:table>
   <html:tr>
     <html:th>Channel</html:th>

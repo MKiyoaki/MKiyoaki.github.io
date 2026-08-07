@@ -4,4 +4,6 @@
 \meta{position}{Supervisors: Prof. Mateja Jamnik, Mateo Espinosa Zarlenga & Dr. Zohreh Shams}
 \date{2026}
 
-\p{Applied Sparse Feature Circuits (SFC) and SHIFT framework with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. Showed that targeted ablation of $10^2 - 10^3$ sparse features reduces sycophancy rates from 85.2\% to 45.2\% with minimal capability degradation.}
+\ul{
+  \li{Applied [Sparse Feature Circuits (SFC) and SHIFT framework](https://arxiv.org/abs/2403.19647) with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. Showed that targeted ablation of $10^2 - 10^3$ sparse features reduces sycophancy rates from 85.2\% to 45.2\% with minimal capability degradation.}
+}
