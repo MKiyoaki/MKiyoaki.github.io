@@ -10,7 +10,7 @@
     <fr:display-uri>error-localisation</fr:display-uri>
     <fr:route>/error-localisation/</fr:route>
     <fr:title text="Stepwise Reasoning Verification: Don’t Generate, Classify!">Stepwise Reasoning Verification: Don’t Generate, Classify!</fr:title>
-    <fr:taxon>MPhil Thesis / Manuscript</fr:taxon>
+    <fr:taxon>Manuscript</fr:taxon>
     <fr:meta name="venue">Manuscript</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
@@ -42,7 +42,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/error-localisation/</fr:uri><fr:display-uri>error-localisation</fr:display-uri><fr:route>/error-localisation/</fr:route><fr:title text="Stepwise Reasoning Verification: Don’t Generate, Classify!">Stepwise Reasoning Verification: Don’t Generate, Classify!</fr:title><fr:taxon>MPhil Thesis / Manuscript</fr:taxon><fr:meta name="venue">Manuscript</fr:meta></fr:frontmatter><fr:mainmatter><html:p><html:strong>Yifei Shi</html:strong>, Michail Korakakis, Rami Aly, Eric Chamoun, Andreas Vlachos.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/error-localisation/</fr:uri><fr:display-uri>error-localisation</fr:display-uri><fr:route>/error-localisation/</fr:route><fr:title text="Stepwise Reasoning Verification: Don’t Generate, Classify!">Stepwise Reasoning Verification: Don’t Generate, Classify!</fr:title><fr:taxon>Manuscript</fr:taxon><fr:meta name="venue">Manuscript</fr:meta></fr:frontmatter><fr:mainmatter><html:p><html:strong>Yifei Shi</html:strong>, Michail Korakakis, Rami Aly, Eric Chamoun, Andreas Vlachos.</html:p></fr:mainmatter></fr:tree>
   
 
   
