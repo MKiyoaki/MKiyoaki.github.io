@@ -1,4 +1,4 @@
-\title{Multi-Agent RL: Algorithm Design for Social Dilemmas}
+\title{Multi-Agent RL: Algorithm for Sequential Social Dilemmas}
 \taxon{Thesis}
 \tag{Reinforcement Learning}
 \import{macros}
@@ -7,6 +7,6 @@
 \date{2025}
 
 \ul{
-  \li{Evaluated independent and centralized MARL algorithms (IPPO, MAPPO, MADDPG, MOCA) with CNN visual extensions and prosocial reward shaping across MPE, MeltingPot, and CleanUp social dilemmas using [XuanCe](https://github.com/agi-brain/xuance).}
-  \li{Outperformed single-agent PPO baselines on CleanUp by +69.3\% (2-agent) and +94.8\% (4-agent), achieving peak episode rewards (~600) with visual observation models.}
+  \li{Reproduced and extended MARL pipelines for sequential social dilemmas in [XuanCe](https://github.com/agi-brain/xuance), including MeltingPot integration, visual-observation support, prosocial reward sharing, and the MOCA contract-augmentation framework.}
+  \li{Evaluated multiple MARL methods across MPE, MeltingPot, and CleanUp; MAPPO exceeded the original single-agent PPO baseline on CleanUp by 69.3\% (2-agent) and 94.8\% (4-agent), with reproduced MOCA yielding additional gains over separate training.}
 }
