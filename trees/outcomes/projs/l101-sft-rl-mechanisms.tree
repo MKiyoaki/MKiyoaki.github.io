@@ -4,9 +4,10 @@
 \tag{Reinforcement Learning}
 \import{macros}
 \meta{institution}{\ucam (L101)}
-\meta{position}{Supervisors: Prof. Andreas Vlachos & Dr. Pushkar Mishra}
+\meta{position}{Supervisors: Prof. Andreas Vlachos}
 \date{2026}
 
 \ul{
-  \li{Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. Demonstrated that outcome-based RL restores syntactic compliance (98.2\%) while latent causal rules remain internally encoded (66\% probe accuracy) despite generative execution failure.}
+  \li{Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. }
+  \li{Demonstrated that outcome-based RL restores syntactic compliance (98.2\%) while latent causal rules remain internally encoded (66\% probe accuracy) despite generative execution failure.}
 }

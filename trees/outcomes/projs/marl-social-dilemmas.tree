@@ -7,5 +7,6 @@
 \date{2025}
 
 \ul{
-  \li{Designed and reproduced multi-agent reinforcement learning (MARL) algorithms to resolve equilibrium convergence in non-zero-sum social dilemmas by extending XuanCe.}
+  \li{Evaluated independent and centralized MARL algorithms (IPPO, MAPPO, MADDPG, MOCA) with CNN visual extensions and prosocial reward shaping across MPE, MeltingPot, and CleanUp social dilemmas using [XuanCe](https://github.com/agi-brain/xuance).}
+  \li{Outperformed single-agent PPO baselines on CleanUp by +69.3\% (2-agent) and +94.8\% (4-agent), achieving peak episode rewards (~600) with visual observation models.}
 }

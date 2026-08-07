@@ -8,5 +8,6 @@
 \date{2026}
 
 \ul{
-  \li{Reframed stepwise reasoning verification as local NLI; showed that discriminative supervision consistently outperforms generative verdict training across both encoder and decoder LMs. (Supported by the Alan Turing Institute).}
+  \li{Reframed stepwise reasoning verification as local Natural Language Inference (NLI), employing fair comparison of language models with different architectures and training paradigms.}  
+  \li{Results showed that discriminative supervision consistently outperforms generative verdict training across both encoder and decoder LMs. (Supported by the Alan Turing Institute).}
 }
