@@ -1,5 +1,7 @@
 \title{Representation vs. Execution: SFT and RL under Distribution Shift}
 \taxon{Course Project}
+\tag{Post-training}
+\tag{Reinforcement Learning}
 \import{macros}
 \meta{institution}{\ucam (L101)}
 \meta{position}{Supervisors: Prof. Andreas Vlachos & Dr. Pushkar Mishra}

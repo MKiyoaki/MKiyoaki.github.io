@@ -1,5 +1,6 @@
 \title{Multi-Agent RL: Algorithm Design for Social Dilemmas}
 \taxon{Thesis}
+\tag{Reinforcement Learning}
 \import{macros}
 \meta{institution}{\kcl}
 \meta{position}{Supervisor: Dr. Milad Kazemi}

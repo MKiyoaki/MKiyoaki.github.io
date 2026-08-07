@@ -10,9 +10,9 @@
     <html xmlns="http://www.w3.org/1999/xhtml" data-base-url="{/f:tree/@base-url}">
       <head>
         <meta name="viewport" content="width=device-width" />
-        <link rel="icon" href="{/f:tree/@base-url}imgs/tmp_fileurl.png" type="image/png" />
-        <link rel="shortcut icon" href="{/f:tree/@base-url}imgs/tmp_fileurl.png" type="image/png" />
-        <link rel="apple-touch-icon" href="{/f:tree/@base-url}imgs/tmp_fileurl.png" />
+        <link rel="icon" href="{/f:tree/@base-url}assets/imgs/tmp_fileurl.png" type="image/png" />
+        <link rel="shortcut icon" href="{/f:tree/@base-url}assets/imgs/tmp_fileurl.png" type="image/png" />
+        <link rel="apple-touch-icon" href="{/f:tree/@base-url}assets/imgs/tmp_fileurl.png" />
         <link rel="stylesheet" href="{/f:tree/@base-url}style.css" />
         <link rel="stylesheet" href="{/f:tree/@base-url}katex.min.css" />
         <script type="text/javascript">
