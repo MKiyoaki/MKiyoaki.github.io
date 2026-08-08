@@ -82,8 +82,8 @@
     <html:th>Event</html:th>
   </html:tr>
     <html:tr>
-    <html:td style="white-space:nowrap">Oc, 2025</html:td>
-    <html:td>Joined the Computer Lab of \ucam as a MPhil student.</html:td>
+    <html:td style="white-space:nowrap">Oct, 2025</html:td>
+    <html:td>Joined the Computer Lab at <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> as an MPhil student.</html:td>
   </html:tr>
   <html:tr>
     <html:td style="white-space:nowrap">Sep, 2024</html:td>

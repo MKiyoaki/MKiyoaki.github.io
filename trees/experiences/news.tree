@@ -1,8 +1,7 @@
 \title{News}
+\import{macros}
 
 \xmlns:html{http://www.w3.org/1999/xhtml}
-
-
 
 \<html:table>{
   \<html:tr>{
@@ -10,8 +9,8 @@
     \<html:th>{Event}
   }
     \<html:tr>{
-    \<html:td>[style]{white-space:nowrap}{Oc, 2025}
-    \<html:td>{Joined the Computer Lab of \ucam as a MPhil student.}
+    \<html:td>[style]{white-space:nowrap}{Oct, 2025}
+    \<html:td>{Joined the Computer Lab at \ucam as an MPhil student.}
   }
   \<html:tr>{
     \<html:td>[style]{white-space:nowrap}{Sep, 2024}

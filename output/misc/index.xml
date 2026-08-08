@@ -51,7 +51,7 @@
 </html:p><html:p>
     More broadly, I aim to study how verification signals can be used both to evaluate and improve language models through post-training and reinforcement learning.
     I am also interested in mechanistic analyses of verifiers, particularly whether their judgments reflect the intended notion of validity or fidelity rather than exploitable shortcuts.
-</html:p><html:p><html:mark>I am actively looking for PhD opportunities starting in 2027 fall.</html:mark></html:p><html:p>
+</html:p><html:p><html:mark>I am actively seeking PhD opportunities starting in Fall 2027.</html:mark></html:p><html:p>
     This website is built by <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>.
     You may navigate this site by pressing <html:code>Ctrl + K</html:code>. 
 </html:p></fr:mainmatter></fr:tree>
@@ -65,8 +65,8 @@
     <html:th>Event</html:th>
   </html:tr>
     <html:tr>
-    <html:td style="white-space:nowrap">Oc, 2025</html:td>
-    <html:td>Joined the Computer Lab of \ucam as a MPhil student.</html:td>
+    <html:td style="white-space:nowrap">Oct, 2025</html:td>
+    <html:td>Joined the Computer Lab at <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> as an MPhil student.</html:td>
   </html:tr>
   <html:tr>
     <html:td style="white-space:nowrap">Sep, 2024</html:td>
