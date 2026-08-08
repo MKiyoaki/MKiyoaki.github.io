@@ -623,3 +623,87 @@ ol li ol li ol {
  background-color: #bbb;
  color: white;
 }
+
+/* ==========================================================================
+   Dark Mode Support (Auto-follows OS preference)
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1e;
+    color: #e2e4e9;
+  }
+
+  a {
+    color: #7aa2f7;
+  }
+
+  a:hover {
+    color: #9dbeff;
+  }
+
+  .logo a {
+    color: #a0a5b5;
+  }
+
+  .logo a:hover {
+    color: #ffffff;
+  }
+
+  article>section>details>summary>header>h1>.taxon,
+  span.taxon,
+  .slug,
+  .doi,
+  .orcid {
+    color: #9095a5;
+  }
+
+  nav#toc,
+  nav#toc a {
+    color: #a0a5b5;
+  }
+
+  pre,
+  code {
+    background-color: rgba(255, 255, 255, 0.07);
+    color: #e2e4e9;
+  }
+
+  .block:hover,
+  .enclosing.macro-scope>.enclosing:hover,
+  a.slug:hover,
+  a.bullet:hover,
+  .edit-button:hover,
+  .link:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+
+  mrow:hover {
+    background-color: rgba(122, 162, 247, 0.15);
+  }
+
+  .highlighted {
+    background-color: rgba(255, 220, 100, 0.15);
+    border-color: #555;
+  }
+
+  .highlighted:hover {
+    background-color: rgba(255, 220, 100, 0.25);
+    border-color: #777;
+  }
+
+  mark {
+    background-color: #4a3b00;
+    color: #ffe57f;
+  }
+
+  hr {
+    background-color: #333438;
+  }
+
+  .tooltip .tooltiptext {
+    background-color: #2e3038;
+    color: #f0f0f0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  }
+}
+
