@@ -1,9 +1,12 @@
 \title{Global Macros}
+\xmlns:html{http://www.w3.org/1999/xhtml}
 
 \def\ucam{[University of Cambridge](https://www.cam.ac.uk)}
 \def\kcl{[King's College London](https://www.kcl.ac.uk)}
 \def\shailab{[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)}
 \def\ic{[Imperial College London](https://www.imperial.ac.uk)}
+
+\def\mark[content]{\<html:mark>{\content}}
 
 \def\experience[content]{
   \scope{

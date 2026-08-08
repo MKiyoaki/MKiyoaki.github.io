@@ -9,8 +9,12 @@
     \<html:th>{Date}
     \<html:th>{Event}
   }
+    \<html:tr>{
+    \<html:td>[style]{white-space:nowrap}{Oc, 2025}
+    \<html:td>{Joined the Computer Lab of \ucam as a MPhil student.}
+  }
   \<html:tr>{
     \<html:td>[style]{white-space:nowrap}{Sep, 2024}
-    \<html:td>{Participation on the [Google DeepMind Education Event with poster presentation](res02).}
+    \<html:td>{Participated in the [Google DeepMind Education Event with poster presentation](res02).}
   }
 }
