@@ -2,11 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="/default.xsl"?>
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
-    <fr:authors>
-      <fr:author>
-        <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
-      </fr:author>
-    </fr:authors>
+    <fr:authors />
     <fr:date>
       <fr:year>2026</fr:year>
       <fr:month>8</fr:month>
@@ -15,13 +11,13 @@
     <fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri>
     <fr:display-uri>b-0001</fr:display-uri>
     <fr:route>/b-0001/</fr:route>
-    <fr:title text="In Defense of Curiosity">
-      <html:em>In Defense of Curiosity</html:em>
-    </fr:title>
+    <fr:title text="In Defense of Curiosity">In Defense of Curiosity</fr:title>
+    <fr:taxon>Post</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
     <html:p>
-  https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
+  A recommended article by <fr:link href="https://davidbau.com/" type="external">Prof. David Bau</fr:link>: 
+  <fr:link href="https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html" type="external">In Defense of Curiosity (Dec 2025)</fr:link>.
 </html:p>
   </fr:mainmatter>
   <fr:backmatter>
@@ -59,8 +55,9 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors><fr:author><fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link></fr:author></fr:authors><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity"><html:em>In Defense of Curiosity</html:em></fr:title></fr:frontmatter><fr:mainmatter><html:p>
-  https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity">In Defense of Curiosity</fr:title><fr:taxon>Post</fr:taxon></fr:frontmatter><fr:mainmatter><html:p>
+  A recommended article by <fr:link href="https://davidbau.com/" type="external">Prof. David Bau</fr:link>: 
+  <fr:link href="https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html" type="external">In Defense of Curiosity (Dec 2025)</fr:link>.
 </html:p></fr:mainmatter></fr:tree>
   
 </fr:mainmatter>

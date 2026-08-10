@@ -17,12 +17,11 @@
     <fr:route>/proj/</fr:route>
     <fr:title text="Kiyoaki's website &gt; Projects &amp; Publications"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Projects &amp; Publications</fr:title>
   </fr:frontmatter>
-  <fr:mainmatter><html:p>A collection of my research projects, course theses, and academic publications.</html:p><html:ul><html:li><html:strong>Filter by Tag:</html:strong> 
-    <html:mark>Mechanistic Interpretability</html:mark> · 
-    <html:mark>Reinforcement Learning</html:mark> · 
-    <html:mark>LLM Reasoning</html:mark> · 
-    <html:mark>NLP</html:mark> · 
-    <html:mark>AI4Science</html:mark></html:li></html:ul>
+  <fr:mainmatter><html:p>A collection of my research projects, course theses, and academic publications.</html:p><html:p><html:strong>Core Research Topics (Search via Ctrl+K):</html:strong></html:p><html:ul><html:li><html:code>LLM Reasoning</html:code></html:li>
+  <html:li><html:code>Mechanistic Interpretability</html:code></html:li>
+  <html:li><html:code>Reinforcement Learning</html:code></html:li>
+  <html:li><html:code>NLP</html:code></html:li>
+  <html:li><html:code>AI4Science</html:code></html:li></html:ul>
   
     
     

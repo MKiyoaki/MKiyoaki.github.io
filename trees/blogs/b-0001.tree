@@ -1,8 +1,10 @@
-
-\title{\em{In Defense of Curiosity}}
-\author{kiyoaki}
+\title{In Defense of Curiosity}
+\taxon{Post}
+\tag{Mechanistic Interpretability}
+\import{macros}
 \date{2026-08-10}
 
 \p{
-  https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
+  A recommended article by [Prof. David Bau](https://davidbau.com): 
+  [In Defense of Curiosity (Dec 2025)](https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html).
 }
