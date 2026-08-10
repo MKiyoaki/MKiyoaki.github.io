@@ -5,15 +5,15 @@
 
 \p{A collection of my research projects, course theses, and academic publications.}
 
-\p{\strong{Core Research Topics (Search via Ctrl+K):}}
-
-\ul{
-  \li{\code{LLM Reasoning}}
-  \li{\code{Mechanistic Interpretability}}
-  \li{\code{Reinforcement Learning}}
-  \li{\code{NLP}}
-  \li{\code{AI4Science}}
+\p{
+  Filter by tag: 
+  \tagfilter{all}{all} · 
+  \tagfilter{LLM Reasoning}{LLM Reasoning} · 
+  \tagfilter{Mechanistic Interpretability}{Mechanistic Interpretability} · 
+  \tagfilter{Reinforcement Learning}{Reinforcement Learning} · 
+  \tagfilter{NLP}{NLP} · 
+  \tagfilter{AI4Science}{AI4Science}
 }
 
-\section{projects}
-\section{publications}
+\numsection{projects}
+\numsection{publications}

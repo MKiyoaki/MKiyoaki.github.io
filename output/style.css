@@ -634,11 +634,11 @@ ol li ol li ol {
   }
 
   a {
-    color: #7aa2f7;
+    color: #e2e4e9;
   }
 
   a:hover {
-    color: #9dbeff;
+    color: #ffffff;
   }
 
   .logo a {
@@ -706,4 +706,22 @@ ol li ol li ol {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   }
 }
+
+.tag-filter-link {
+  box-shadow: none;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  cursor: pointer;
+  color: inherit;
+}
+
+.tag-filter-link:hover {
+  background-color: rgba(0, 100, 255, 0.08);
+}
+
+.tag-filter-link.active {
+  font-weight: bold;
+  text-decoration-style: solid;
+}
+
 

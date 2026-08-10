@@ -67,7 +67,7 @@
             <fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri>
             <fr:route>/l101-sft-rl-mechanisms/</fr:route>
             <fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title>
-            <fr:taxon>Mini Project</fr:taxon>
+            <fr:taxon>Project</fr:taxon>
             <fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta>
             <fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta>
           </fr:frontmatter>

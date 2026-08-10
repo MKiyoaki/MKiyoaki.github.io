@@ -41,3 +41,5 @@
     \transclude{\content}
   }
 }
+
+\def\tagfilter[tag][label]{\<html:span>[class]{tag-filter-link}[data-tag]{\tag}{\label}}

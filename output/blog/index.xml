@@ -42,7 +42,7 @@
     I am an MPhil student in <html:em>Advanced Computer Science</html:em> and a Research Assistant at the <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>, where I work on reasoning verification and verifier-guided post-training for large language models. 
     My current research studies how verification objectives and model architectures affect both verification performance and the representations learned by language models.
 </html:p><html:p>
-    Prior to Cambridge, I was a Research Assistant at <fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link>, where I worked on reinforcement-learning methods that connect LLM reasoning with formal verification. I completed my undergraduate degree in <html:em>Computer Science</html:em> at <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link> with First Class Honours and am an alumnus of the <fr:link href="https://deepmind.google/education/" type="external">Google DeepMind Education Programme</fr:link>.
+    Prior to the <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>, I was a Research Assistant at <fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link>, where I worked on reinforcement-learning methods that connect LLM reasoning with formal verification. I completed my undergraduate degree in <html:em>Computer Science</html:em> at <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link> with First Class Honours and am an alumnus of the <fr:link href="https://deepmind.google/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p><html:p>
     My research interests lie in <html:strong>Natural Language Processing</html:strong> and the <html:strong>post-training of Large Language Models</html:strong>, particularly in how model behaviours can be specified, verified, and improved. 
     My current work focuses on reasoning verification, while I am increasingly interested in extending verification beyond settings with explicit notions of correctness to open-ended interactions, where properties such as behavioural fidelity must instead be grounded in natural-language specifications or protocols.
@@ -86,7 +86,7 @@
     
     <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:table>
   <html:tr>
-    <html:td>Academic, volatile</html:td>
+    <html:td>Academic (volatile)</html:td>
     <html:td><html:code>ys690 AT cam DOT ac DOT uk</html:code></html:td>
   </html:tr>
   <html:tr>

@@ -17,15 +17,18 @@
     <fr:route>/proj/</fr:route>
     <fr:title text="Kiyoaki's website &gt; Projects &amp; Publications"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Projects &amp; Publications</fr:title>
   </fr:frontmatter>
-  <fr:mainmatter><html:p>A collection of my research projects, course theses, and academic publications.</html:p><html:p><html:strong>Core Research Topics (Search via Ctrl+K):</html:strong></html:p><html:ul><html:li><html:code>LLM Reasoning</html:code></html:li>
-  <html:li><html:code>Mechanistic Interpretability</html:code></html:li>
-  <html:li><html:code>Reinforcement Learning</html:code></html:li>
-  <html:li><html:code>NLP</html:code></html:li>
-  <html:li><html:code>AI4Science</html:code></html:li></html:ul>
+  <fr:mainmatter><html:p>A collection of my research projects, course theses, and academic publications.</html:p><html:p>
+  Filter by tag: 
+  <html:span class="tag-filter-link" data-tag="all">all</html:span> · 
+  <html:span class="tag-filter-link" data-tag="LLM Reasoning">LLM Reasoning</html:span> · 
+  <html:span class="tag-filter-link" data-tag="Mechanistic Interpretability">Mechanistic Interpretability</html:span> · 
+  <html:span class="tag-filter-link" data-tag="Reinforcement Learning">Reinforcement Learning</html:span> · 
+  <html:span class="tag-filter-link" data-tag="NLP">NLP</html:span> · 
+  <html:span class="tag-filter-link" data-tag="AI4Science">AI4Science</html:span></html:p>
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/projects/</fr:uri><fr:display-uri>projects</fr:display-uri><fr:route>/projects/</fr:route><fr:title text="Selected Projects">Selected Projects</fr:title></fr:frontmatter><fr:mainmatter>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/projects/</fr:uri><fr:display-uri>projects</fr:display-uri><fr:route>/projects/</fr:route><fr:title text="Selected Projects">Selected Projects</fr:title></fr:frontmatter><fr:mainmatter>
   
     
     
@@ -36,14 +39,14 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="true"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri><fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri><fr:route>/l101-sft-rl-mechanisms/</fr:route><fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title><fr:taxon>Mini Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta><fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. </html:li>
+    <fr:tree show-metadata="true" numbered="true"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri><fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri><fr:route>/l101-sft-rl-mechanisms/</fr:route><fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title><fr:taxon>Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta><fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. </html:li>
   <html:li>Demonstrated that outcome-based RL restores syntactic compliance (98.2%) while latent causal rules remain internally encoded (66% probe accuracy) despite generative execution failure.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
   
     
     
-    <fr:tree show-metadata="true" numbered="true"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l193-sparse-feature-circuits/</fr:uri><fr:display-uri>l193-sparse-feature-circuits</fr:display-uri><fr:route>/l193-sparse-feature-circuits/</fr:route><fr:title text="Sparse Feature Circuits in Sycophantic Behaviour">Sparse Feature Circuits in Sycophantic Behaviour</fr:title><fr:taxon>Mini Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L193)</fr:meta><fr:meta name="position">Supervisor: Prof. Mateja Jamnik</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Applied <fr:link href="https://arxiv.org/abs/2403.19647" type="external">Sparse Feature Circuits (SFC) and SHIFT framework</fr:link> with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. </html:li>
+    <fr:tree show-metadata="true" numbered="true"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l193-sparse-feature-circuits/</fr:uri><fr:display-uri>l193-sparse-feature-circuits</fr:display-uri><fr:route>/l193-sparse-feature-circuits/</fr:route><fr:title text="Sparse Feature Circuits in Sycophantic Behaviour">Sparse Feature Circuits in Sycophantic Behaviour</fr:title><fr:taxon>Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L193)</fr:meta><fr:meta name="position">Supervisor: Prof. Mateja Jamnik</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Applied <fr:link href="https://arxiv.org/abs/2403.19647" type="external">Sparse Feature Circuits (SFC) and SHIFT framework</fr:link> with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. </html:li>
   <html:li>Showed that targeted ablation of <fr:tex display="inline"><![CDATA[10^2 - 10^3]]></fr:tex> sparse features reduces sycophancy rates from 85.2% to 45.2% with minimal capability degradation.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
@@ -59,7 +62,7 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/publications/</fr:uri><fr:display-uri>publications</fr:display-uri><fr:route>/publications/</fr:route><fr:title text="Publications">Publications</fr:title></fr:frontmatter><fr:mainmatter><html:p>A list of my publications, manuscripts, and preprints.</html:p>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/publications/</fr:uri><fr:display-uri>publications</fr:display-uri><fr:route>/publications/</fr:route><fr:title text="Publications">Publications</fr:title></fr:frontmatter><fr:mainmatter><html:p>A list of my publications, manuscripts, and preprints.</html:p>
   
     
     
@@ -138,7 +141,7 @@
     I am an MPhil student in <html:em>Advanced Computer Science</html:em> and a Research Assistant at the <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>, where I work on reasoning verification and verifier-guided post-training for large language models. 
     My current research studies how verification objectives and model architectures affect both verification performance and the representations learned by language models.
 </html:p><html:p>
-    Prior to Cambridge, I was a Research Assistant at <fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link>, where I worked on reinforcement-learning methods that connect LLM reasoning with formal verification. I completed my undergraduate degree in <html:em>Computer Science</html:em> at <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link> with First Class Honours and am an alumnus of the <fr:link href="https://deepmind.google/education/" type="external">Google DeepMind Education Programme</fr:link>.
+    Prior to the <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>, I was a Research Assistant at <fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link>, where I worked on reinforcement-learning methods that connect LLM reasoning with formal verification. I completed my undergraduate degree in <html:em>Computer Science</html:em> at <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link> with First Class Honours and am an alumnus of the <fr:link href="https://deepmind.google/education/" type="external">Google DeepMind Education Programme</fr:link>.
 </html:p><html:p>
     My research interests lie in <html:strong>Natural Language Processing</html:strong> and the <html:strong>post-training of Large Language Models</html:strong>, particularly in how model behaviours can be specified, verified, and improved. 
     My current work focuses on reasoning verification, while I am increasingly interested in extending verification beyond settings with explicit notions of correctness to open-ended interactions, where properties such as behavioural fidelity must instead be grounded in natural-language specifications or protocols.
@@ -182,7 +185,7 @@
     
     <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:table>
   <html:tr>
-    <html:td>Academic, volatile</html:td>
+    <html:td>Academic (volatile)</html:td>
     <html:td><html:code>ys690 AT cam DOT ac DOT uk</html:code></html:td>
   </html:tr>
   <html:tr>

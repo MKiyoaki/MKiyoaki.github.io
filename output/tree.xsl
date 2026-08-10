@@ -370,6 +370,14 @@
           <xsl:value-of select="f:frontmatter/f:taxon" />
         </xsl:attribute>
       </xsl:if>
+      <xsl:if test="f:frontmatter/f:tag">
+        <xsl:attribute name="data-tags">
+          <xsl:for-each select="f:frontmatter/f:tag">
+            <xsl:value-of select="." />
+            <xsl:text>&#x20;</xsl:text>
+          </xsl:for-each>
+        </xsl:attribute>
+      </xsl:if>
 
       <xsl:choose>
         <xsl:when test="not(@show-heading='false')">
