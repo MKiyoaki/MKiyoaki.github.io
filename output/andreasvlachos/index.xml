@@ -70,6 +70,7 @@
             <fr:taxon>Project</fr:taxon>
             <fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta>
             <fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta>
+            <fr:meta name="external">https://github.com/MKiyoaki/l101-project</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. </html:li>

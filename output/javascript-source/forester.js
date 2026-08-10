@@ -122,6 +122,38 @@ window.addEventListener("load", (event) => {
   });
 
  let activeTag = 'all';
+
+ const updateFilterState = (targetTag) => {
+  document.querySelectorAll('.tag-filter-link').forEach(c => {
+   if (c.getAttribute('data-tag') === targetTag) {
+    c.classList.add('active');
+   } else {
+    c.classList.remove('active');
+   }
+  });
+
+  document.querySelectorAll('section[data-tags]').forEach(sec => {
+   const tagsAttr = sec.getAttribute('data-tags') || '';
+   const details = sec.querySelector('details[id]');
+   const secId = details ? details.id : null;
+   let tocLi = null;
+   if (secId) {
+    const tocTarget = document.querySelector(`nav#toc [data-target="#${secId}"], nav#toc a[href="#${secId}"]`);
+    if (tocTarget) {
+     tocLi = tocTarget.closest('li');
+    }
+   }
+
+   if (targetTag === 'all' || tagsAttr.includes(targetTag)) {
+    sec.style.display = '';
+    if (tocLi) tocLi.style.display = '';
+   } else {
+    sec.style.display = 'none';
+    if (tocLi) tocLi.style.display = 'none';
+   }
+  });
+ };
+
  document.addEventListener('click', (e) => {
   const link = e.target.closest('.tag-filter-link');
   if (!link) return;
@@ -130,31 +162,9 @@ window.addEventListener("load", (event) => {
 
   if (tag === 'all' || activeTag === tag) {
    activeTag = 'all';
-   document.querySelectorAll('.tag-filter-link').forEach(c => {
-    if (c.getAttribute('data-tag') === 'all') {
-     c.classList.add('active');
-    } else {
-     c.classList.remove('active');
-    }
-   });
-   document.querySelectorAll('section[data-tags]').forEach(sec => sec.style.display = '');
   } else {
    activeTag = tag;
-   document.querySelectorAll('.tag-filter-link').forEach(c => {
-    if (c.getAttribute('data-tag') === tag) {
-     c.classList.add('active');
-    } else {
-     c.classList.remove('active');
-    }
-   });
-   document.querySelectorAll('section[data-tags]').forEach(sec => {
-    const tagsAttr = sec.getAttribute('data-tags') || '';
-    if (tagsAttr.includes(tag)) {
-     sec.style.display = '';
-    } else {
-     sec.style.display = 'none';
-    }
-   });
   }
+  updateFilterState(activeTag);
  });
 });
