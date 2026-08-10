@@ -3,7 +3,7 @@
 \meta{institution}{Dep. Computer Science and Technology, \ucam}
 \meta{position}{Aug 2026 - Present}
 
-\p{Supervisor: Prof. Andreas Vlachos}
+\p{Supervisor: Prof. \andreasvlachos}
 
 \ul{
   \li{\strong{LLM Reasoning}: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.}

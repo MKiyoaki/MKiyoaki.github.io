@@ -3,7 +3,7 @@
 \meta{institution}{\shailab}
 \meta{position}{Jun 2025 - Sep 2025}
 
-\p{Supervisor: Dr. Jie Fu}
+\p{Supervisor: Dr. \jiefu}
 
 \ul{
   \li{\strong{Code LLM}: Extended GRPO to enhance LLM code generation capabilities with Dafny.}

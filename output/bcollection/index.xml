@@ -10,94 +10,20 @@
     <fr:date>
       <fr:year>2026</fr:year>
       <fr:month>8</fr:month>
-      <fr:day>7</fr:day>
+      <fr:day>10</fr:day>
     </fr:date>
-    <fr:uri>https://mkiyoaki.github.io/cv/</fr:uri>
-    <fr:display-uri>cv</fr:display-uri>
-    <fr:route>/cv/</fr:route>
-    <fr:title text="Kiyoaki's website &gt; Curriculum Vitæ"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Curriculum Vitæ</fr:title>
+    <fr:uri>https://mkiyoaki.github.io/bcollection/</fr:uri>
+    <fr:display-uri>bcollection</fr:display-uri>
+    <fr:route>/bcollection/</fr:route>
+    <fr:title text="Kiyoaki's website &gt; Blogs"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Blogs</fr:title>
   </fr:frontmatter>
   <fr:mainmatter>
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/education/</fr:uri><fr:display-uri>education</fr:display-uri><fr:route>/education/</fr:route><fr:title text="Education">Education</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>Distinction</html:em></html:p></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>First Class Honours</html:em></html:p></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/professional/</fr:uri><fr:display-uri>professional</fr:display-uri><fr:route>/professional/</fr:route><fr:title text="Professional">Professional</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. <fr:link href="/jiefu/" title="Jie Fu" uri="https://mkiyoaki.github.io/jiefu/" display-uri="jiefu" type="local">Jie Fu</fr:link></html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
-  <html:li><html:strong>RL Post-training</html:strong>: Scaled post-training algorithms on tens-of-GPUs clusters, leveraging and extending the VeRL framework to resolve long-context credit assignment from formal verifiers and mitigate reward hacking in RLVR.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/research/</fr:uri><fr:display-uri>research</fr:display-uri><fr:route>/research/</fr:route><fr:title text="Research">Research</fr:title><fr:taxon>Experience</fr:taxon></fr:frontmatter><fr:mainmatter>
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res02/</fr:uri><fr:display-uri>res02</fr:display-uri><fr:route>/res02/</fr:route><fr:title text="Research Assistant | Google DeepMind Research Ready">Research Assistant | Google DeepMind Research Ready</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Jul 2024 - Sep 2024</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. Hatice Gunes (Sponsored by Google DeepMind).</html:p><html:ul><html:li><html:strong>Explainable AI</html:strong>: Built a SlowFast-based pipeline with Grad-CAM analysis for awkwardness detection in human-robot interactions based on raw videos, boosting accuracy by 11.3%.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res01/</fr:uri><fr:display-uri>res01</fr:display-uri><fr:route>/res01/</fr:route><fr:title text="Research Assistant | King’s Undergraduate Research Fellowship">Research Assistant | King’s Undergraduate Research Fellowship</fr:title><fr:meta name="institution">Dep. Engineering, <fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Jul 2023 - Sep 2023</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor(s): Dr. Zhenxi Cui &amp; Prof. Shan Luo</html:p><html:ul><html:li><html:strong>Robotic RL</html:strong>: Investigated Reinforcement Learning (RL) agents in Gymnasium simulations for robotic manipulation.</html:li></html:ul></fr:mainmatter></fr:tree>
-  
-</fr:mainmatter></fr:tree>
-  
-
-  
-    
-    
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/skills/</fr:uri><fr:display-uri>skills</fr:display-uri><fr:route>/skills/</fr:route><fr:title text="Skills">Skills</fr:title></fr:frontmatter><fr:mainmatter><html:table>
-  <html:tr>
-    <html:th>Category</html:th>
-    <html:th>Skills &amp; Tools</html:th>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>Programming</html:strong></html:td>
-    <html:td>Python, C++, Java, Scala, Haskell, Prolog, SQL</html:td>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>ML &amp; LLM</html:strong></html:td>
-    <html:td>PyTorch, Transformers, LLaMA-Factory, VeRL, vLLM, lm-evaluation-harness</html:td>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>Technical</html:strong></html:td>
-    <html:td>FSDP, Ray, HPC, Linux, Slurm, Git</html:td>
-  </html:tr>
-  <html:tr>
-    <html:td><html:strong>Languages</html:strong></html:td>
-    <html:td>Mandarin (Native), English (Professional), French (Beginner)</html:td>
-  </html:tr>
-</html:table></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link></fr:author></fr:authors><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity"><html:em>In Defense of Curiosity</html:em></fr:title></fr:frontmatter><fr:mainmatter><html:p>
+  https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
+</html:p></fr:mainmatter></fr:tree>
   
 </fr:mainmatter>
   <fr:backmatter>
@@ -124,14 +50,14 @@
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
-            <fr:uri>https://mkiyoaki.github.io/details/</fr:uri>
-            <fr:display-uri>details</fr:display-uri>
-            <fr:route>/details/</fr:route>
-            <fr:title text="Academic">Academic</fr:title>
+            <fr:uri>https://mkiyoaki.github.io/blog/</fr:uri>
+            <fr:display-uri>blog</fr:display-uri>
+            <fr:route>/blog/</fr:route>
+            <fr:title text="Blog">Blog</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>
-  For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.
+  I maintain my personal <fr:link href="/bcollection/" title="Kiyoaki's website &gt; Blogs" uri="https://mkiyoaki.github.io/bcollection/" display-uri="bcollection" type="local">blogs</fr:link> as a collection of my thoughts or the articles I found interesting. 
 </html:p>
           </fr:mainmatter>
         </fr:tree>

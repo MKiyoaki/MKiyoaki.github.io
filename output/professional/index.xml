@@ -13,7 +13,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Jie Fu</html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. <fr:link href="/jiefu/" title="Jie Fu" uri="https://mkiyoaki.github.io/jiefu/" display-uri="jiefu" type="local">Jie Fu</fr:link></html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
   <html:li><html:strong>RL Post-training</html:strong>: Scaled post-training algorithms on tens-of-GPUs clusters, leveraging and extending the VeRL framework to resolve long-context credit assignment from formal verifiers and mitigate reward hacking in RLVR.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 </fr:mainmatter>
@@ -56,13 +56,13 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Distinction</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>Distinction</html:em></html:p></fr:mainmatter></fr:tree>
   
 
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: First Class Honours</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>First Class Honours</html:em></html:p></fr:mainmatter></fr:tree>
   
 </fr:mainmatter></fr:tree>
   
@@ -74,7 +74,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Jie Fu</html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. <fr:link href="/jiefu/" title="Jie Fu" uri="https://mkiyoaki.github.io/jiefu/" display-uri="jiefu" type="local">Jie Fu</fr:link></html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
   <html:li><html:strong>RL Post-training</html:strong>: Scaled post-training algorithms on tens-of-GPUs clusters, leveraging and extending the VeRL framework to resolve long-context credit assignment from formal verifiers and mitigate reward hacking in RLVR.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 </fr:mainmatter></fr:tree>
@@ -87,7 +87,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. Andreas Vlachos</html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
   

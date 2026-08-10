@@ -1,10 +1,10 @@
 \title{Representation vs. Execution: SFT and RL under Distribution Shift}
-\taxon{Course Project}
+\taxon{Mini Project}
 \tag{Post-training}
 \tag{Reinforcement Learning}
 \import{macros}
 \meta{institution}{\ucam (L101)}
-\meta{position}{Supervisor: Prof. Andreas Vlachos}
+\meta{position}{Supervisor: Prof. \andreasvlachos}
 \date{2026}
 
 \ul{

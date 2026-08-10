@@ -13,7 +13,7 @@
     <fr:meta name="position">Oct 2025 - Present</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Grade: Distinction</html:p>
+    <html:p>Grade: <html:em>Distinction</html:em></html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -42,13 +42,13 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Distinction</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>Distinction</html:em></html:p></fr:mainmatter></fr:tree>
   
 
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: First Class Honours</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>First Class Honours</html:em></html:p></fr:mainmatter></fr:tree>
   
 </fr:mainmatter>
         </fr:tree>

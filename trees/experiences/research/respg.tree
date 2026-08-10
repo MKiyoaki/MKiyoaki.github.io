@@ -3,7 +3,7 @@
 \meta{institution}{Dep. Computer Science and Technology, \ucam}
 \meta{position}{Nov 2025 - Present}
 
-\p{Supervisor: Prof. Andreas Vlachos}
+\p{Supervisor: Prof. \andreasvlachos}
 
 \ul{
   \li{\strong{Reasoning Verification}: Formulated NLI-based reformulations for stepwise reasoning verification, demonstrating that discriminative SFT paradigms significantly outperform generative training.}

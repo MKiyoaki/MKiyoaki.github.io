@@ -5,6 +5,8 @@
 \def\kcl{[King's College London](https://www.kcl.ac.uk)}
 \def\shailab{[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn)}
 \def\ic{[Imperial College London](https://www.imperial.ac.uk)}
+\def\andreasvlachos{[Andreas Vlachos](andreasvlachos)}
+\def\jiefu{[Jie Fu](jiefu)}
 
 \def\mark[content]{\<html:mark>{\content}}
 

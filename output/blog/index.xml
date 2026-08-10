@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://mkiyoaki.github.io/blog/</fr:uri>
+    <fr:display-uri>blog</fr:display-uri>
+    <fr:route>/blog/</fr:route>
+    <fr:title text="Blog">Blog</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>
+  I maintain my personal <fr:link href="/bcollection/" title="Kiyoaki's website &gt; Blogs" uri="https://mkiyoaki.github.io/bcollection/" display-uri="bcollection" type="local">blogs</fr:link> as a collection of my thoughts or the articles I found interesting. 
+</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>10</fr:day>
+            </fr:date>
+            <fr:uri>https://mkiyoaki.github.io/bcollection/</fr:uri>
+            <fr:display-uri>bcollection</fr:display-uri>
+            <fr:route>/bcollection/</fr:route>
+            <fr:title text="Kiyoaki's website &gt; Blogs"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Blogs</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+  
+    
+    
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link></fr:author></fr:authors><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity"><html:em>In Defense of Curiosity</html:em></fr:title></fr:frontmatter><fr:mainmatter><html:p>
+  https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
+</html:p></fr:mainmatter></fr:tree>
+  
+</fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

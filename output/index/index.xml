@@ -114,6 +114,33 @@
             <fr:date>
               <fr:year>2026</fr:year>
               <fr:month>8</fr:month>
+              <fr:day>10</fr:day>
+            </fr:date>
+            <fr:uri>https://mkiyoaki.github.io/bcollection/</fr:uri>
+            <fr:display-uri>bcollection</fr:display-uri>
+            <fr:route>/bcollection/</fr:route>
+            <fr:title text="Kiyoaki's website &gt; Blogs"><fr:link href="/index/" title="Kiyoaki's website" uri="https://mkiyoaki.github.io/index/" display-uri="index" type="local">Kiyoaki's website</fr:link> &gt; Blogs</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+  
+    
+    
+    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link></fr:author></fr:authors><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity"><html:em>In Defense of Curiosity</html:em></fr:title></fr:frontmatter><fr:mainmatter><html:p>
+  https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
+</html:p></fr:mainmatter></fr:tree>
+  
+</fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>8</fr:month>
               <fr:day>7</fr:day>
             </fr:date>
             <fr:uri>https://mkiyoaki.github.io/cv/</fr:uri>
@@ -129,13 +156,13 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: Distinction</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu02/</fr:uri><fr:display-uri>edu02</fr:display-uri><fr:route>/edu02/</fr:route><fr:title text="MPhil in Advanced Computer Science">MPhil in Advanced Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Oct 2025 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>Distinction</html:em></html:p></fr:mainmatter></fr:tree>
   
 
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: First Class Honours</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/edu01/</fr:uri><fr:display-uri>edu01</fr:display-uri><fr:route>/edu01/</fr:route><fr:title text="BSc (Hons) in Computer Science">BSc (Hons) in Computer Science</fr:title><fr:meta name="institution"><fr:link href="https://www.kcl.ac.uk/" type="external">King's College London</fr:link></fr:meta><fr:meta name="position">Sep 2022 - Jul 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Grade: <html:em>First Class Honours</html:em></html:p></fr:mainmatter></fr:tree>
   
 </fr:mainmatter></fr:tree>
   
@@ -147,7 +174,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. Jie Fu</html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/ind01/</fr:uri><fr:display-uri>ind01</fr:display-uri><fr:route>/ind01/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution"><fr:link href="https://www.shlab.org.cn/" type="external">Shanghai Artificial Intelligence Laboratory</fr:link></fr:meta><fr:meta name="position">Jun 2025 - Sep 2025</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Dr. <fr:link href="/jiefu/" title="Jie Fu" uri="https://mkiyoaki.github.io/jiefu/" display-uri="jiefu" type="local">Jie Fu</fr:link></html:p><html:ul><html:li><html:strong>Code LLM</html:strong>: Extended GRPO to enhance LLM code generation capabilities with Dafny.</html:li>
   <html:li><html:strong>RL Post-training</html:strong>: Scaled post-training algorithms on tens-of-GPUs clusters, leveraging and extending the VeRL framework to resolve long-context credit assignment from formal verifiers and mitigate reward hacking in RLVR.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 </fr:mainmatter></fr:tree>
@@ -160,7 +187,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. Andreas Vlachos</html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
   
@@ -230,21 +257,21 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/ai-reasoning-verification/</fr:uri><fr:display-uri>ai-reasoning-verification</fr:display-uri><fr:route>/ai-reasoning-verification/</fr:route><fr:title text="AI Reasoning Verification: Stepwise Verification via NLI">AI Reasoning Verification: Stepwise Verification via NLI</fr:title><fr:taxon>Thesis</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Supervisor: Prof. Andreas Vlachos</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Reframed stepwise reasoning verification as local Natural Language Inference (NLI), employing fair comparison of language models with different architectures and training paradigms.</html:li>  
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/ai-reasoning-verification/</fr:uri><fr:display-uri>ai-reasoning-verification</fr:display-uri><fr:route>/ai-reasoning-verification/</fr:route><fr:title text="AI Reasoning Verification: Stepwise Verification via NLI">AI Reasoning Verification: Stepwise Verification via NLI</fr:title><fr:taxon>Thesis</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Reframed stepwise reasoning verification as local Natural Language Inference (NLI), employing fair comparison of language models with different architectures and training paradigms.</html:li>  
   <html:li>Results showed that discriminative supervision consistently outperforms generative verdict training across both encoder and decoder LMs. (Supported by the Alan Turing Institute).</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri><fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri><fr:route>/l101-sft-rl-mechanisms/</fr:route><fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title><fr:taxon>Course Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta><fr:meta name="position">Supervisor: Prof. Andreas Vlachos</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. </html:li>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri><fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri><fr:route>/l101-sft-rl-mechanisms/</fr:route><fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title><fr:taxon>Mini Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta><fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. </html:li>
   <html:li>Demonstrated that outcome-based RL restores syntactic compliance (98.2%) while latent causal rules remain internally encoded (66% probe accuracy) despite generative execution failure.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l193-sparse-feature-circuits/</fr:uri><fr:display-uri>l193-sparse-feature-circuits</fr:display-uri><fr:route>/l193-sparse-feature-circuits/</fr:route><fr:title text="Sparse Feature Circuits in Sycophantic Behaviour">Sparse Feature Circuits in Sycophantic Behaviour</fr:title><fr:taxon>Course Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L193)</fr:meta><fr:meta name="position">Supervisor: Prof. Mateja Jamnik</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Applied <fr:link href="https://arxiv.org/abs/2403.19647" type="external">Sparse Feature Circuits (SFC) and SHIFT framework</fr:link> with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. </html:li>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:date><fr:year>2026</fr:year></fr:date><fr:uri>https://mkiyoaki.github.io/l193-sparse-feature-circuits/</fr:uri><fr:display-uri>l193-sparse-feature-circuits</fr:display-uri><fr:route>/l193-sparse-feature-circuits/</fr:route><fr:title text="Sparse Feature Circuits in Sycophantic Behaviour">Sparse Feature Circuits in Sycophantic Behaviour</fr:title><fr:taxon>Mini Project</fr:taxon><fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L193)</fr:meta><fr:meta name="position">Supervisor: Prof. Mateja Jamnik</fr:meta></fr:frontmatter><fr:mainmatter><html:ul><html:li>Applied <fr:link href="https://arxiv.org/abs/2403.19647" type="external">Sparse Feature Circuits (SFC) and SHIFT framework</fr:link> with JumpReLU SAEs (Gemma Scope) on Gemma-2-2B to analyze model sycophancy across NLP, Philosophy, and Political domains. </html:li>
   <html:li>Showed that targeted ablation of <fr:tex display="inline"><![CDATA[10^2 - 10^3]]></fr:tex> sparse features reduces sycophancy rates from 85.2% to 45.2% with minimal capability degradation.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 

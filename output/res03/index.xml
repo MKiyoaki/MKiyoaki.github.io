@@ -11,7 +11,7 @@
     <fr:meta name="position">Aug 2026 - Present</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Supervisor: Prof. Andreas Vlachos</html:p>
+    <html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p>
     <html:ul>
       <html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li>
     </html:ul>
@@ -43,7 +43,7 @@
   
     
     
-    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. Andreas Vlachos</html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="true" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/res03/</fr:uri><fr:display-uri>res03</fr:display-uri><fr:route>/res03/</fr:route><fr:title text="Research Assistant">Research Assistant</fr:title><fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta><fr:meta name="position">Aug 2026 - Present</fr:meta></fr:frontmatter><fr:mainmatter><html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p><html:ul><html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li></html:ul></fr:mainmatter></fr:tree>
   
 
   
@@ -73,7 +73,24 @@
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/andreasvlachos/</fr:uri>
+            <fr:display-uri>andreasvlachos</fr:display-uri>
+            <fr:route>/andreasvlachos/</fr:route>
+            <fr:title text="Andreas Vlachos">Andreas Vlachos</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="institution">
+              <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>
+            </fr:meta>
+            <fr:meta name="position">Professor</fr:meta>
+            <fr:meta name="external">https://andreasvlachos.github.io</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

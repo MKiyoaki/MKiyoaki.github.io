@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://mkiyoaki.github.io/andreasvlachos/</fr:uri>
+    <fr:display-uri>andreasvlachos</fr:display-uri>
+    <fr:route>/andreasvlachos/</fr:route>
+    <fr:title text="Andreas Vlachos">Andreas Vlachos</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="institution">
+      <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>
+    </fr:meta>
+    <fr:meta name="position">Professor</fr:meta>
+    <fr:meta name="external">https://andreasvlachos.github.io</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2026</fr:year>
+            </fr:date>
+            <fr:uri>https://mkiyoaki.github.io/ai-reasoning-verification/</fr:uri>
+            <fr:display-uri>ai-reasoning-verification</fr:display-uri>
+            <fr:route>/ai-reasoning-verification/</fr:route>
+            <fr:title text="AI Reasoning Verification: Stepwise Verification via NLI">AI Reasoning Verification: Stepwise Verification via NLI</fr:title>
+            <fr:taxon>Thesis</fr:taxon>
+            <fr:meta name="institution">
+              <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link>
+            </fr:meta>
+            <fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:ul><html:li>Reframed stepwise reasoning verification as local Natural Language Inference (NLI), employing fair comparison of language models with different architectures and training paradigms.</html:li>  
+  <html:li>Results showed that discriminative supervision consistently outperforms generative verdict training across both encoder and decoder LMs. (Supported by the Alan Turing Institute).</html:li></html:ul>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2026</fr:year>
+            </fr:date>
+            <fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri>
+            <fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri>
+            <fr:route>/l101-sft-rl-mechanisms/</fr:route>
+            <fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title>
+            <fr:taxon>Mini Project</fr:taxon>
+            <fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta>
+            <fr:meta name="position">Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:ul><html:li>Investigated post-training dynamics (SFT vs. GRPO) under distributional shifts on Qwen2.5-1.5B using Structural Causal Models and layer-wise linear probing. </html:li>
+  <html:li>Demonstrated that outcome-based RL restores syntactic compliance (98.2%) while latent causal rules remain internally encoded (66% probe accuracy) despite generative execution failure.</html:li></html:ul>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/respg/</fr:uri>
+            <fr:display-uri>respg</fr:display-uri>
+            <fr:route>/respg/</fr:route>
+            <fr:title text="MPhil Thesis">MPhil Thesis</fr:title>
+            <fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta>
+            <fr:meta name="position">Nov 2025 - Present</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p>
+            <html:ul>
+              <html:li><html:strong>Reasoning Verification</html:strong>: Formulated NLI-based reformulations for stepwise reasoning verification, demonstrating that discriminative SFT paradigms significantly outperform generative training.</html:li>
+            </html:ul>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://mkiyoaki.github.io/res03/</fr:uri>
+            <fr:display-uri>res03</fr:display-uri>
+            <fr:route>/res03/</fr:route>
+            <fr:title text="Research Assistant">Research Assistant</fr:title>
+            <fr:meta name="institution">Dep. Computer Science and Technology, <fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link></fr:meta>
+            <fr:meta name="position">Aug 2026 - Present</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Supervisor: Prof. <fr:link href="/andreasvlachos/" title="Andreas Vlachos" uri="https://mkiyoaki.github.io/andreasvlachos/" display-uri="andreasvlachos" type="local">Andreas Vlachos</fr:link></html:p>
+            <html:ul>
+              <html:li><html:strong>LLM Reasoning</html:strong>: Researching post-training and RL algorithms with mechanistic interpretability to enable trustworthy and verifiable reasoning in LLMs.</html:li>
+            </html:ul>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
