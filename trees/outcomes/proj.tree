@@ -3,7 +3,18 @@
 \date{2026-08-07}
 \import{macros}
 
-\p{A collection of my research projects, course theses, and academic publications in LLM post-training and mechanistic interpretability.}
+\p{A collection of my research projects, course theses, and academic publications.}
+
+\ul{
+  \li{
+    \strong{Filter by Tag:} 
+    \mark{Mechanistic Interpretability} · 
+    \mark{Reinforcement Learning} · 
+    \mark{LLM Reasoning} · 
+    \mark{NLP} · 
+    \mark{AI4Science}
+  }
+}
 
 \section{projects}
 \section{publications}

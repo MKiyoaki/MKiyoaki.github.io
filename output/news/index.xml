@@ -68,7 +68,7 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:table>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/news/</fr:uri><fr:display-uri>news</fr:display-uri><fr:route>/news/</fr:route><fr:title text="News">News</fr:title></fr:frontmatter><fr:mainmatter><html:table>
   <html:tr>
     <html:th>Date</html:th>
     <html:th>Event</html:th>
@@ -87,7 +87,7 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/details/</fr:uri><fr:display-uri>details</fr:display-uri><fr:route>/details/</fr:route><fr:title text="Academic">Academic</fr:title></fr:frontmatter><fr:mainmatter><html:p>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/details/</fr:uri><fr:display-uri>details</fr:display-uri><fr:route>/details/</fr:route><fr:title text="Academic">Academic</fr:title></fr:frontmatter><fr:mainmatter><html:p>
   For a detailed overview of my academic background and research roles, please refer to my <fr:link href="/cv/" title="Kiyoaki's website &gt; Curriculum Vitæ" uri="https://mkiyoaki.github.io/cv/" display-uri="cv" type="local">Curriculum Vitæ</fr:link>. You may also explore my selected research projects and papers under <fr:link href="/proj/" title="Kiyoaki's website &gt; Projects &amp; Publications" uri="https://mkiyoaki.github.io/proj/" display-uri="proj" type="local">Projects &amp; Publications</fr:link>.
 </html:p></fr:mainmatter></fr:tree>
   
@@ -95,11 +95,7 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:table>
-  <html:tr>
-    <html:th>Channel</html:th>
-    <html:th>Details</html:th>
-  </html:tr>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/contact/</fr:uri><fr:display-uri>contact</fr:display-uri><fr:route>/contact/</fr:route><fr:title text="Contact">Contact</fr:title></fr:frontmatter><fr:mainmatter><html:table>
   <html:tr>
     <html:td>Academic, volatile</html:td>
     <html:td><html:code>ys690 AT cam DOT ac DOT uk</html:code></html:td>
@@ -114,7 +110,15 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/misc/</fr:uri><fr:display-uri>misc</fr:display-uri><fr:route>/misc/</fr:route><fr:title text="Misc. ">Misc. </fr:title></fr:frontmatter><fr:mainmatter><html:p>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/blog/</fr:uri><fr:display-uri>blog</fr:display-uri><fr:route>/blog/</fr:route><fr:title text="Blog">Blog</fr:title></fr:frontmatter><fr:mainmatter><html:p>
+  I maintain my personal <fr:link href="/bcollection/" title="Kiyoaki's website &gt; Blogs" uri="https://mkiyoaki.github.io/bcollection/" display-uri="bcollection" type="local">blogs</fr:link> as a collection of my thoughts or the articles I found interesting. 
+</html:p></fr:mainmatter></fr:tree>
+  
+
+  
+    
+    
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors /><fr:uri>https://mkiyoaki.github.io/misc/</fr:uri><fr:display-uri>misc</fr:display-uri><fr:route>/misc/</fr:route><fr:title text="Misc. ">Misc. </fr:title></fr:frontmatter><fr:mainmatter><html:p>
   Less professionally, I am an avid reader of modern fiction.
   My handle, Kiyoaki, is a tribute to the protagonist of one of my favourite books, <html:em>Spring Snow (春の雪)</html:em> by
   <fr:link href="https://en.wikipedia.org/wiki/Yukio_Mishima" type="external">Yukio Mishima (三島 由紀夫)</fr:link>.

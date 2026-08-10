@@ -4,10 +4,6 @@
 
 \<html:table>{
   \<html:tr>{
-    \<html:th>{Channel}
-    \<html:th>{Details}
-  }
-  \<html:tr>{
     \<html:td>{Academic, volatile}
     \<html:td>{\code{ys690 AT cam DOT ac DOT uk}}
   }

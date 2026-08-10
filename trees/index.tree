@@ -7,8 +7,8 @@
     \transclude{kiyoaki}
 }
 
-\section{news}
-\section{details}
-\section{contact}
-\section{misc}
-
+\numsection{news}
+\numsection{details}
+\numsection{contact}
+\numsection{blog}
+\numsection{misc}

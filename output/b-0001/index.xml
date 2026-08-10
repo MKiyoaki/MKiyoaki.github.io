@@ -59,7 +59,7 @@
   
     
     
-    <fr:tree show-metadata="false" numbered="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link></fr:author></fr:authors><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity"><html:em>In Defense of Curiosity</html:em></fr:title></fr:frontmatter><fr:mainmatter><html:p>
+    <fr:tree show-metadata="false" numbered="true"><fr:frontmatter><fr:authors><fr:author><fr:link href="/kiyoaki/" title="Yifei Shi" uri="https://mkiyoaki.github.io/kiyoaki/" display-uri="kiyoaki" type="local">Yifei Shi</fr:link></fr:author></fr:authors><fr:date><fr:year>2026</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:uri>https://mkiyoaki.github.io/b-0001/</fr:uri><fr:display-uri>b-0001</fr:display-uri><fr:route>/b-0001/</fr:route><fr:title text="In Defense of Curiosity"><html:em>In Defense of Curiosity</html:em></fr:title></fr:frontmatter><fr:mainmatter><html:p>
   https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html
 </html:p></fr:mainmatter></fr:tree>
   
