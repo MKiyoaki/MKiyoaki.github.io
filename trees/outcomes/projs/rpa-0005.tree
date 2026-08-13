@@ -1,0 +1,12 @@
+\title{Context-Sensitive Persona Control for LLM Agents}
+\taxon{Research Project}
+\tag{LLM Agents}
+\tag{NLP}
+\import{macros}
+\date{2026}
+
+\ul{
+  \li{Studying how stable persona constraints can induce context-sensitive behavior in LLM agents, rather than being expressed uniformly across situations.}
+  \li{Developing a training-free framework that dynamically identifies situation-relevant attributes and retrieves behavioral evidence to compile persona specifications into agent behavior.}
+  \li{Extending the framework toward a modular agent architecture that separates stable persona, transient internal state, and episodic memory.}
+}

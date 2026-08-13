@@ -42,9 +42,9 @@
             <fr:date>
               <fr:year>2026</fr:year>
             </fr:date>
-            <fr:uri>https://mkiyoaki.github.io/ai-reasoning-verification/</fr:uri>
-            <fr:display-uri>ai-reasoning-verification</fr:display-uri>
-            <fr:route>/ai-reasoning-verification/</fr:route>
+            <fr:uri>https://mkiyoaki.github.io/verification-0004/</fr:uri>
+            <fr:display-uri>verification-0004</fr:display-uri>
+            <fr:route>/verification-0004/</fr:route>
             <fr:title text="AI Reasoning Verification: Stepwise Verification via NLI">AI Reasoning Verification: Stepwise Verification via NLI</fr:title>
             <fr:taxon>Thesis</fr:taxon>
             <fr:meta name="institution">
@@ -63,9 +63,9 @@
             <fr:date>
               <fr:year>2026</fr:year>
             </fr:date>
-            <fr:uri>https://mkiyoaki.github.io/l101-sft-rl-mechanisms/</fr:uri>
-            <fr:display-uri>l101-sft-rl-mechanisms</fr:display-uri>
-            <fr:route>/l101-sft-rl-mechanisms/</fr:route>
+            <fr:uri>https://mkiyoaki.github.io/ptraining-0002/</fr:uri>
+            <fr:display-uri>ptraining-0002</fr:display-uri>
+            <fr:route>/ptraining-0002/</fr:route>
             <fr:title text="Representation vs. Execution: SFT and RL under Distribution Shift">Representation vs. Execution: SFT and RL under Distribution Shift</fr:title>
             <fr:taxon>Project</fr:taxon>
             <fr:meta name="institution"><fr:link href="https://www.cam.ac.uk/" type="external">University of Cambridge</fr:link> (L101)</fr:meta>
